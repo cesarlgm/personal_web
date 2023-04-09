@@ -89,7 +89,9 @@ My other work explores topics such as firms and earnings inequality, skill
 investment, and job training programs. 
 {style="text-align: justify;"}
 
-I am on the 2022-2023 economics job market and I will be available for interviews during the ASSA and EJME meetings. {style="text-align: justify;"}
+I am on the 2022-2023 economics job market and I will be available for
+interviews during the ASSA and EJME meetings. 
+{style="text-align: justify;"}
 
 I pronounce my name as [ˈse.saɾ]. 
 {style="text-align: justify;"}
