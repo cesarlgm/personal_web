@@ -84,7 +84,7 @@ My other work explores topics such as firms and earnings inequality, skill
 investment, and job training programs. 
 {style="text-align: justify;"}
 
-I will start as an **Early Career Researcher** at the [University of Edinburgh]{https://www.ed.ac.uk/economics} next Fall.
+I will start as an **Early Career Researcher** at the [University of Edinburgh](https://www.ed.ac.uk/economics) next Fall.
 {style="text-align: justify;"}
 
 I pronounce my name as [ˈse.saɾ]. 
