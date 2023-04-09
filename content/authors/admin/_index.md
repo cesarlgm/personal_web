@@ -3,8 +3,8 @@
 title: Alice Wu 吳恩達
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: César
+last_name: Garro-Marín
 
 # Status emoji
 status:
@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Boston University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
