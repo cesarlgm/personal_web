@@ -89,4 +89,6 @@ My research focuses on understanding how geography influences gender inequality.
 I am on the 2022-2023 economics job market and I will be available for interviews during the ASSA and EJME meetings.
 
 
-I pronounce my name as [ˈse.saɾ]. {style="text-align: justify;"}
+I pronounce my name as [ˈse.saɾ]. 
+
+{style="text-align: justify;"}
