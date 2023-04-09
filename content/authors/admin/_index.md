@@ -80,7 +80,10 @@ email: 'cesarlgm@bu.edu'
 highlight_name: true
 ---
 I am a Ph.D. candidate in Economics at Boston University. I am a labor economist who works in labor markets in both developed and developing countries. My research interests lie in both labor and development economics.
+
 My research focuses on understanding how geography influences gender inequality. My other work explores topics such as firms and earnings inequality, skill investment, and job training programs. 
+
 I am on the 2022-2023 economics job market and I will be available for interviews during the ASSA and EJME meetings.
+
 I pronounce my name as [ˈse.saɾ]. 
 {style="text-align: justify;"}
