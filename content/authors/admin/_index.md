@@ -6,10 +6,6 @@ title: César Garro-Marín
 first_name: César
 last_name: Garro-Marín
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -89,8 +85,7 @@ My other work explores topics such as firms and earnings inequality, skill
 investment, and job training programs. 
 {style="text-align: justify;"}
 
-I am on the 2022-2023 economics job market and I will be available for
-interviews during the ASSA and EJME meetings. 
+I will start as an Early Career Researcher at the University of Edinburgh next Fall.
 {style="text-align: justify;"}
 
 I pronounce my name as [ˈse.saɾ]. 
