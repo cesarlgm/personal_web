@@ -13,7 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: collection
-    id: posts
+    id: working-papers
     content:
       title: Working papers
       subtitle: ''
@@ -23,7 +23,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - working-papers
         author: ""
         category: ""
         tag: ""
