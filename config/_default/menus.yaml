@@ -8,10 +8,10 @@ main:
     url: 'authors/admin'
     weight: 10
   - name: Working papers
-    url: '#posts'
+    url: '#working-papers'
     weight: 20
   - name: Work in progress
-    url: '#projects'
+    url: '#work-in-progress'
     weight: 30
   - name: Teaching
     url: 'teaching'

@@ -12,7 +12,7 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
-  - block: collection
+  - block: portfolio
     id: working-papers
     content:
       title: Working papers
@@ -40,9 +40,9 @@ sections:
       view: compact
       columns: '2'
   - block: portfolio
-    id: projects
+    id: work-in-progress
     content:
-      title: Projects
+      title: work-in-progress
       filters:
         folders:
           - project
