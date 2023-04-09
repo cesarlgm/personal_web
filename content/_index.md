@@ -42,10 +42,10 @@ sections:
   - block: portfolio
     id: work-in-progress
     content:
-      title: work-in-progress
+      title: Work in Progress
       filters:
         folders:
-          - project
+          - work-in-progress
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
