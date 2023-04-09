@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: mr robot
-  theme_night: mr robot
+  theme_day: strawberry
+  theme_night: strawberry
   font: minimal
   font_size: L
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2023} César Garro-Marín'
     license:
       enable: true
       allow_derivatives: false
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/cesarlgm/personal_web'
     content_dir: content
     branch: main
   avatar:
