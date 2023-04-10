@@ -37,8 +37,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
-      columns: '2'
+      view: showcase
+      columns: '1'
   - block: portfolio
     id: work-in-progress
     content:
@@ -55,7 +55,7 @@ sections:
       # To remove the toolbar, delete the entire `filter_button` block.
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
+      columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
