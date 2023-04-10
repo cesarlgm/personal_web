@@ -72,7 +72,7 @@ social:
 email: 'cesarlgm@bu.edu'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 I am a Ph.D. candidate in Economics at Boston University. I am a labor economist
 who works in labor markets in both developed and developing countries. My
