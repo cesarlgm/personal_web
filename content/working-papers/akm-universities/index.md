@@ -2,6 +2,8 @@
 title: Do elite universities overpay their faculty?
 subtitle: 
 
+publication_types: ["2"]
+
 authors:
  -  admin
  -  Shulamit Kahn
