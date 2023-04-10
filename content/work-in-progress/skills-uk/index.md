@@ -29,8 +29,8 @@ image:
   preview_only: false
 
 authors:
-  - admin
   - Costas Cavounidis
+  - admin
   - Kevin Lang
   - Raghav Malhotra
 ---
