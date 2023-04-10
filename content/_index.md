@@ -37,7 +37,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: showcase
+      view: compact
       columns: '1'
   - block: portfolio
     id: work-in-progress
@@ -56,7 +56,7 @@ sections:
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
-      view: showcase
+      view: compact
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: contact
