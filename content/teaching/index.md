@@ -16,5 +16,3 @@ section:
     -title: University of Costa Rica
     -text: hello
 ---
-
-aa
