@@ -33,7 +33,7 @@ blockquote {
 }
 </style>
 
-<table border="1" width="100%" ID="Table2" cellspacing="0" cellpadding="0">
+<table border="0" width="100%" ID="Table2" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
             <td>**Boston University**</td>
