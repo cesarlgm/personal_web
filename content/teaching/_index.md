@@ -5,8 +5,9 @@ summary: Taught at Boston University and University of Costa Rica
 --
 
 
-<div style="width: 50%;"> 
+<div> 
   Column 1 content
-</div><div style="width: 50%;">
+</div>
+<div>
   Column 2 content
 g</div>.
