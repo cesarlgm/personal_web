@@ -5,10 +5,10 @@ summary: Taught at Boston University and University of Costa Rica
 ---
 
 
-<table>
+<table width="100%">
 <tbody>
 <tr>
-<td>
+<td >
 <p><strong>Boston University</strong></p>
 <p>Teaching Fellow</p>
 </td>
