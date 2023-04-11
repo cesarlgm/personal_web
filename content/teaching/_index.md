@@ -19,5 +19,15 @@ section:
     design:
       columns: '2'
 ---
-
-| a | b |
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
