@@ -36,8 +36,11 @@ blockquote {
 <table border="1" width="100%" ID="Table2" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
-            <td>The table body</td>
-            <td>with two columns</td>
+            <td>**Boston University**</td>
+            <td>
+              *Teaching Fellow*
+              - Hello
+            </td>
         </tr>
     </tbody>
 </table>
