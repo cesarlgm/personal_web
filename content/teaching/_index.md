@@ -33,12 +33,7 @@ blockquote {
 }
 </style>
 
-<table>
-    <thead>
-        <tr>
-            <th colspan="2">The table header</th>
-        </tr>
-    </thead>
+<table border="1" width="100%" ID="Table2" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
             <td>The table body</td>
