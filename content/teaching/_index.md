@@ -14,11 +14,13 @@ summary: Taught at Boston University and University of Costa Rica
 </td>
 <td>
 <p><strong>Graduate level</strong></p>
-<p>- Poverty and discrimination</p>
-<p>- A</p>
+<ul>
+  <li>Economics of labor markets</li>
+</ul>
 <p><strong>Undergraduate level</strong></p>
-<p><strong>- a</strong></p>
-<p><strong>- a</strong></p>
+<ul>
+  <li>Economics of labor markets</li>
+</ul>
 </td>
 </tr>
 <tr>
