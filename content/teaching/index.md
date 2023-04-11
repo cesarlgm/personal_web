@@ -13,11 +13,11 @@ external_link: ''
 ---
 
 ## University of Edinburgh
-# Edinburgh, Scotland, UK
+### Edinburgh, Scotland, UK
 
 ## Boston University
-# Boston, MA, USA
+### Boston, MA, USA
 
 
 ## University of Costa Rica
-# San José, Costa Rica
+### San José, Costa Rica
