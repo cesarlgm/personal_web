@@ -5,14 +5,14 @@ type: landing
 
 section: 
   - block: markdown
-  - id: bostonu
-  - content:
-    - title: Boston University
-    - subtitle: Teaching Assistant
-    - text: hello
-  -block: markdown
-  -id: ucr
-  -content:
-    -title: University of Costa Rica
-    -text: hello
+    id: bostonu
+    content:
+     title: Boston University
+     subtitle: Teaching Assistant
+     text: hello
+  - block: markdown
+    id: ucr
+    content:
+      title: University of Costa Rica
+      text: hello
 ---
