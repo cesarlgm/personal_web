@@ -1,7 +1,7 @@
 ---
 title: Teaching
 summary: Taught at Boston University and University of Costa Rica
-
+type: landing
 
 section: 
   - block: markdown
