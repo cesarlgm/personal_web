@@ -10,9 +10,9 @@ Adding text here
 <tbody>
 <tr>
 <td  style="vertical-align:top">
-<p><strong> <font size="+2">Boston University</strong></font><br>
-  Boston, MA, USA<br>
-  Teaching Fellow
+<p><strong> <font size="+1">Boston University</strong></font><br>
+  Teaching Fellow<br>
+  Boston, MA, USA
 </p>
 </td>
 <td>
@@ -29,9 +29,9 @@ Adding text here
 </tr>
 <tr>
 <td  style="vertical-align:top">
-<p><strong> <font size="+2">University of Costa Rica</strong></font><br>
-  San José, Costa Rica<br>
-  Lecturer
+<p><strong> <font size="+1">University of Costa Rica</strong></font><br>
+  Instructor (Lecturer) <br>
+  San José, Costa Rica
 </p>
 </td>
 <td>
