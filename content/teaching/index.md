@@ -10,4 +10,11 @@ section:
     - title: Boston University
     - subtitle: Teaching Assistant
     - text: hello
+  -block: markdown
+  -id: ucr
+  -content:
+    -title: University of Costa Rica
+    -text: hello
 ---
+
+aa
