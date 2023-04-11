@@ -11,6 +11,7 @@ Adding text here
 <tr>
 <td  style="vertical-align:top">
 <p><strong> <font size="+2">Boston University</strong></font><br>
+  Boston, MA, USA<br>
   Teaching Fellow
 </p>
 </td>
@@ -29,14 +30,14 @@ Adding text here
 <tr>
 <td  style="vertical-align:top">
 <p><strong> <font size="+2">University of Costa Rica</strong></font><br>
+  San José, Costa Rica<br>
   Lecturer
 </p>
 </td>
 <td>
-<p><strong>Undergraduate level</strong><br>
+<strong>Undergraduate level</strong><br>
 <ul>
   <li>  Principles of Economics, Spring 2014-Spring 2015</li>
 </ul>
-</p>
 </tbody>
 </table>
