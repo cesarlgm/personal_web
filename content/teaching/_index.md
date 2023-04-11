@@ -14,7 +14,7 @@ Write description here
 <td  style="vertical-align:top">
 <p><strong> <font size="+1">Boston University</strong></font><br>
   <i>Teaching Assistant</i><br>
-  <font size="-1">Boston, MA, USA</font>
+  <font size="0">Boston, MA, USA</font>
 </p>
 </td>
 <td>
@@ -34,7 +34,7 @@ Write description here
 <td  style="vertical-align:top">
 <p><strong> <font size="+1">University of Costa Rica</strong></font><br>
   <i>Instructor (Lecturer)</i> <br>
-  <font size="-1">San José, Costa Rica</font>
+  <font size="0">San José, Costa Rica</font>
 </p>
 </td>
 <td>
