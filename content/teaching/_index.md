@@ -15,7 +15,7 @@ Adding text here
 </p>
 </td>
 <td>
-<p><strong>Graduate level</strong>
+<strong>Graduate level</strong>
 <ul>
   <li>Economics of Labor Markets (Prof. Daniele Paserman), Spring 2020, Fall 2021.</li>
 </ul>
@@ -24,7 +24,6 @@ Adding text here
   <li>Poverty and Discrimination (Prof. Kevin Lang), Fall 2019.  </li>
   <li>Principles of Microeconomics (Prof. Todd Idson), Fall 2018, Spring 2019</li>
 </ul>
-</p>
 </td>
 </tr>
 <tr>
