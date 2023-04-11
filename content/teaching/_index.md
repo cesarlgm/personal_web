@@ -2,12 +2,9 @@
 title: Teaching
 summary: Taught at Boston University and University of Costa Rica
 
---
-
-
-<div> 
-  Column 1 content
-</div>
-<div>
+---
+<div style="width: 50%;">
+  Column 1 content</div>
+<div style="width: 50%;">
   Column 2 content
-g</div>.
+</div>.
