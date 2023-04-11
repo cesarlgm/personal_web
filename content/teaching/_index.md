@@ -6,14 +6,18 @@ summary: Taught at Boston University and University of Costa Rica
 
 ## Overview
 
-Write description here
+During my Ph.D. studies ath Boston University I had the opportunity of being a teaching assistant for classes
+at both the graduate and the undergraduate level. 
+
+Before my graduate studies, I also taught an introductory undergraduate
+economics class at the University of Costa Rica.
 
 <table width="100%">
 <tbody>
 <tr>
 <td  style="vertical-align:top" width="30%">
-<p><strong> <font size="+1" color="576CBC">Boston University</strong></font><br>
-  <i>Teaching Assistant</i><br>
+<p><strong> <font size="+1" color="#19376D">Boston University</strong></font><br>
+  <i><font color="#576CBC">Teaching Assistant</font></i><br>
   Boston, MA, USA
 </p>
 </td>
@@ -32,8 +36,8 @@ Write description here
 </tr>
 <tr>
 <td  style="vertical-align:top" width="30%">
-<p><strong> <font size="+1" color="576CBC">University of Costa Rica</strong></font><br>
-  <i>Instructor (Lecturer)</i> <br>
+<p><strong> <font size="+1" color="#19376D">University of Costa Rica</strong></font><br>
+  <i><font color="#576CBC">Instructor (Lecturer)</font></i> <br>
   San José, Costa Rica
 </p>
 </td>
