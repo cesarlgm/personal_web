@@ -9,16 +9,16 @@ summary: Taught at Boston University and University of Costa Rica
 <tbody>
 <tr>
 <td  style="vertical-align:top">
-<p><strong> <font size="+2">Boston University</strong></font>
-Teaching Fellow
+<p><strong> <font size="+2">Boston University</strong></font><br>
+  Teaching Fellow
 </p>
 </td>
 <td>
-<p><strong>Graduate level</strong></p>
+<p><strong>Graduate level</strong><br>
 <ul>
   <li>Economics of labor markets</li>
 </ul>
-<p><strong>Undergraduate level</strong></p>
+<strong>Undergraduate level</strong></p>
 <ul>
   <li>Economics of labor markets</li>
 </ul>
