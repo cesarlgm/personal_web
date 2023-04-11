@@ -4,21 +4,23 @@ summary: Taught at Boston University and University of Costa Rica
 
 ---
 
-Adding text here
+# Overview
+
+Write description here
 
 <table width="100%">
 <tbody>
 <tr>
 <td  style="vertical-align:top">
 <p><strong> <font size="+1">Boston University</strong></font><br>
-  Teaching Fellow<br>
+  <i>Teaching Fellow</i><br>
   Boston, MA, USA
 </p>
 </td>
 <td>
 <strong>Graduate level</strong>
 <ul>
-  <li>Economics of Labor Markets (Prof. Daniele Paserman), Spring 2020, Fall 2021.</li>
+  <li>Economics of Labor Markets (Prof. Daniele Paserman), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
 </ul>
 <strong>Undergraduate level</strong>
 <ul>
@@ -30,7 +32,7 @@ Adding text here
 <tr>
 <td  style="vertical-align:top">
 <p><strong> <font size="+1">University of Costa Rica</strong></font><br>
-  Instructor (Lecturer) <br>
+  <i>Instructor (Lecturer)</i> <br>
   San José, Costa Rica
 </p>
 </td>
