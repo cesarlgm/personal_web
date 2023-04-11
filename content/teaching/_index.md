@@ -11,7 +11,7 @@ Write description here
 <table width="100%">
 <tbody>
 <tr>
-<td  style="vertical-align:top">
+<td  style="vertical-align:top" width="30%">
 <p><strong> <font size="+1" color="576CBC">Boston University</strong></font><br>
   <i>Teaching Assistant</i><br>
   Boston, MA, USA
@@ -31,7 +31,7 @@ Write description here
 </td>
 </tr>
 <tr>
-<td  style="vertical-align:top">
+<td  style="vertical-align:top" width="30%">
 <p><strong> <font size="+1" color="576CBC">University of Costa Rica</strong></font><br>
   <i>Instructor (Lecturer)</i> <br>
   San José, Costa Rica
