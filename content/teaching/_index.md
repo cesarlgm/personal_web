@@ -19,3 +19,5 @@ section:
     design:
       columns: '2'
 ---
+
+| a | b |
