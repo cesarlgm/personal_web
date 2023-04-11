@@ -8,14 +8,14 @@ section:
     content:
      title: Boston University
      subtitle: Teaching Assistant
-     text: hello aaa
+     text: 'hello aaa'
      design:
       columns: '2'
   - block: markdown
     id: ucr
     content:
       title: University of Costa Rica
-      text: hello aaaa
+      text: 'hello aaaa'
     design:
       columns: '2'
 ---
