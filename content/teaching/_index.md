@@ -9,7 +9,7 @@ summary: Taught at Boston University and University of Costa Rica
 <tbody>
 <tr>
 <td >
-<p><strong>Boston University</strong></p>
+<p><strong> <font size="+2">Boston University</strong></font></p>
 <p>Teaching Fellow</p>
 </td>
 <td>
