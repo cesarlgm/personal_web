@@ -1,16 +1,14 @@
 ---
 title: Teaching
 summary: Taught at Boston University and University of Costa Rica
-
 ---
 
 ## Overview
 
-During my Ph.D. studies ath Boston University I had the opportunity of being a teaching assistant for classes
+During my Ph.D. studies at Boston University, I had the opportunity of being a teaching assistant for classes
 at both the graduate and the undergraduate level. 
 
-Before my graduate studies, I also taught an introductory undergraduate
-economics class at the University of Costa Rica.
+Before my graduate studies, I also taught an introductory undergraduate economics class at the University of Costa Rica.
 
 <table width="100%">
 <tbody>
