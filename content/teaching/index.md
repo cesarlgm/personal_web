@@ -3,8 +3,6 @@ title: Teaching
 summary: Taught at Boston University and University of Costa Rica
 ---
 
-## Overview
-
 During my Ph.D. studies at Boston University, I had the opportunity of being a teaching assistant for classes
 at both the graduate and the undergraduate level. 
 
