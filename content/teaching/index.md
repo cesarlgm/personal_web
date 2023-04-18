@@ -13,7 +13,7 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 <tr>
 <td  style="vertical-align:top" width="30%">
 <p><strong> <font size="+1" color="#19376D">Boston University</strong></font><br>
-  <font color="#576CBC">Teaching Assistant</font><br>
+  <font color="#F45050">Teaching Assistant</font><br>
   Boston, MA, USA
 </p>
 </td>
