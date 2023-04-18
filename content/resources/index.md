@@ -1,6 +1,7 @@
 ---
 title: Resources
 summary: Coding and economics resources
+draft: true
 ---
 
 This is a summary of resources I have used or found useful.
