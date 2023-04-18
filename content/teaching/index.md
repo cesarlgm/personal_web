@@ -26,14 +26,14 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 <ul>
   <li><u>Poverty and Discrimination</u> (<a href="https://sites.bu.edu/kevinlang/">Prof. Kevin Lang</a>), Fall 2019. <br> 
   This class examines who is poor in the United States and how the evidence of poverty has changed over time. </li>
-  <li><u>Principles of Microeconomics</u> (Prof. Todd Idson), Fall 2018, Spring 2019 <u> Class introducing students to basic micro and macroeconomic topics in economics.</li>
+  <li><u>Principles of Microeconomics</u> (Prof. Todd Idson), Fall 2018-Spring 2019 <br> Class introducing students to basic micro and macroeconomic topics in economics.</li>
 </ul>
 </td>
 </tr>
 <tr>
 <td  style="vertical-align:top" width="30%">
 <p><strong> <font size="+1" color="#19376D">University of Costa Rica</strong></font><br>
-  <i><font color="#576CBC">Instructor (Lecturer)</font></i> <br>
+  <font color="#576CBC">Instructor (Lecturer)</font> <br>
   San José, Costa Rica
 </p>
 </td>
