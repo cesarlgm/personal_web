@@ -18,15 +18,15 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 </p>
 </td>
 <td>
-<strong>Graduate level</strong>
+<strong><font size="+1" color="#19376D">Graduate level </font></strong>
 <ul>
   <li><u>Economics of Labor Markets</u> (<a href="https://people.bu.edu/paserman/">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
 </ul>
-<strong>Undergraduate level</strong>
+<strong><font size="+1" color="#19376D">Undergraduate level </font></strong>
 <ul>
-  <li>Poverty and Discrimination (<a href="https://sites.bu.edu/kevinlang/">Prof. Kevin Lang</a>), Fall 2019. <br> 
+  <li><u>Poverty and Discrimination</u> (<a href="https://sites.bu.edu/kevinlang/">Prof. Kevin Lang</a>), Fall 2019. <br> 
   This class examines who is poor in the United States and how the evidence of poverty has changed over time. </li>
-  <li>Principles of Microeconomics (Prof. Todd Idson), Fall 2018, Spring 2019</li>
+  <li><u>Principles of Microeconomics</u> (Prof. Todd Idson), Fall 2018, Spring 2019 <u> Class introducing students to basic micro and macroeconomic topics in economics.</li>
 </ul>
 </td>
 </tr>
@@ -38,9 +38,9 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 </p>
 </td>
 <td>
-<strong>Undergraduate level</strong><br>
+<strong><font size="+1" color="#19376D">Undergraduate level</font></strong><br>
 <ul>
-  <li>  Principles of Economics, Spring 2014-Spring 2015<br>Class that introduced non-economics majors to basic economic concepts.</li>
+  <li> <u>Principles of Economics</u>, Spring 2014-Spring 2015<br>Class that introduced non-economics majors to basic economic concepts.</li>
 </ul>
 </tbody>
 </table>
