@@ -1,0 +1,3 @@
+Note: I created the icon using the website below
+
+https://ui-avatars.com/api/?name=Cesar+Garro+Marin&length=3&size=512&rounded=true&font-size=.4&background=3C486B&color=F0F0F0&bold=true
