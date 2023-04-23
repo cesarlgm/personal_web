@@ -1,5 +1,5 @@
 ---
-title: "Improving the Ling Between Vocational Schools and Industry: Evaluation of Teacher Training in Indonesia"
+title: "Improving the Link Between Vocational Schools and Industry: Evaluation of Teacher Training in Indonesia"
 date: 2019-07-12
 math: true
 
