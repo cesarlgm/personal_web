@@ -3,7 +3,7 @@ title: "The Geography of Women's Opportunity: Evidence from Indonesia"
 subtitle:
 
 # Summary for listings and search engines
-summary: I use rich individual-level data from Indonesia to study how childhood exposure to local labor markets affect the labor supply decisions of adult women.
+summary: I use rich individual-level data from Indonesia to show that childhood exposure to local labor markets has strong and persistent effects on the the labor supply decisions of adult women.
 
 # Link this post with a project
 
