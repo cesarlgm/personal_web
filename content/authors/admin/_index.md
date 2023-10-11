@@ -74,7 +74,8 @@ email: 'cesarlgm@bu.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am an Early Career Researcher at the University of Edinburgh. I am a labor economist who works in labor markets in both developed and developing countries. My research interests lie in both labor and development economics. I hold a Ph.D. from Boston University.
+I am an **Early Career Researcher** at the [School of Economics of
+the University of Edinburgh](https://www.ed.ac.uk/economics). I am a labor economist who works in labor markets in both developed and developing countries. My research interests lie in both labor and development economics. I hold a Ph.D. from Boston University.
 {style="text-align: justify;"}
 
 My research focuses on understanding how geography influences gender inequality.
