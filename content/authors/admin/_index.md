@@ -31,7 +31,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: Boston University
-      year: 2023 (expected)
+      year: 2023
     - course: Master in Economics and Finance
       institution: CEMFI
       year: 2017
@@ -74,18 +74,12 @@ email: 'cesarlgm@bu.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a Ph.D. candidate in Economics at Boston University. I am a labor economist
-who works in labor markets in both developed and developing countries. My
-research interests lie in both labor and development economics. 
+I am an Early Career Researcher at the University of Edinburgh. I am a labor economist who works in labor markets in both developed and developing countries. My research interests lie in both labor and development economics. I hold a Ph.D. from Boston University.
 {style="text-align: justify;"}
 
 My research focuses on understanding how geography influences gender inequality.
 My other work explores topics such as firms and earnings inequality, skill
 investment, and job training programs. 
-{style="text-align: justify;"}
-
-I will start as an **Early Career Researcher** at the [School of Economics of
-the University of Edinburgh](https://www.ed.ac.uk/economics) next Fall.
 {style="text-align: justify;"}
 
 I pronounce my name as [ˈse.saɾ]. 
