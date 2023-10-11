@@ -61,7 +61,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
+    theme_light: cyberpunk
     theme_dark: dracula
   math:
     enable: false
