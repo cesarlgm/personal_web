@@ -3,13 +3,24 @@ title: Teaching
 summary: Taught at Boston University and University of Costa Rica
 ---
 
-During my Ph.D. studies at Boston University, I had the opportunity of being a teaching assistant for classes
-at both the graduate and the undergraduate level. 
-
-Before my graduate studies, I also taught an introductory undergraduate economics class at the University of Costa Rica.
-
 <table width="100%">
 <tbody>
+<tr>
+<td  style="vertical-align:top" width="30%">
+<p><strong> <font size="+1" color="#19376D">University of Edinburgh</strong></font><br>
+  <font color="#F45050">Instructor</font><br>
+  Edinburgh, UK
+</p>
+</td>
+<td>
+<strong><font size="+1" color="#F45050">Undergraduate level </font></strong>
+<ul>
+  <li><u>Applied Labour Economics</u>, Fall 2023. <br> 
+  This class introduces students to questions and empirical methods in Labor Economics. </li>
+</ul>
+</td>
+</tr>
+<tr>
 <tr>
 <td  style="vertical-align:top" width="30%">
 <p><strong> <font size="+1" color="#19376D">Boston University</strong></font><br>

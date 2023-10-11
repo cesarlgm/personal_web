@@ -14,8 +14,8 @@ role: Ph.D. candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Boston University
-    url: https://www.bu.edu/econ/
+  - name: University of Edinburgh
+    url: https://www.https://www.ed.ac.uk/economics
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include topics in Labor, Development, and Gender Economics.
