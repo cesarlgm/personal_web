@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: mr robot
-  theme_night: mr robot
-  font: minimal
+  theme_day: custom
+  theme_night:
+  font: rose
   font_size: L
 
 # SEO
@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
-    twitter: 'csargarr'
+    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2023 César Garro-Marín'
+    notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -61,14 +61,14 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: cyberpunk
+    theme_light: github-light
     theme_dark: dracula
   math:
     enable: false
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/cesarlgm/personal_web'
+    url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
   avatar:
@@ -87,7 +87,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
@@ -107,8 +107,8 @@ extensions:
   academicons:
     enable: true
 
-# Security
+# Citation style
 
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+publications:
+  date_format: January 2006
+  citation_style: apa
