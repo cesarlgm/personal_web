@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: César Garro-Marín
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Early Career Researcher (Postdoc)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Edinburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
