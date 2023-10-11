@@ -10,7 +10,7 @@ last_name: Garro-Marín
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate in Economics
+role: Early Career Researcher (Postdoc)
 
 # Organizations/Affiliations to show in About widget
 organizations:

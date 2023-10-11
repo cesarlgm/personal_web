@@ -64,15 +64,14 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: cesarlgm@bu.edu
-      appointment_url: 'https://calendly.com/cesarlgm'
+      email: cgarrom@ed.ac.uk
+      appointment_url: 'https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2'
       address:
-        street: Office 515, 270 Bay State Road
-        city: Boston
-        region: MA
-        postcode: '02135'
-        country: United States
-        country_code: US
+        street: Office 4.18, 31 Buccleuch Place
+        city: Edinburgh
+        postcode: 'EH8 9JS'
+        country: United Kingdom
+        country_code: UK
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
