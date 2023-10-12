@@ -32,6 +32,8 @@ image:
 
 authors:
 - admin
+- [Masyhur Hilmy](https://sites.google.com/view/masyhurhilmy)
+
 
 categories:
 - Gender
