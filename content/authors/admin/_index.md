@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cgarrom@ed.ac.uk'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:cgarrom@ed.ac.uk  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://www.github.com/cesarlgm
