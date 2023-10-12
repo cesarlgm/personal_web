@@ -24,7 +24,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: ''
+      title: 'Welcome'
       subtitle: ''
       text: |-
 
