@@ -1,8 +1,9 @@
 ---
-title: Teaching
+title: 
 summary: Taught at Boston University and University of Costa Rica
 ---
 
+##Office Hours##
 My office hours schedule during Fall 2023 is:
 - **Essentials of Econometrics Helpdek**: Mondays, 9:00 to 9:50 am at B.19, 5
   Forrest Hill.
@@ -11,6 +12,9 @@ My office hours schedule during Fall 2023 is:
   to 1:30 pm. 
   You can book a slot (<a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>)
 
+
+
+##Teaching##
 <table width="100%">
 <tbody>
 <tr>
