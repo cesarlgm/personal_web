@@ -58,7 +58,7 @@ summary: Taught at Boston University and University of Costa Rica
 </table>
 
 
-# Office Hours #
+## Office Hours ##
 My office hours schedule during **Fall 2023** is:
 
 
@@ -72,7 +72,7 @@ My office hours schedule during **Fall 2023** is:
 </td>
 <td>
 <ul>
-  <a href="https://maps.app.goo.gl/1ikP2BF3JVKoxMRH6">Room B.19, 5 Forrest Hill</a>
+  <a href="https://maps.app.goo.gl/1ikP2BF3JVKoxMRH6"> <i class="fa-sharp fa-solid fa-location-pin"></i> Room B.19, 5 Forrest Hill</a>
   <li>Mondays, 9:00 to 9:50 am</li>
 </ul>
 </td>
@@ -85,7 +85,7 @@ My office hours schedule during **Fall 2023** is:
 </td>
 <td>
 <ul>
-  (<a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5">Room 2.11, 31 Buccleuch Place</a>)
+  <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>
   <li>Mondays 10:00 to 10:50 am, </li>
 </ul>
 </td>
