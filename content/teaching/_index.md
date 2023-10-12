@@ -12,8 +12,8 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 <tbody>
 <tr>
 <td  style="vertical-align:top" width="30%">
-<p><strong> <font size="+1">Boston University</strong></font><br>
-  <strong><font color="#F45050">Teaching Assistant</font><br></strong>
+<p><strong> <font size="+2">Boston University</strong></font><br>
+  <strong><font size="+1" color="#F45050">Teaching Assistant</font><br></strong>
   Boston, MA, USA
 </p>
 </td>
@@ -32,8 +32,8 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 </tr>
 <tr>
 <td  style="vertical-align:top" width="30%">
-<p><strong> <font size="+1"  >University of Costa Rica</strong></font><br>
-  <strong><font color="#F45050">Instructor (Lecturer)</font> </strong><br>
+<p><strong> <font size="+2"  >University of Costa Rica</strong></font><br>
+  <strong><font color="#F45050" size="+1">Instructor (Lecturer)</font> </strong><br>
   San José, Costa Rica
 </p>
 </td>
