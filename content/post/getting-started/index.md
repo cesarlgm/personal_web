@@ -26,7 +26,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ""
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
 - admin
