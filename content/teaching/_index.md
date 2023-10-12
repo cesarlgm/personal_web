@@ -12,6 +12,16 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 <tbody>
 <tr>
 <td  style="vertical-align:top" width="30%">
+<p><strong> <font size="+2">University of Edinburgh</strong></font><br>
+  <strong><font size="+1" color="#F45050">Instructor</font><br></strong>
+  Edinburgh, Scotland, UK
+</p>
+</td>
+<td>
+<strong><font size="+1" color="#F45050">Undergraduate level </font></strong>
+<ul>
+  <li><u>Applied Labour Economics</u>,  Fall 2023. <br> Fourth-year elective introducing students to major topics and empirical methods in labor economics</li>
+</ul>
 <p><strong> <font size="+2">Boston University</strong></font><br>
   <strong><font size="+1" color="#F45050">Teaching Assistant</font><br></strong>
   Boston, MA, USA
