@@ -66,7 +66,7 @@ sections:
 
   - block: collection
     content:
-      title: Working papers
+      title: Work in progress
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
