@@ -39,7 +39,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Recent News
+      title: Working papers
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -63,4 +63,8 @@ sections:
       # Choose a layout view
       view: compact
       columns: '1'
+
+    - block: collection
+      content: 
+      title: Work in progress
 ---
