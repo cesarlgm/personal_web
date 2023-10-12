@@ -39,7 +39,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Working papers
+      title: working_papers
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -70,7 +70,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: working_papers
+      page_type: work_in_progress
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
