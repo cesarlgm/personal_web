@@ -39,11 +39,11 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: working_papers
+      title: Working papers
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: working_papers
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
