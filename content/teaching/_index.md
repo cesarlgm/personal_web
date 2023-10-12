@@ -71,8 +71,8 @@ My office hours schedule during **Fall 2023** is:
 <table width="100%">
 <tbody>
 <tr>
-<td  style="vertical-align:top" width="30%">
-<p><strong> <font size="+2">Essentials of Econometrics Helpdesk</strong></font><br>
+<td  style="vertical-align:top" width="40%">
+<p><strong> <font size="+0">Essentials of Econometrics Helpdesk</strong></font><br>
   Room B.19, (<a href="https://maps.app.goo.gl/1ikP2BF3JVKoxMRH6">5 Forrest Hill</a>)
   Walk-in
 </p>
@@ -84,8 +84,8 @@ My office hours schedule during **Fall 2023** is:
 </td>
 </tr>
 <tr>
-<td  style="vertical-align:top" width="30%">
-<p><strong> <font size="+2">Applied Labour Economics</strong></font><br>
+<td  style="vertical-align:top" width="40%">
+<p><strong> <font size="+0">Applied Labour Economics</strong></font><br>
   Room 2.11, (<a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5">31 Buccleuch Place</a>)
   Walk-in
 </p>
@@ -97,7 +97,7 @@ My office hours schedule during **Fall 2023** is:
 </td>
 </tr>
 <tr>
-<td  style="vertical-align:top" width="30%">
+<td  style="vertical-align:top" width="40%">
 <p><strong> <font size="+2"  >Dissertation supervision</strong></font><br>
   <strong><font color="#F45050" size="+1">Instructor (Lecturer)</font> </strong><br>
   San José, Costa Rica
