@@ -13,16 +13,13 @@ date_end: "2030-06-01T15:00:00Z"
 event: Wowchemy Conference
 event_url: https://example.org
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 location: Wowchemy HQ
 math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
-title: Example Talk
+title: Applied Labour Economics
 url_code: ""
 url_pdf: ""
 url_slides: ""
