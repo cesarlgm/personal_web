@@ -68,3 +68,47 @@ My office hours schedule during **Fall 2023** is:
   You can book a slot (<a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>)
 
 
+<table width="100%">
+<tbody>
+<tr>
+<td  style="vertical-align:top" width="30%">
+<p><strong> <font size="+2">Essentials of Econometrics Helpdesk</strong></font><br>
+  Room B.19, (<a href="https://maps.app.goo.gl/1ikP2BF3JVKoxMRH6">5 Forrest Hill</a>)
+  Walk-in
+</p>
+</td>
+<td>
+<ul>
+  <li>Mondays, 9:00 to 9:50 am</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td  style="vertical-align:top" width="30%">
+<p><strong> <font size="+2">Applied Labour Economics</strong></font><br>
+  Room 2.11, (<a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5">31 Buccleuch Place</a>)
+  Walk-in
+</p>
+</td>
+<td>
+<ul>
+  <li>Mondays 10:00 to 10:50 am, </li>
+</ul>
+</td>
+</tr>
+<tr>
+<td  style="vertical-align:top" width="30%">
+<p><strong> <font size="+2"  >Dissertation supervision</strong></font><br>
+  <strong><font color="#F45050" size="+1">Instructor (Lecturer)</font> </strong><br>
+  San José, Costa Rica
+</p>
+</td>
+<td>
+<strong><font size="+1" color="#F45050">Undergraduate level</font></strong><br>
+<ul>
+  <li> <u>Principles of Economics</u>, Spring 2014-Spring 2015<br>Class that introduced non-economics majors to basic economic concepts.</li>
+</ul>
+</tbody>
+</table>
+
+
