@@ -3,10 +3,13 @@ title: Teaching
 summary: Taught at Boston University and University of Costa Rica
 ---
 
-During my Ph.D. studies at Boston University, I had the opportunity of being a teaching assistant for classes
-at both the graduate and the undergraduate level. 
-
-Before my graduate studies, I also taught an introductory undergraduate economics class at the University of Costa Rica.
+My office hours schedule during Fall 2023 is:
+- **Essentials of Econometrics Helpdek**: Mondays, 9:00 to 9:50 am at B.19, 5
+  Forrest Hill.
+- **Applied Labour Economics:** walk-in, Mondays, 10:00 to 11:00 am at 2.11, 31 Buccleuch Place.
+- **Dissertation supervision:** by appointment, Tuedays, 1:00 pm to 2:00 pm, Wednesdays 11:30 am
+  to 1:30 pm. 
+  You can book a slot (<a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>)
 
 <table width="100%">
 <tbody>
@@ -20,10 +23,8 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 <td>
 <strong><font size="+1" color="#F45050">Undergraduate level </font></strong>
 <ul>
-  <li><u>Applied Labour Economics</u>,  Fall 2023. <br> Fourth-year elective introducing students to major topics and empirical methods in labor economics</li>
-</ul>
-<ul>
-  <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised undergraduate dissertation work</li>
+  <li><u>Applied Labour Economics</u>,  Fall 2023. <br> Third-year elective introducing students to major topics and empirical methods in labor economics</li>
+  <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised dissertation work from fourth-year undergraduate students</li>
 </ul>
 </td>
 </tr>
