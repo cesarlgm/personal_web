@@ -22,6 +22,9 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 <ul>
   <li><u>Applied Labour Economics</u>,  Fall 2023. <br> Fourth-year elective introducing students to major topics and empirical methods in labor economics</li>
 </ul>
+<ul>
+  <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised undergraduate dissertation work</li>
+</ul>
 </td>
 </tr>
 <tr>
