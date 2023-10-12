@@ -26,7 +26,6 @@ Before my graduate studies, I also taught an introductory undergraduate economic
 </tr>
 <tr>
 <td  style="vertical-align:top" width="30%">
-<td>
 <p><strong> <font size="+2">Boston University</strong></font><br>
   <strong><font size="+1" color="#F45050">Teaching Assistant</font><br></strong>
   Boston, MA, USA
