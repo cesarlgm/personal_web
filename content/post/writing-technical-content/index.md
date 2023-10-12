@@ -39,6 +39,8 @@ links:
 
 authors:
 - admin
+- Kevin Lang
+- Shulamit Kahn
 
 categories:
 - Education
