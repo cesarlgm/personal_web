@@ -1,5 +1,5 @@
 ---
-title: "Education and Skill Investment"
+title: "Improving the Link between Vocational Schools and Industry: Evaluation of a Teacher Training in Indonesia"
 subtitle: In this paper, I use rich data from Indonesia to show that the place women grow up in shapes their participation in the labor market as adults
 
 # Summary for listings and search engines
@@ -22,22 +22,14 @@ slides:
 
 pdf:
 
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
-  placement: 2
-  preview_only: true
 
 authors:
 - admin
-- Masyhur Hilmy
-
+- '[Masyhur Hilmy](https://sites.google.com/view/masyhurhilmy)'
 
 categories:
-- Gender
-- Place
+- Education
+- Indonesia
 ---
 
 ## Write summary of the paper here
