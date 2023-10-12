@@ -24,12 +24,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Welcome 👋'
+      title: ''
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Thank you for visiting my personal webpage!
 
-        **Specialties:** Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+        I am an Early Career Researcher at the University of Edinburgh. I am a labor economist who works in labor markets in both developed and developing countries. My research interests lie in both labor and development economics. I hold a Ph.D. from Boston University.
+
+        My research focuses on understanding how geography influences gender inequality. My other work explores topics such as firms and earnings inequality, skill investment, and job training programs. 
+
+        I pronounce my name as [ˈse.saɾ].
     design:
       columns: '1'
   - block: collection
