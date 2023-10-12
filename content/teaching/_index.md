@@ -58,7 +58,7 @@ summary: Taught at Boston University and University of Costa Rica
 </table>
 
 
-## Office Hours ##
+# Office Hours #
 My office hours schedule during **Fall 2023** is:
 
 
@@ -72,7 +72,7 @@ My office hours schedule during **Fall 2023** is:
 </td>
 <td>
 <ul>
-  Room B.19, (<a href="https://maps.app.goo.gl/1ikP2BF3JVKoxMRH6">5 Forrest Hill</a>)
+  <a href="https://maps.app.goo.gl/1ikP2BF3JVKoxMRH6">Room B.19, 5 Forrest Hill</a>
   <li>Mondays, 9:00 to 9:50 am</li>
 </ul>
 </td>
@@ -85,7 +85,7 @@ My office hours schedule during **Fall 2023** is:
 </td>
 <td>
 <ul>
-  Room 2.11, (<a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5">31 Buccleuch Place</a>)
+  (<a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5">Room 2.11, 31 Buccleuch Place</a>)
   <li>Mondays 10:00 to 10:50 am, </li>
 </ul>
 </td>
@@ -98,9 +98,10 @@ My office hours schedule during **Fall 2023** is:
 </td>
 <td>
 <ul>
-  You can book your slot (<a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>). Regular slots are avaiable on:
+  You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>. Regular slots are avaiable on:
   <li>Tuesdays 1:00 to 2:00 am, </li>
   <li>Wednesdays 11:30 to 1:30 am, </li>
+  Location for in-person meetings will be announced after booking.
 </ul>
 </tbody>
 </table>
