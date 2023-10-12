@@ -31,6 +31,7 @@ Before my graduate studies, I also taught an introductory undergraduate economic
   <strong><font size="+1" color="#F45050">Teaching Assistant</font><br></strong>
   Boston, MA, USA
 </p>
+</td>
 <strong><font size="+1" color="#F45050">Graduate level </font></strong>
 <ul>
   <li><u>Economics of Labor Markets</u> (<a href="https://people.bu.edu/paserman/">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
