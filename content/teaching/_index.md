@@ -27,6 +27,9 @@ Before my graduate studies, I also taught an introductory undergraduate economic
   Boston, MA, USA
 </p>
 </td>
+</tr>
+<tr>
+<td  style="vertical-align:top" width="30%">
 <td>
 <strong><font size="+1" color="#F45050">Graduate level </font></strong>
 <ul>
