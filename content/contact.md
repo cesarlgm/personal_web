@@ -6,8 +6,7 @@ date: 2022-10-25
 sections:
   - block: contact
     content:
-      title: Feel free to contact me!
-      email: 'mailto:cgarrom@ed.ac.uk'
+      email: cgarrom@ed.ac.uk
       appointment_url: 'https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2'
       address:
         street: 31 Buccleuch Place
