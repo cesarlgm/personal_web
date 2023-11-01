@@ -68,6 +68,7 @@ summary: Taught at Boston University and University of Costa Rica
 # Office Hours #
 
 <hr>
+
 My office hours schedule during **Fall 2023** is:
 
 
