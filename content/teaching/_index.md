@@ -109,8 +109,8 @@ My office hours schedule during **Fall 2023** is:
 <td>
 <ul>
   You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>. Regular slots are avaiable on:
-  <li>Tuesdays 1:00 to 2:00 am, </li>
-  <li>Wednesdays 11:30 to 1:30 am, </li>
+  <li>Tuesdays 1:00 pm to 2:00 pm, </li>
+  <li>Wednesdays 11:30 am to 1:30 pm, </li>
   Location for in-person meetings will be announced after booking.
 </ul>
 </tbody>
