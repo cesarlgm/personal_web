@@ -5,6 +5,7 @@ summary: Taught at Boston University and University of Costa Rica
 
 
 # Teaching #
+<hr>
 <table width="100%">
 <tbody>
 <tr>
@@ -56,13 +57,12 @@ summary: Taught at Boston University and University of Costa Rica
 </ul>
 </tbody>
 </table>
-
-<br/>
 <hr>
+
 <br/>
 
-
-# Office Hours #
+## Office Hours ##
+<hr>
 My office hours schedule during **Fall 2023** is:
 
 
