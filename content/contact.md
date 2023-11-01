@@ -6,13 +6,9 @@ date: 2022-10-25
 sections:
   - block: contact
     content:
-      title: Contact
-      subtitle:
-      text: |-
-        Feel free to contact me!
-      # Contact (add or remove contact options as necessary)
-      email: cgarrom@ed.ac.uk
-      appointment_url: 'https://calendly.com'
+      title: Feel free to contact me!
+      email: 'mailto:cgarrom@ed.ac.uk'
+      appointment_url: 'https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2'
       address:
         street: 31 Buccleuch Place
         city: Edinburgh
@@ -28,15 +24,6 @@ sections:
 
       # Automatically link email and phone or display as text?
       autolink: true
-      
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
         
     design:
       columns: '1'
