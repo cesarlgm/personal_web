@@ -4,7 +4,7 @@ date: 2019-07-12
 subtitle: 
 
 # Summary for listings and search engines
-summary: "The urban wage premium for men without a college degree has significantly declined in the United States since the 1980s, while women's did not."
+summary: "The urban wage premium for men without a college degree has significantly declined in the United States since the 1980s, while women's did not"
 
 
 
