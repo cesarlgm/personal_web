@@ -4,7 +4,7 @@ date: 2019-07-12
 subtitle: 
 
 # Summary for listings and search engines
-summary: "This paper studies the interaction between gender and the urban wage premium in the United States"
+summary: "The urban wage premium for men without a college degree has significantly declined in the United States since the 1980s, while women's did not."
 
 
 
@@ -19,10 +19,6 @@ draft: false
 
 # Show this page in the Featured widget?
 featured: false
-
-links:
-- name: Draft
-  url: https://cesarlgm.github.io/documents/AKM_paper_v1.pdf
 
 authors:
 - admin
