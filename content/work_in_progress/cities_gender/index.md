@@ -1,10 +1,10 @@
 ---
 title: Cities, gender, and the urban wage premium
 date: 2019-07-12
-subtitle: In this paper, I study the interaction between gender and the urban wage premium in the United States
+subtitle: 
 
 # Summary for listings and search engines
-summary: "**Abstract** "
+summary: "This paper studies the interaction between gender and the urban wage premium in the United States"
 
 
 

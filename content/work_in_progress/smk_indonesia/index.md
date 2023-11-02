@@ -1,6 +1,6 @@
 ---
 title: "Improving the Link between Vocational Schools and Industry: Evaluation of a Teacher Training in Indonesia"
-subtitle: We evaluate a large teacher training program in vocational schools in Indonesia
+subtitle:  
 
 # Summary for listings and search engines
 summary: We evaluate a large teacher training program in vocational schools in Indonesia
