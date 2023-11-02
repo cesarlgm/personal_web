@@ -1,5 +1,5 @@
 ---
-title: "Improving the Link between Vocational Schools and Industry: Evaluation of Teacher Training in Indonesia"
+title: "Education and Skill and Investment"
 subtitle: In this paper, I use rich data from Indonesia to show that the place women grow up in shapes their participation in the labor market as adults
 
 # Summary for listings and search engines
