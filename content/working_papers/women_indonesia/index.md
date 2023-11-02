@@ -3,7 +3,7 @@ title: "The Geography of Women's Opportunity: Evidence from Indonesia"
 subtitle: 
 
 # Summary for listings and search engines
-summary: "In this paper, I use rich data from Indonesia to show that the place women grow up in shapes their participation in the labor market as adults"
+summary: "I show that the place women grow up in shapes their participation in the labor market as adults"
 
 
 # Date published
