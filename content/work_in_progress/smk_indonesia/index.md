@@ -3,7 +3,7 @@ title: "Improving the Link between Vocational Schools and Industry: Evaluation o
 subtitle:  
 
 # Summary for listings and search engines
-summary: We evaluate a large teacher training program in vocational schools in Indonesia
+summary: We evaluate a large teacher training program in vocational schools in Indonesia finding precise null effects on teacher's knowledge
 
 # Date published
 date: "2020-12-13T00:00:00Z"
