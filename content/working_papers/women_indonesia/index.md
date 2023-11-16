@@ -20,9 +20,8 @@ featured: false
 
 slides:
 
-links:
-- name: Draft
-  url: https://cesarlgm.github.io/documents/jmp_release_version.pdf
+external_link: https://cesarlgm.github.io/documents/jmp_release_version.pdf
+
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

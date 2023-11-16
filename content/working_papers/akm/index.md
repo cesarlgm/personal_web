@@ -20,9 +20,7 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
-links:
-- name: Draft
-  url: https://cesarlgm.github.io/documents/AKM_paper_v1.pdf
+external_link:  https://cesarlgm.github.io/documents/AKM_paper_v1.pdf
 
 authors:
 - admin

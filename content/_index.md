@@ -29,7 +29,9 @@ sections:
       text: |-
 
 
-        Thank you for visiting my personal webpage! I am an **Early Career Researcher** at the [**School of Economics of the University of Edinburgh**](https://www.ed.ac.uk/economics). I am a labor economist who works in labor markets in both developed and developing countries. My research interests lie in both **labor** and **development economics**. I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/).
+        Thank you for visiting my personal webpage! I am an **Early Career Researcher** at the [**School of Economics of the University of Edinburgh**](https://www.ed.ac.uk/economics). 
+        
+        I am a labor economist who works in labor markets in both developed and developing countries. My research interests lie in both **labor** and **development economics**. I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/).
 
         My research focuses on understanding how geography influences gender inequality. My other work explores topics such as firms and earnings inequality, skill investment, and job training programs. 
 
