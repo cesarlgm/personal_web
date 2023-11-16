@@ -7,18 +7,13 @@ summary: "I show that the place women grow up in shapes their participation in t
 
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2022-11-13T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2023-11-16T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
-
-# Show this page in the Featured widget?
-featured: false
-
-slides:
 
 external_link: https://cesarlgm.github.io/documents/jmp_release_version.pdf
 
@@ -39,6 +34,4 @@ categories:
 - Geography
 - Indonesia
 ---
-
-## Write summary of the paper here
 
