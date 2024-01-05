@@ -10,7 +10,7 @@ summary: Taught at Boston University and University of Costa Rica
 <hr>
 <p>
 <font size="+2"><strong> University of Edinburgh</strong> <br></font>
-<strong><font size="+2" color="#F45050">Instructor</font> </strong><br>
+<strong><font size="+1" color="#F45050">Instructor</font> </strong><br>
 <ul>
   <li><u>Development Economics</u>,  Spring 2024. <br> Third-year undergraduate elective introducing students to major topics in development economics</li>
   <li><u>Applied Labor Economics</u>,  Fall 2023. <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics</li>
@@ -19,17 +19,66 @@ summary: Taught at Boston University and University of Costa Rica
 </p>
 
 <font size="+2"><strong> Boston University</strong><br></font>
-<strong><font size="+2" color="#F45050">Teaching assistant</font> </strong><br>
-<i>Graduate level</i>
+<strong><font size="+1" color="#F45050">Teaching assistant</font> </strong><br>
+<i><u>Graduate level</i></u>
 <ul>
   <li><u>Economics of Labor Markets</u> (<a href="https://people.bu.edu/paserman/">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
 </ul>
-<i>Undergraduate level</i>
+<i><u>Undergraduate level</i></u>
 <ul>
   <li><u>Poverty and Discrimination</u> (<a href="https://sites.bu.edu/kevinlang/">Prof. Kevin Lang</a>), Fall 2019. <br> 
   This class examines who is poor in the United States and how the evidence of poverty has changed over time. </li>
   <li><u>Principles of Microeconomics</u> (Prof. Todd Idson), Fall 2018-Spring 2019 <br> Class introducing students to basic micro and macroeconomic topics in economics.</li>
 </ul>
+<font size="+2"><strong> University of Costa Rica</strong><br></font>
+<strong><font size="+1" color="#F45050">Instructor</font> </strong><br>
+<ul>
+  <li> <u>Principles of Economics</u>, Spring 2014-Spring 2015<br>Undergraduate that introduced non-economics majors to basic economic concepts.</li>
+</ul>
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <title>Text Reveal Animation</title>
+    <style>
+        body {
+            background: green;
+        }
+        .geeks {
+            width: 20%;
+            top: 50%;
+            position: absolute;
+            left: 40%;
+            border-bottom: 5px solid white;
+            overflow: hidden;
+            animation: animate 2s linear forwards;
+        }
+        .geeks h1 {
+            color: white;
+        }
+        @keyframes animate {
+            0% {
+                width: 0px;
+                height: 0px;
+            }
+            30% {
+                width: 50px;
+                height: 0px;
+            }
+            60% {
+                width: 50px;
+                height: 80px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="geeks">
+        <h1>GeeksforGeeks</h1>
+    </div>
+</body>
+
 
 <table width="100%">
 <tbody>
