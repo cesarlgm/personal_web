@@ -37,24 +37,24 @@ summary: Taught at Boston University and University of Costa Rica
 </ul>
 
 
+<body>
 
+<div class="clicker" tabindex="1">Click me</div>
+<div class="hiddendiv">This is my abstract.</div>
 
-<button onclick="myFunction()">Click me</button>
-
-<div id="myDIV" style="display: none;">
-  This is my abstract.
-</div>
-
-<script>
-function myFunction() {
-  var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
+<style>
+.clicker {
+  cursor:pointer;
 }
-</script>
+
+.hiddendiv {
+  display:none;
+}
+
+.clicker:focus + .hiddendiv {
+  display:block;
+}
+</style>
 
 
 <hr>
