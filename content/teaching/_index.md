@@ -12,8 +12,8 @@ summary: Taught at Boston University and University of Costa Rica
 <font size="+2"><strong> University of Edinburgh</strong> <br></font>
 <strong><font  color="#F45050">Instructor</font> </strong><br>
 <ul>
-  <li><u>Development Economics</u>,  Spring 2024. <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">Syllabus</a></li> <br> Third-year undergraduate elective introducing students to major topics in development economics 
-  <li><u>Applied Labor Economics</u>,  Fall 2023. <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics</li>
+  <li><u>Development Economics</u>,  Spring 2024 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">Syllabus</a> <br> Third-year undergraduate elective introducing students to major topics in development economics </li>
+  <li><u>Applied Labor Economics</u>,  Fall 2023 <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">Syllabus</a> <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics</li>
   <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised dissertation work from fourth-year undergraduate students</li>
 </ul>
 </p>
