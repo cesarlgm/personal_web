@@ -37,6 +37,26 @@ summary: Taught at Boston University and University of Costa Rica
 </ul>
 
 
+
+
+<button onclick="myFunction()">Click me</button>
+
+<div id="myDIV" style="display: none;">
+  This is my abstract.
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+
 <hr>
 
 # Office Hours #
