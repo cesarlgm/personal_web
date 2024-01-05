@@ -11,10 +11,10 @@ summary: Taught at Boston University and University of Costa Rica
 <p>
 <strong> University of Edinburgh</strong>,  Edinburgh, Scotland, UK <br>
 <strong><font color="#F45050">Instructor</font> </strong><br>
-<strong> Undergraduate level </strong>
 <ul>
-  <li><u>Applied Labour Economics</u>,  Fall 2023. <br> Third-year elective introducing students to major topics and empirical methods in labor economics</li>
-  <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised dissertation work from fourth-year undergraduate students</li>
+  <li><u>Development Economics</u> (undergraduate),  Sprig 2024. <br> Third-year elective introducing students to major topics in development economics</li>
+  <li><u>Applied Labour Economics</u> (undergraduate),  Fall 2023. <br> Third-year elective introducing students to major topics and empirical methods in labor economics</li>
+  <li><u>Honours Dissertation Supervision</u> (undergraduate),  2023-2024. <br> Supervised dissertation work from fourth-year undergraduate students</li>
 </ul>
 </p>
 
