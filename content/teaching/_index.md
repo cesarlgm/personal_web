@@ -9,22 +9,22 @@ summary: Taught at Boston University and University of Costa Rica
 
 <hr>
 <p>
-<font size="+2"><strong> University of Edinburgh</strong>,  Edinburgh, Scotland, UK <br></font>
-<strong><font size="+1" color="#F45050">Instructor</font> </strong><br>
+<font size="+2"><strong> University of Edinburgh</strong> <br></font>
+<strong><font size="+2" color="#F45050">Instructor</font> </strong><br>
 <ul>
-  <li><u>Development Economics</u>,  Spring 2024. <br> Third-yea undergraduate elective introducing students to major topics in development economics</li>
+  <li><u>Development Economics</u>,  Spring 2024. <br> Third-year undergraduate elective introducing students to major topics in development economics</li>
   <li><u>Applied Labor Economics</u>,  Fall 2023. <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics</li>
   <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised dissertation work from fourth-year undergraduate students</li>
 </ul>
 </p>
 
-<font size="+2"><strong> Boston University</strong>,  Boston, MA, USA <br></font>
-<strong><font size="+1" color="#F45050">Teaching assistant</font> </strong><br>
-<italics>Graduate level</italics>
+<font size="+2"><strong> Boston University</strong><br></font>
+<strong><font size="+2" color="#F45050">Teaching assistant</font> </strong><br>
+<i>Graduate level</i>
 <ul>
   <li><u>Economics of Labor Markets</u> (<a href="https://people.bu.edu/paserman/">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
 </ul>
-<strong><font size="+1" color="#F45050">Undergraduate level </font></strong>
+<i>Undergraduate level</i>
 <ul>
   <li><u>Poverty and Discrimination</u> (<a href="https://sites.bu.edu/kevinlang/">Prof. Kevin Lang</a>), Fall 2019. <br> 
   This class examines who is poor in the United States and how the evidence of poverty has changed over time. </li>
