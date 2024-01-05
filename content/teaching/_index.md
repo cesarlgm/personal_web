@@ -37,49 +37,6 @@ summary: Taught at Boston University and University of Costa Rica
 </ul>
 
 
-
-<head>
-    <meta charset="UTF-8">
-    <title>Text Reveal Animation</title>
-    <style>
-        body {
-            background: green;
-        }
-        .geeks {
-            width: 20%;
-            top: 50%;
-            position: absolute;
-            left: 40%;
-            border-bottom: 5px solid white;
-            overflow: hidden;
-            animation: animate 2s linear forwards;
-        }
-        .geeks h1 {
-            color: white;
-        }
-        @keyframes animate {
-            0% {
-                width: 0px;
-                height: 0px;
-            }
-            30% {
-                width: 50px;
-                height: 0px;
-            }
-            60% {
-                width: 50px;
-                height: 80px;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="geeks">
-        <h1>GeeksforGeeks</h1>
-    </div>
-</body>
-
-
 <table width="100%">
 <tbody>
 <tr>
