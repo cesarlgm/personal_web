@@ -8,17 +8,15 @@ summary: Taught at Boston University and University of Costa Rica
 # Teaching #
 
 <hr>
-
-  <strong> University of Edinburgh</strong><br>
-  <strong><font size="+1" color="#F45050">Instructor</font><br></strong>
-  Edinburgh, Scotland, UK
-
+<p>
+  <strong> University of Edinburgh</strong><br>  <strong><font size="+1"
+  color="#F45050">Instructor</font><br></strong>   Edinburgh, Scotland, UK
 <strong><font color="#F45050">Undergraduate level </font></strong>
 <ul>
   <li><u>Applied Labour Economics</u>,  Fall 2023. <br> Third-year elective introducing students to major topics and empirical methods in labor economics</li>
   <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised dissertation work from fourth-year undergraduate students</li>
 </ul>
-
+</p>
 
 
 <table width="100%">
