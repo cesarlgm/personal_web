@@ -68,41 +68,27 @@ My office hours schedule during **Fall 2023** is:
 <tbody>
 <tr>
 <td  style="vertical-align:top" width="40%">
-<p><strong> <font size="+1">Essentials of Econometrics Helpdesk</strong></font><br>
+<p><strong> Development Economics</strong><br>
   Walk-in
 </p>
 </td>
 <td>
 <ul>
-  <a href="https://maps.app.goo.gl/1ikP2BF3JVKoxMRH6"> <i class="fa-sharp fa-solid fa-location-pin"></i> Room B.19, 5 Forrest Hill</a>
-  <li>Mondays, 9:00 to 9:50 am</li>
+  <!--<a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5">--> <i class="fa-sharp fa-solid fa-location-pin"></i> Location TBD</a>
+  <li>Fridays 2:30 pm to 3:30 pm, </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td  style="vertical-align:top" width="40%">
-<p><strong> <font size="+1">Applied Labour Economics</strong></font><br>
-  Walk-in
-</p>
-</td>
-<td>
-<ul>
-  <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>
-  <li>Mondays 10:00 to 10:50 am, </li>
-</ul>
-</td>
-</tr>
-<tr>
-<td  style="vertical-align:top" width="40%">
-<p><strong> <font size="+1" >Dissertation supervision</strong></font><br>
+<p><strong> Dissertation supervision</strong><br>
   By appointment
 </p>
 </td>
 <td>
 <ul>
   You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>. Regular slots are avaiable on:
-  <li>Tuesdays 1:00 pm to 2:00 pm, </li>
-  <li>Wednesdays 11:30 am to 1:30 pm, </li>
+  <li>Fridays 3:40 pm to 4:40 pm, </li>
   Location for in-person meetings will be announced after booking.
 </ul>
 </tbody>
