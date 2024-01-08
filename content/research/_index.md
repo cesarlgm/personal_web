@@ -24,7 +24,7 @@ summary: Taught at Boston University and University of Costa Rica
         </div>
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank">pdf</a>
-            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText()" href="#">
+            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText()">
                     Full abstract
             </a>
             <p id="hiddenText" class="hidden">
@@ -51,7 +51,7 @@ summary: Taught at Boston University and University of Costa Rica
         </div>
         <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">Pdf</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText()" href="#">
+               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText()">
                     Full abstract
                 </a>
                 <p id="hiddenText" class="hidden">Previous applications from Abowd, Kramarz, and Margolis (1990) –AKM– found the best firms pay workers over and above their own productivity. These firm rents contribute to overall wage inequality. In this paper, we apply the AKM model to measure whether there are significant firm (university/college) effects on faculty earnings in academia. Specifically, we apply the model to measure the pecuniary rents associated with working as tenure-track faculty at a more prestigious university or college in the United States. To do so, we take advantage of matched employer-employee data from the Survey of Doctorate Recipients. We find little evidence of pecuniary university premiums in the most prestigious US academic institutions. Once we control for urbanicity, the effect of university/college rankings on institutions’ fixed-effects on earnings is statistically insignificant and sufficiently precisely measured that we can rule out anything larger than modest effects. We then relate our findings with those of previous literature.</p>
