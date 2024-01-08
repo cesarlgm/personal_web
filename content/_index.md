@@ -39,6 +39,7 @@ sections:
 
     design:
       columns: '1'
+
   - block: collection
     content:
       title: Working papers
@@ -62,7 +63,7 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: asc
     design:
-     #  Choose a layout view
+   #  Choose a layout view
       view: compact
       columns: '1'
 
@@ -92,4 +93,5 @@ sections:
       # Choose a layout view
    #   view: compact
    #   columns: '1'
+   
 ---
