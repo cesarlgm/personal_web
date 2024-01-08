@@ -59,27 +59,7 @@ summary: Taught at Boston University and University of Costa Rica
           <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
       </div>-->
   </div>
-<div class="media stream-item view-compact">
-    <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank" rel="noopener">Do Elite Universities Overpay their Faculty?</a></div>
-        <div class="article-style">No, if you believe the AKM model</div>
-        <div class="stream-meta article-metadata">
-            <div class="article-metadata">
-                <div>
-                    <span class="author-highlighted">César Garro-Marín,</span>
-                    <span>Kevin Lang,</span>
-                    <span>Shulamit Kahn</span>
-                </div>
-            </div>
-        </div>
-        <div class="btn-links">
-        </div>
-    </div>
-    <div class="ml-3">
-        <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
-    </div>
 </div>
-
 <!--
 <div class="clicker" tabindex="1">Click me</div>
 <div class="hiddendiv">This is my abstract.</div>
@@ -103,7 +83,7 @@ summary: Taught at Boston University and University of Costa Rica
 # Office Hours #
 <hr>
 <div class="universal-wrapper">
-My office hours schedule during **Spring 2024** is:
+My office hours schedule during <strong>Spring 2024</strong> is:
 
 
 <table width="100%">
