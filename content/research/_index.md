@@ -23,6 +23,7 @@ summary: Taught at Boston University and University of Costa Rica
 </head>
 
 
+
 ## Working papers ##
 <hr>
 
@@ -172,19 +173,3 @@ summary: Taught at Boston University and University of Costa Rica
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/georgecushen" target="_blank" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a></div></div><div class="ml-3"><a href="/project/internal-project/"><img src="/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="Internal Project" loading="lazy"></a></div></div></div>-->
 
 
-
- <script>
-        function showHideText() {
-            var text = document.getElementById("hiddenText");
-            if (text.style.display === "none") {
-                text.style.display = "block";
-            } else {
-                text.style.display = "none";
-            }
-        }
-</script>
-<style>
-    .hidden {
-        display: none;
-    }
-</style>
