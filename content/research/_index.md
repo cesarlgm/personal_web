@@ -8,17 +8,51 @@ summary: Taught at Boston University and University of Costa Rica
 ## Working papers ##
 <hr>
 
+
+
+
+
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
-<div class="media-body">
-<div class="section-subheading article-title mb-0 mt-0">
-<a href="http://example.org" target="_blank" rel="noopener">The Geography of Women's Opportunity: Evidence from Indonesia</a></div>
-<div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults</div>
-<div class="stream-meta article-metadata"></div></div><div class="ml-3">
-<div class="article-metadata">
-<div><span class="author-highlighted">César Garro-Marín</span>
+    <div class="media-body">
+        <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">The Geography of Women's Opportunity: Evidence from Indonesia</a></div>
+        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults</div>
+        <div class="stream-meta article-metadata">
+            <div class="article-metadata">
+                <div><span class="author-highlighted">César Garro-Marín</span></div>
+            </div>
+        </div>
+        <div class="btn-links">
+        </div>
+    </div>
+    <div class="ml-3">
+        <img src="/working_papers/women_indonesia/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
+    </div>
 </div>
-<img src="/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="External Project" loading="lazy"></div></div></div>
+<div class="media stream-item view-compact">
+    <div class="media-body">
+        <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank" rel="noopener">Do Elite Universities Overpay their Faculty</a></div>
+        <div class="article-style">No, if you believe the AKM model</div>
+        <div class="stream-meta article-metadata">
+            <div class="article-metadata">
+                <div>
+                    <span class="author-highlighted">César Garro-Marín</span>
+                    ","
+                    <span>Kevin Lang</span>
+                    ","
+                    <span>Shulamit Kahn</span>
+                </div>
+            </div>
+        </div>
+        <div class="btn-links">
+        </div>
+    </div>
+    <div class="ml-3">
+        <img src="/working_papers/women_indonesia/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
+    </div>
+</div>
+
+
 
 <div class="media stream-item view-compact"><div class="media-body"><div class="section-subheading article-title mb-0 mt-0">
 <a href="/project/internal-project/">Internal Project</a></div><a href="/project/internal-project/" class="summary-link">
