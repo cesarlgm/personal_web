@@ -87,7 +87,7 @@ summary: Taught at Boston University and University of Costa Rica
 <tr>
 <td  style="vertical-align:top" width="40%">
 <p><strong> Development Economics</strong><br>
-  <font  color="#F45050">Walk-in</font>
+  Walk-in
 </p>
 </td>
 <td>
@@ -100,14 +100,14 @@ summary: Taught at Boston University and University of Costa Rica
 <tr>
 <td  style="vertical-align:top" width="40%">
 <p><strong> Dissertation supervision</strong><br>
-  <font  color="#F45050">By appointment</font>
+  By appointment
 </p>
 </td>
 <td>
 <ul>
   You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>. Regular slots are avaiable on:
   <li>Fridays 3:40 pm to 4:40 pm, </li>
-  Location for in-person meetings will be announced after booking.
+  Unless stated otherwise, locations for the meetings will be announced by mail the day before the meeting.
 </ul>
 </tbody>
 </table>
