@@ -35,63 +35,63 @@ sections:
 
         My research focuses on understanding how geography influences gender inequality. My other work explores topics such as firms and earnings inequality, skill investment, and job training programs. 
 
-
+        I pronounce my name as [ˈse.saɾ].
 
     design:
       columns: '1'
-  - block: collection
-    content:
-      title: Working papers
-      subtitle: ''
-      text: ''
+ # - block: collection
+ #   content:
+ #     title: Working papers
+  #    subtitle: ''
+  #    text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: working_papers
+  #    page_type: working_papers
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+   #   count: 5
       # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+    #  filters:
+     #   author: ""
+     #   category: ""
+     #   tag: ""
+     #   exclude_featured: false
+     #   exclude_future: false
+     #   exclude_past: false
+    #   publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+    #  offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: asc
-    design:
+    #  order: asc
+    #design:
       # Choose a layout view
-      view: compact
-      columns: '1'
+    #  view: compact
+    #  columns: '1'
 
-  - block: collection
-    content:
-      title: Work in progress
-      subtitle: ''
-      text: ''
+ # - block: collection
+ #   content:
+ #     title: Work in progress
+ #     subtitle: ''
+  #    text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: work_in_progress
+  #    page_type: work_in_progress
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+  #    count: 5
       # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
+  #    filters:
+   #     author: ""
+   #     category: ""
+   #     tag: ""
+   #     exclude_featured: false
+   #     exclude_future: false
+   #     exclude_past: false
+   #     publication_type: ""
       # Choose how many pages you would like to offset by
-      offset: 0
+   #   offset: 0
       # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
+   #   order: desc
+   # design:
       # Choose a layout view
-      view: compact
-      columns: '1'
+   #   view: compact
+   #   columns: '1'
 ---
 
 
