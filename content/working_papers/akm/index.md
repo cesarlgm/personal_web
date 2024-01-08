@@ -6,14 +6,6 @@ subtitle: In this paper, I use rich data from Indonesia to show that the place w
 # Summary for listings and search engines
 summary: "No, if you believe the AKM model"
 
-
-
-# Date published
-date: "2020-12-13T00:00:00Z"
-
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
-
 # Is this an unpublished draft?
 draft: false
 
@@ -26,9 +18,6 @@ authors:
 - admin
 - Kevin Lang
 - Shulamit Kahn
-
-categories:
-- Education
-- AKM
 ---
+
 

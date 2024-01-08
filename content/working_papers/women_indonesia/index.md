@@ -5,13 +5,6 @@ subtitle:
 # Summary for listings and search engines
 summary: "I show that the place women grow up in shapes their participation in the labor market as adults"
 
-
-# Date published
-date: "2022-11-13T00:00:00Z"
-
-# Date updated
-lastmod: "2023-11-16T00:00:00Z"
-
 # Is this an unpublished draft?
 draft: false
 
@@ -28,10 +21,5 @@ external_link: https://cesarlgm.github.io/documents/jmp_release_version.pdf
 
 authors:
 - admin
-
-categories:
-- Gender
-- Geography
-- Indonesia
 ---
 
