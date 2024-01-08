@@ -34,7 +34,7 @@ social:
 # To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/cesar_gm_cv.pdf
+  link: https://cesarlgm.github.io/documents/GMCesar_CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
