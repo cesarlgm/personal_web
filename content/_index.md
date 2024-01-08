@@ -38,6 +38,6 @@ sections:
         I pronounce my name as [ˈse.saɾ].
 
     design:
-      columns: '2'
+      columns: '1'
 
 ---

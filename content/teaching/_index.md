@@ -3,11 +3,51 @@ title:
 summary: Taught at Boston University and University of Costa Rica
 ---
 
-<hr>
-
 # Teaching #
-
 <hr>
+
+
+<div class="universal-wrapper">
+<div class="media stream-item view-compact">
+    <div class="media-body">
+        <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">University of Edinburgh</a></div>
+          <div class="article-style">
+            <strong><font  color="#F45050">Instructor</font> </strong><br>
+            <ul>
+              <li><u>Development Economics</u>,  Spring 2024  <br> Third-year undergraduate elective introducing students to major topics in development economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">Syllabus</a> </li>
+              <li><u>Applied Labor Economics</u>,  Fall 2023  <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_23_24.pdf" target="_blank">Syllabus</a></li>
+              <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised dissertation work for fourth-year undergraduate students</li>
+            </ul>
+          </div>
+    </div>
+    <!--<div class="ml-3">
+        <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
+    </div>-->
+</div>
+<div class="media stream-item view-compact">
+    <div class="media-body">
+        <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank" rel="noopener">Do Elite Universities Overpay their Faculty?</a></div>
+        <div class="article-style">No, if you believe the AKM model</div>
+        <div class="stream-meta article-metadata">
+            <div class="article-metadata">
+                <div>
+                    <span class="author-highlighted">César Garro-Marín,</span>
+                    <span>Kevin Lang,</span>
+                    <span>Shulamit Kahn</span>
+                </div>
+            </div>
+        </div>
+        <div class="btn-links">
+        </div>
+    </div>
+    <div class="ml-3">
+        <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+    </div>
+</div>
+
+
+
+
 <p>
 <font size="+2"><strong> University of Edinburgh</strong> <br></font>
 <strong><font  color="#F45050">Instructor</font> </strong><br>
