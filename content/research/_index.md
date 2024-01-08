@@ -36,10 +36,8 @@ summary: Taught at Boston University and University of Costa Rica
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
-                    <span class="author-highlighted">César Garro-Marín</span>
-                    ", "
-                    <span>Kevin Lang</span>
-                    ", "
+                    <span class="author-highlighted">César Garro-Marín,</span>
+                    <span>Kevin Lang,</span>
                     <span>Shulamit Kahn</span>
                 </div>
             </div>
