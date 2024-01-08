@@ -10,7 +10,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="universal-wrapper">
   <div class="media stream-item view-compact">
       <div class="media-body">
-          <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">University of Edinburgh</a></div>
+          <div class="section-subheading article-title mb-0 mt-0"><a href="https://www.ed.ac.uk/economics" target="_blank" rel="noopener">University of Edinburgh</a></div>
             <div class="article-style">
               <strong><font  color="#F45050">Instructor</font> </strong><br>
               <ul>
@@ -26,7 +26,7 @@ summary: Taught at Boston University and University of Costa Rica
   </div>
   <div class="media stream-item view-compact">
       <div class="media-body">
-          <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">Boston University</a></div>
+          <div class="section-subheading article-title mb-0 mt-0"><a href="https://www.bu.edu/econ/" target="_blank" rel="noopener">Boston University</a></div>
             <div class="article-style">
               <strong><font   color="#F45050">Teaching assistant</font> </strong><br>
               <i><u>Graduate level</i></u>
@@ -47,7 +47,7 @@ summary: Taught at Boston University and University of Costa Rica
   </div>
   <div class="media stream-item view-compact">
       <div class="media-body">
-          <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">University of Costa Rica</a></div>
+          <div class="section-subheading article-title mb-0 mt-0"><a href="https://economia.ucr.ac.cr/" target="_blank" rel="noopener">University of Costa Rica</a></div>
             <div class="article-style">
              <strong><font  color="#F45050">Instructor</font> </strong><br>
               <ul>
@@ -63,16 +63,13 @@ summary: Taught at Boston University and University of Costa Rica
 <!--
 <div class="clicker" tabindex="1">Click me</div>
 <div class="hiddendiv">This is my abstract.</div>
-
 <style>
 .clicker {
   cursor:pointer;
 }
-
 .hiddendiv {
   display:none;
 }
-
 .clicker:focus + .hiddendiv {
   display:block;
 }
