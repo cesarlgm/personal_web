@@ -44,7 +44,9 @@ summary: Taught at Boston University and University of Costa Rica
             </div>
         </div>
         <div class="btn-links">
+                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank">
                 <div class="clicker" tabindex="1">Abstract</div>
+                </a>
                 <div class="hiddendiv">This is my abstract.</div>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>
         </div>
