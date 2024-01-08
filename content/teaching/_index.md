@@ -3,27 +3,62 @@ title:
 summary: Taught at Boston University and University of Costa Rica
 ---
 
-# Teaching #
+## Teaching ##
 <hr>
 
 
 <div class="universal-wrapper">
-<div class="media stream-item view-compact">
-    <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">University of Edinburgh</a></div>
-          <div class="article-style">
-            <strong><font  color="#F45050">Instructor</font> </strong><br>
-            <ul>
-              <li><u>Development Economics</u>,  Spring 2024  <br> Third-year undergraduate elective introducing students to major topics in development economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">Syllabus</a> </li>
-              <li><u>Applied Labor Economics</u>,  Fall 2023  <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_23_24.pdf" target="_blank">Syllabus</a></li>
-              <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised dissertation work for fourth-year undergraduate students</li>
-            </ul>
-          </div>
-    </div>
-    <!--<div class="ml-3">
-        <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
-    </div>-->
-</div>
+  <div class="media stream-item view-compact">
+      <div class="media-body">
+          <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">University of Edinburgh</a></div>
+            <div class="article-style">
+              <strong><font  color="#F45050">Instructor</font> </strong><br>
+              <ul>
+                <li><u>Development Economics</u>,  Spring 2024  <br> Third-year undergraduate elective introducing students to major topics in development economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">Syllabus</a> </li>
+                <li><u>Applied Labor Economics</u>,  Fall 2023  <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_23_24.pdf" target="_blank">Syllabus</a></li>
+                <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised dissertation work for fourth-year undergraduate students</li>
+              </ul>
+            </div>
+      </div>
+      <!--<div class="ml-3">
+          <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
+      </div>-->
+  </div>
+  <div class="media stream-item view-compact">
+      <div class="media-body">
+          <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">Boston University</a></div>
+            <div class="article-style">
+              <strong><font   color="#F45050">Teaching assistant</font> </strong><br>
+              <i><u>Graduate level</i></u>
+              <ul>
+                <li><u>Economics of Labor Markets</u> (<a href="https://people.bu.edu/paserman/">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
+              </ul>
+              <i><u>Undergraduate level</i></u>
+              <ul>
+                <li><u>Poverty and Discrimination</u> (<a href="https://sites.bu.edu/kevinlang/">Prof. Kevin Lang</a>), Fall 2019. <br> 
+                This class examines who is poor in the United States and how the evidence of poverty has changed over time. </li>
+                <li><u>Principles of Microeconomics</u> (Prof. Todd Idson), Fall 2018-Spring 2019 <br> Class introducing students to basic micro and macroeconomic topics in economics.</li>
+              </ul>
+            </div>
+      </div>
+      <!--<div class="ml-3">
+          <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
+      </div>-->
+  </div>
+  <div class="media stream-item view-compact">
+      <div class="media-body">
+          <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">University of Costa Rica</a></div>
+            <div class="article-style">
+             <strong><font  color="#F45050">Instructor</font> </strong><br>
+              <ul>
+                <li> <u>Principles of Economics</u>, Spring 2014-Spring 2015<br>Undergraduate class that introduced non-economics majors to basic economic concepts.</li>
+              </ul>
+            </div>
+      </div>
+      <!--<div class="ml-3">
+          <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
+      </div>-->
+  </div>
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank" rel="noopener">Do Elite Universities Overpay their Faculty?</a></div>
