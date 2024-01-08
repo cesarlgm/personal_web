@@ -82,7 +82,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="universal-wrapper">
 My office hours schedule during <strong>Spring 2024</strong> is:
 
-
+<div class="media stream-item view-compact">
 <table width="100%">
 <tbody>
 <tr>
@@ -112,6 +112,7 @@ My office hours schedule during <strong>Spring 2024</strong> is:
 </ul>
 </tbody>
 </table>
+</div>
 </div>
 
 
