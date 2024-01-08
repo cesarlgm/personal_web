@@ -45,11 +45,10 @@ summary: Taught at Boston University and University of Costa Rica
         </div>
         <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">Pdf</a>
-                <div class="clicker" tabindex="1"><a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank">
+               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText()">
                     Abstract
-                    </a>
-                </div>
-                <div class="hiddendiv">This is my abstract.</div>
+                </a>
+                <p id="hiddenText" class="hidden">This is the hidden text</p>
         </div>
     </div>
     <div class="ml-3">
@@ -150,15 +149,13 @@ summary: Taught at Boston University and University of Costa Rica
 
 
 
-
-<style>
-.clicker {
-  cursor:pointer;
-}
-.hiddendiv {
-  display:none;
-}
-.clicker:focus + .hiddendiv {
-  display:block;
-}
-</style>
+ <script>
+        function showHideText() {
+            var text = document.getElementById("hiddenText");
+            if (text.style.display === "none") {
+                text.style.display = "block";
+            } else {
+                text.style.display = "none";
+            }
+        }
+</script>
