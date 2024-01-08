@@ -23,7 +23,7 @@ summary: Taught at Boston University and University of Costa Rica
             </div>
         </div>
         <div class="btn-links">
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank">pdf
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank">pdf</a>
         </div>
     </div>
     <div class="ml-3">
@@ -32,7 +32,7 @@ summary: Taught at Boston University and University of Costa Rica
 </div>
 <div class="media stream-item view-compact">
     <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank" rel="noopener">Do Elite Universities Overpay their Faculty?</a></div>
+        <div class="section-subheading article-title mb-0 mt-0">Do Elite Universities Overpay their Faculty?</div>
         <div class="article-style">No, if you believe the AKM model</div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
@@ -44,7 +44,7 @@ summary: Taught at Boston University and University of Costa Rica
             </div>
         </div>
         <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>
         </div>
     </div>
     <div class="ml-3">
@@ -53,13 +53,21 @@ summary: Taught at Boston University and University of Costa Rica
 </div>
 
 
-
-<!--<div class="media stream-item view-compact"><div class="media-body"><div class="section-subheading article-title mb-0 mt-0">
-<a href="/project/internal-project/">Internal Project</a></div><a href="/project/internal-project/" class="summary-link">
-<div class="article-style">An example of using the in-built project page.</div></a><div class="stream-meta article-metadata"></div>
-<div class="btn-links"><a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">Slides</a>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/georgecushen" target="_blank" rel="noopener">
-<i class="fab fa-twitter mr-1"></i>Follow</a></div></div><div class="ml-3"><a href="/project/internal-project/">
+<!--
+<div class="media stream-item view-compact">
+    <div class="media-body">
+        <div class="section-subheading article-title mb-0 mt-0">
+        <a href="/project/internal-project/">Internal Project</a></div><a href="/project/internal-project/" class="summary-link">
+            <div class="article-style">
+                An example of using the in-built project page.</div></a><div class="stream-meta article-metadata">
+            </div>
+            <div class="btn-links">
+                <a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">
+                    Slides
+                </a>
+                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/georgecushen" target="_blank" rel="noopener">
+                    <i class="fab fa-twitter mr-1"></i>Follow</a>
+            </div></div><div class="ml-3"><a href="/project/internal-project/">
 <img src="/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="Internal Project" loading="lazy"></a></div></div></div>-->
 
 ## Work in progress ##
