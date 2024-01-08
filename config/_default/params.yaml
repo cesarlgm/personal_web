@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: ''
-    twitter: 'wowchemy'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -72,7 +72,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
