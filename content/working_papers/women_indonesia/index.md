@@ -20,6 +20,8 @@ image:
   placement: 2
   preview_only: true
 
+slides: trial
+
 authors:
 - admin
 ---
