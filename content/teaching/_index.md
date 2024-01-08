@@ -92,7 +92,7 @@ summary: Taught at Boston University and University of Costa Rica
 </td>
 <td>
 <ul>
-  <!--<a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5">--> <i class="fa-sharp fa-solid fa-location-pin"></i> Location TBD</a>
+  <!--<a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5">--> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Location TBD</a>
   <li>Fridays 2:30 pm to 3:30 pm, </li>
 </ul>
 </td>
@@ -105,7 +105,7 @@ summary: Taught at Boston University and University of Costa Rica
 </td>
 <td>
 <ul>
-  You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>. Regular slots are avaiable on:
+  <br>You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>. Regular slots are avaiable on:
   <li>Fridays 3:40 pm to 4:40 pm, </li>
   Unless stated otherwise, locations for the meetings will be announced by mail the day before the meeting.
 </ul>
