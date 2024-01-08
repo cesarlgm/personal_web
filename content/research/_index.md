@@ -5,7 +5,8 @@ summary: Taught at Boston University and University of Costa Rica
 
 
 
-# Working papers #
+## Working papers ##
+<hr>
 
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
