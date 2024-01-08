@@ -15,7 +15,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
     <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0"><a href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank" rel="noopener">The Geography of Women's Opportunity: Evidence from Indonesia</a></div>
+        <div class="section-subheading article-title mb-0 mt-0">The Geography of Women's Opportunity: Evidence from Indonesia</div>
         <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults</div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
@@ -23,6 +23,7 @@ summary: Taught at Boston University and University of Costa Rica
             </div>
         </div>
         <div class="btn-links">
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/jmp_release_version.pdf" target="_blank">pdf
         </div>
     </div>
     <div class="ml-3">
@@ -43,6 +44,7 @@ summary: Taught at Boston University and University of Costa Rica
             </div>
         </div>
         <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf
         </div>
     </div>
     <div class="ml-3">
