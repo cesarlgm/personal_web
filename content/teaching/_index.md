@@ -80,7 +80,6 @@ summary: Taught at Boston University and University of Costa Rica
 ## Office Hours Schedule, Spring 2024 ##
 <hr>
 <div class="universal-wrapper">
-My office hours schedule during <strong>Spring 2024</strong> is:
 
 <div class="media stream-item view-compact">
 <table width="100%">
@@ -88,7 +87,7 @@ My office hours schedule during <strong>Spring 2024</strong> is:
 <tr>
 <td  style="vertical-align:top" width="40%">
 <p><strong> Development Economics</strong><br>
-  Walk-in
+  <font  color="#F45050">Walk-in</font>
 </p>
 </td>
 <td>
@@ -101,7 +100,7 @@ My office hours schedule during <strong>Spring 2024</strong> is:
 <tr>
 <td  style="vertical-align:top" width="40%">
 <p><strong> Dissertation supervision</strong><br>
-  By appointment
+  <font  color="#F45050">By appointment</font>
 </p>
 </td>
 <td>
