@@ -99,11 +99,10 @@ features:
     zoom: 15
 
 # Extensions
-
 extensions:
   cms:
     branch: main
-    local_backend: false
+    local_backend: true
   academicons:
     enable: true
 
