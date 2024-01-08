@@ -16,7 +16,8 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults</div>
 <div class="stream-meta article-metadata"></div></div><div class="ml-3">
 <div class="article-metadata"><span class="author-highlighted">César Garro-Marín</span>
-<img src="/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="External Project" loading="lazy"></div></div>
+<img src="/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="External Project" loading="lazy"></div></div></div>
+
 <div class="media stream-item view-compact"><div class="media-body"><div class="section-subheading article-title mb-0 mt-0">
 <a href="/project/internal-project/">Internal Project</a></div><a href="/project/internal-project/" class="summary-link">
 <div class="article-style">An example of using the in-built project page.</div></a><div class="stream-meta article-metadata"></div>
