@@ -159,3 +159,8 @@ summary: Taught at Boston University and University of Costa Rica
             }
         }
 </script>
+<style>
+    .hidden {
+        display: none;
+    }
+</style>
