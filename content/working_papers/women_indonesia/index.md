@@ -13,11 +13,12 @@ external_link: https://cesarlgm.github.io/documents/jmp_release_version.pdf
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-#  focal_point: ""
-#  placement: 2
-#  preview_only: true
+image:
+  image: featured.png
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: true
 
 authors:
 - admin
