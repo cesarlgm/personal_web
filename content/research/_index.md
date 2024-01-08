@@ -80,7 +80,7 @@ summary: Taught at Boston University and University of Costa Rica
         <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
-
+</div>
 
 <!--
 <div class="media stream-item view-compact">
