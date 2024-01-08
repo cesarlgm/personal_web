@@ -77,7 +77,7 @@ summary: Taught at Boston University and University of Costa Rica
 -->
 
 
-# Office Hours #
+## Office Hours Schedule, Spring 2024 ##
 <hr>
 <div class="universal-wrapper">
 My office hours schedule during <strong>Spring 2024</strong> is:
