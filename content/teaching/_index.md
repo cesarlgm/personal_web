@@ -92,9 +92,9 @@ summary: Taught at Boston University and University of Costa Rica
 </td>
 <td>
 <ul>
-  <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> Room 2.11, 31 Buccleuc Place</a> <br> 
+   <br> 
   <li>Fridays 2:30 pm to 3:30 pm, </li>
-  <i class="fa-sharp fa-solid fa-location-pin"></i> Location TBD</a>
+  <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a></a>
 </ul>
 </td>
 </tr>
@@ -109,7 +109,7 @@ summary: Taught at Boston University and University of Costa Rica
   <br> 
   <li>Fridays 3:30 pm to 4:30 pm, </li>
   You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>.<br>
-  If your meeting is in person, the will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> Room 2.11, 31 Buccleuc Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
+  If your meeting is in-person, the will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
 </ul>
 </tbody>
 </table>
