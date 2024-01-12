@@ -28,7 +28,7 @@ summary: Taught at Boston University and University of Costa Rica
       <div class="media-body">
           <div class="section-subheading article-title mb-0 mt-0"><a href="https://www.bu.edu/econ/" target="_blank" rel="noopener">Boston University</a></div>
             <div class="article-style">
-              <strong><font   color="#F45050">Teaching assistant</font> </strong><br>
+              <strong><font   color="#F45050">Teaching Assistant</font> </strong><br>
               <i><u>Graduate level</i></u>
               <ul>
                 <li><u>Economics of Labor Markets</u> (<a href="https://people.bu.edu/paserman/">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
@@ -100,7 +100,7 @@ summary: Taught at Boston University and University of Costa Rica
 </tr>
 <tr>
 <td  style="vertical-align:top" width="40%">
-<p><strong> Dissertation supervision</strong><br>
+<p><strong> Dissertation Supervision</strong><br>
   By appointment
 </p>
 </td>
@@ -109,7 +109,7 @@ summary: Taught at Boston University and University of Costa Rica
   <br> 
   <li>Fridays 3:30 pm to 4:30 pm, </li>
   You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>.<br>
-  If your meeting is in-person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
+  If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
 </ul>
 </tbody>
 </table>
