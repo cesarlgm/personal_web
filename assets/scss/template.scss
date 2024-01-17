@@ -64,3 +64,15 @@
 .dark .portrait-title h3 {
   color: rgba(255, 255, 255, 1);
 }
+
+
+.wg-about-avatar .avatar {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: unset !important;
+}
+
+.wg-about-avatar .avatar-wrapper {
+  width: 350px !important;
+  height: 350px !important;
+}
