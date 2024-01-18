@@ -64,7 +64,7 @@ summary: Taught at Boston University and University of Costa Rica
                 <div>
                     <span class="author-highlighted">César Garro-Marín,</span>
                     <span><a href="https://sites.bu.edu/shulamitkahn/">Shulamit Kahn</a>,</span>
-                    <span>Kevin Lang</span>
+                    <span><a href="https://sites.bu.edu/kevinlang/">Kevin Lang</a></span>
                 </div>
             </div>
         </div>
@@ -113,7 +113,7 @@ summary: Taught at Boston University and University of Costa Rica
                 <div class="article-metadata">
                     <div>
                         <span class="author-highlighted">César Garro-Marín,</span>
-                        <span>Masyhur Hilmy</span>
+                        <span><a href="https://www.raghavmalhotra.net/">Masyhur Hilmy</a></span>
                     </div>
                 </div>
             </div>
@@ -132,10 +132,10 @@ summary: Taught at Boston University and University of Costa Rica
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
-                        <span>Costas Cavounidis,</span>
+                        <span><a href="https://warwick.ac.uk/fac/soc/economics/staff/ccavounidis/">Costas Cavounidis</a>,</span>
                         <span class="author-highlighted">César Garro-Marín,</span>
-                        <span>Kevin Lang,</span>
-                        <span>Raghav Malhotra</span>
+                        <span><a href="https://sites.bu.edu/kevinlang/">Kevin Lang</a>,</span>
+                        <span><a href="https://www.raghavmalhotra.net/">Raghav Malhotra</a></span>
                     </div>
                 </div>
             </div>
