@@ -103,7 +103,7 @@ summary: Taught at Boston University and University of Costa Rica
 <hr>
 <div class="universal-wrapper">
 
-   <div class="media stream-item view-compact">
+   <div class="media stream-item view-showcase">
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Unmet Expectations: Evidence from a Nationwide Training Program in Indonesia</div>
             <div class="article-style">
@@ -124,7 +124,7 @@ summary: Taught at Boston University and University of Costa Rica
             <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
         </div>-->
     </div>
-   <div class="media stream-item view-compact">
+   <div class="media stream-item view-showcase">
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Education and Skill Investment</div>
             <div class="article-style">
