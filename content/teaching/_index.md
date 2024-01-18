@@ -31,7 +31,7 @@ summary: Taught at Boston University and University of Costa Rica
               <strong><font   color="#F45050">Teaching Assistant</font> </strong><br>
               <i><u>Graduate level</i></u>
               <ul>
-                <li><u>Economics of Labor Markets</u> (<a href="https://people.bu.edu/paserman/">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
+                <li><u>Economics of Labor Markets</u> (<a href="https://sites.google.com/view/paserman/home">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
               </ul>
               <i><u>Undergraduate level</i></u>
               <ul>
