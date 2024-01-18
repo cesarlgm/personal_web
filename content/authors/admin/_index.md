@@ -35,6 +35,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://cesarlgm.github.io/documents/GMCesar_CV.pdf
+- icon: appointment
+  icon_pack: ai
+  link: https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
