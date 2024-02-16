@@ -35,7 +35,7 @@ sections:
 
         My research focuses on understanding how geography influences gender inequality. My other work explores topics such as firms and earnings inequality, skill investment, and job training programs. 
 
-        I pronounce my name as [ˈse.saɾ].
+        I am Costa Rican and I pronounce my name as [ˈse.saɾ].
 
     design:
       columns: '1'
