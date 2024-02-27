@@ -128,7 +128,7 @@ summary: Taught at Boston University and University of Costa Rica
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Education and Skill Investment</div>
             <div class="article-style">
-            We use UK data to study how education and skills interact with technological change</div>
+            We use data from the UK to study how education and skills interact with technological change</div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
