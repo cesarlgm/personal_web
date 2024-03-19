@@ -58,7 +58,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">No, if you believe the AKM model</div>
+        <div class="article-style">No, if you believe the AKM model. <strong>New draft coming soon! </strong> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
@@ -108,7 +108,7 @@ summary: Taught at Boston University and University of Costa Rica
             <div class="section-subheading article-title mb-0 mt-0">Unmet Expectations: Evidence from a Nationwide Training Program in Indonesia</div>
             <div class="article-style">
             We evaluate a large teacher training program in vocational schools in Indonesia finding precise null effects on teacher’s knowledge
-            </div>
+            <strong>Draft coming soon! </strong> </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
