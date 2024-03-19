@@ -58,7 +58,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">No, if you believe the AKM model.  <br> <strong>New draft coming soon! </strong> </div>
+        <div class="article-style">No, if you believe the AKM model.  <br> <font  color="#F45050">New draft coming soon! </font> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
