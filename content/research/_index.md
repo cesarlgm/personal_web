@@ -105,9 +105,9 @@ summary: Taught at Boston University and University of Costa Rica
 
    <div class="media stream-item view-showcase">
         <div class="media-body">
-            <div class="section-subheading article-title mb-0 mt-0">Unmet Expectations: Evidence from a Nationwide Training Program in Indonesia</div>
+            <div class="section-subheading article-title mb-0 mt-0">Does Linking Vocational Schools to Industry Change Classroom Outcomes? Evidence from a Nationwide Training Program in Indonesia</div>
             <div class="article-style">
-            We evaluate a large teacher training program in vocational schools in Indonesia finding precise null effects on teacher’s knowledge <br> <font  color="#F45050">[Draft coming soon!] </font> </div>
+            We evaluate a large teacher training program in vocational schools in Indonesia<br> <font  color="#F45050">[Draft coming soon!] </font> </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
