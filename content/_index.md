@@ -37,6 +37,23 @@ sections:
 
         I am Costa Rican and I pronounce my name as [ˈse.saɾ].
 
+
+      <section id="news-section">
+            <div class="news-item">
+                <h3>Upcoming Conference: Web Design Summit</h3>
+                <p>Join us on October 15th for a deep dive into web design trends and best practices.</p>
+                <a href="conference-details.html">Read More</a>
+            </div>
+            <div class="news-item">
+                <h3>Recap: UX Conference 2023</h3>
+                <p>Learn about the latest user experience insights shared by industry experts.</p>
+                <a href="conference-recap.html">Read More</a>
+            </div>
+            <!-- Add more news items here -->
+      </section>
+
+
+
     design:
       columns: '1'
 
