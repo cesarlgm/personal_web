@@ -38,7 +38,7 @@ sections:
         I am Costa Rican and I pronounce my name as [ˈse.saɾ].
     design:
       columns: '1'
-  - block: listing
+  - block: list
     id: news
     content:
       title: News
