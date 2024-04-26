@@ -44,7 +44,7 @@ sections:
       title: News
       subtitle: ''
       text: |-
-          - **May 2023:** I will present at the [3rd Workshop in Gender and Economics](https://sites.google.com/site/skerdilajdazanaj/home/gender-and-economics-workshop/3rd-gender-and-economics-workshop?authuser=0) in Luxembourg.
+          - **May 2024:** I will present at the [3rd Workshop in Gender and Economics](https://sites.google.com/site/skerdilajdazanaj/home/gender-and-economics-workshop/3rd-gender-and-economics-workshop?authuser=0) in Luxembourg.
           - **June 2024:** I will present at [European Meeting of the Urban Economics Association](https://urbaneconomics.org/meetings/emuea2024/) in Denmark.
       design:
       columns: '1'
