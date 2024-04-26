@@ -41,11 +41,11 @@ sections:
   - block: markdown
     id: news
     content:
-      title: ''
-      subtitle: News
+      title: News
+      subtitle: ''
       text: |-
-          www
-
+          - *May 2023:* I will present at the 3rd Workshop in Gender Economics in Luxembourg.
+          - *June 2024:* I will present at European Meeting of the Urban Economics Association in Denmark.
       design:
       columns: '1'
 ---
