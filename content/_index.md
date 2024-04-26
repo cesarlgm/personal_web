@@ -41,6 +41,11 @@ sections:
   - block: markdown
     id: news
     content:
-      title: News
-      text: /-
+      title: ''
+      subtitle: News
+      text: |-
+          www
+
+      design:
+      columns: '1'
 ---
