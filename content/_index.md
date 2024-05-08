@@ -41,8 +41,9 @@ sections:
   - block: markdown
     id: news
     content:
-      title: Upcoming presentations 
+      title: News
       text: |-
+            I will be presenting at:
             - **May 2024:** [3rd Workshop in Gender and Economics](https://sites.google.com/site/skerdilajdazanaj/home/gender-and-economics-workshop/3rd-gender-and-economics-workshop?authuser=0) in Luxembourg.
             - **June 2024:**  [European Meeting of the Urban Economics Association](https://urbaneconomics.org/meetings/emuea2024/) in Denmark.
             - **August 2024:**  [European Summer Meeting of the Econometric Society](https://www.eea-esem-congresses.org/) in the Netherlands.
