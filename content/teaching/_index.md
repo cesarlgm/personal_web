@@ -14,8 +14,8 @@ summary: Taught at Boston University and University of Costa Rica
             <div class="article-style">
               <strong><font  color="#F45050">Instructor</font> </strong><br>
               <ul>
-                <li><u>Development Economics</u>,  Spring 2024  <br> Third-year undergraduate elective introducing students to major topics in development economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/Syllabus_Development_Econ_2023_2024.pdf" target="_blank">Syllabus</a> </li>
-                <li><u>Applied Labor Economics</u>,  Fall 2023  <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_23_24.pdf" target="_blank">Syllabus</a></li>
+                <li><u>Development Economics</u>,  Spring 2024  <br> Third-year undergraduate elective introducing students to major topics in development economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/Syllabus_Development_Econ_2023_2024.pdf" target="_blank">Syllabus (2024) </a> </li>
+                <li><u>Applied Labor Economics</u>,  Fall 2023, Fall 2024  <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_23_24.pdf" target="_blank">Syllabus (2023)</a></li>
                 <li><u>Honours Dissertation Supervision</u>,  2023-2024. <br> Supervised dissertation work for fourth-year undergraduate students</li>
               </ul>
             </div>
@@ -84,7 +84,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="media stream-item view-compact">
 <table width="100%">
 <tbody>
-<tr>
+<!--<tr>
 <td  style="vertical-align:top" width="40%">
 <p><strong> Development Economics</strong><br>
   Walk-in
@@ -97,7 +97,7 @@ summary: Taught at Boston University and University of Costa Rica
   <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a></a>
 </ul>
 </td>
-</tr>
+</tr> -->
 <tr>
 <td  style="vertical-align:top" width="40%">
 <p><strong> Dissertation Supervision</strong><br>
@@ -107,7 +107,7 @@ summary: Taught at Boston University and University of Costa Rica
 <td>
 <ul>
   <br> 
-  <li>Fridays 3:30 pm to 4:30 pm, </li>
+  <li>Wednesdays 3:30 pm to 4:30 pm, </li>
   You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>.<br>
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
 </ul>
