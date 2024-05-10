@@ -41,9 +41,9 @@ sections:
     content:
       title: News
       text: |-
-            - **May 2024:** Presenting at the [3rd Workshop in Gender and Economics](https://sites.google.com/site/skerdilajdazanaj/home/gender-and-economics-workshop/3rd-gender-and-economics-workshop?authuser=0) in Luxembourg.
-            - **June 2024:**  Presenting at the [European Meeting of the Urban Economics Association](https://urbaneconomics.org/meetings/emuea2024/) in Denmark.
             - **August 2024:**  Presenting at the [European Summer Meeting of the Econometric Society](https://www.eea-esem-congresses.org/) in the Netherlands.
+            - **June 2024:**  Presenting at the [European Meeting of the Urban Economics Association](https://urbaneconomics.org/meetings/emuea2024/) in Denmark.
+            - **May 2024:** Presenting at the [3rd Workshop in Gender and Economics](https://sites.google.com/site/skerdilajdazanaj/home/gender-and-economics-workshop/3rd-gender-and-economics-workshop?authuser=0) in Luxembourg.
       design:
       columns: '1'
 ---
