@@ -79,24 +79,25 @@ summary: Taught at Boston University and University of Costa Rica
     <div class="ml-3">
         <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
-    </div>
-    <div class="media stream-item view-compact">
-            <div class="media-body">
-                <div class="section-subheading article-title mb-0 mt-0">Does Linking Vocational Schools to Industry Change Classroom Outcomes? Evidence from a Nationwide Training Program in Indonesia</div>
-                <div class="article-style">
-                We evaluate a large teacher training program in vocational schools in Indonesia<br> <font  color="#F45050">[New working paper] </font> </div>
-                <div class="stream-meta article-metadata">
-                    <div class="article-metadata">
-                        <div>
-                            <span class="author-highlighted">César Garro-Marín,</span>
-                            <span><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
-                        </div>
+</div>
+   <div class="media stream-item view-showcase">
+        <div class="media-body">
+            <div class="section-subheading article-title mb-0 mt-0">Does Linking Vocational Schools to Industry Change Classroom Outcomes? Evidence from a Nationwide Training Program in Indonesia</div>
+            <div class="article-style">
+            We evaluate a large teacher training program in vocational schools in Indonesia<br> <font  color="#F45050">[Draft coming soon!] </font> </div>
+            <div class="stream-meta article-metadata">
+                <div class="article-metadata">
+                    <div>
+                        <span class="author-highlighted">César Garro-Marín,</span>
+                        <span><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
                     </div>
                 </div>
-                <div class="btn-links">
-            <div class="ml-3">
-                    <img src="/research/images/smk_figure.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
             </div>
+            <div class="btn-links">
+            </div>
+        </div>
+        <div class="ml-3">
+            <img src="/research/images/smk_figure.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
         </div>
     </div>
 </div>
@@ -123,10 +124,6 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="universal-wrapper">
 
 
-        <!--<div class="ml-3">
-            <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
-        </div>-->
-    </div>
    <div class="media stream-item view-showcase">
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Skill Use in Jobs: The Role of Education and Techonology</div>
