@@ -94,10 +94,10 @@ summary: Taught at Boston University and University of Costa Rica
                     </div>
                 </div>
                 <div class="btn-links">
+            <div class="ml-3">
+                    <img src="/research/images/smk_figure.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
             </div>
-                <div class="ml-3">
-            <img src="/research/images/smk_figure.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
-    </div>
+        </div>
     </div>
 </div>
 
