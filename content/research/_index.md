@@ -34,7 +34,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
     <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0">The Geography of Women's Opportunity: Evidence from Indonesia</div>
+        <div class="section-subheading article-title mb-0 mt-0">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
         <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults <br> <font  color="#F45050">[New draft!] </font></div>  
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
@@ -52,7 +52,7 @@ summary: Taught at Boston University and University of Costa Rica
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="The Geography of Women's Opportunity: Evidence from Indonesia" loading="lazy">
+        <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-compact">
