@@ -147,9 +147,9 @@ summary: Taught at Boston University and University of Costa Rica
             <div class="btn-links">
             </div>
         </div>
-        <!--<div class="ml-3">
-            <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
-        </div>-->
+        <div class="ml-3">
+            <img src="/research/images/skills_image.png" height="84" width="150" alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
+        </div>
     </div>
     <div class="media stream-item view-compact">
         <div class="media-body">
