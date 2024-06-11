@@ -81,6 +81,8 @@ summary: Taught at Boston University and University of Costa Rica
     </div>
 </div>
 
+</div>
+
 <!--
 <div class="media stream-item view-compact">
     <div class="media-body">
@@ -101,8 +103,7 @@ summary: Taught at Boston University and University of Costa Rica
 ## Work in progress ##
 <hr>
 <div class="universal-wrapper">
-
-<div class="media stream-item view-showcase">
+    <div class="media stream-item view-showcase">
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Does Linking Vocational Schools to Industry Change Classroom Outcomes? Evidence from a Nationwide Training Program in Indonesia</div>
             <div class="article-style">
@@ -116,7 +117,7 @@ summary: Taught at Boston University and University of Costa Rica
                 </div>
             </div>
             <div class="btn-links">
-               <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/SMK_paper.pdf" target="_blank">pdf</a>-->
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/SMK_paper.pdf" target="_blank">pdf</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">
                     Full abstract
                 </a>
@@ -127,7 +128,6 @@ summary: Taught at Boston University and University of Costa Rica
             <img src="/research/images/smk_figure.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
         </div>
     </div>
-</div>
 
    <div class="media stream-item view-showcase">
         <div class="media-body">
