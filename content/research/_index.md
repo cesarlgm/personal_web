@@ -144,8 +144,13 @@ summary: Taught at Boston University and University of Costa Rica
                     </div>
                 </div>
             </div>
-            <div class="btn-links">
-            </div>
+             <div class="btn-links">
+               <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>-->
+               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')">
+                    Full abstract
+                </a>
+                <p id="uk_abstract" class="hidden" style="display: none;"><br><strong>Abstract: </strong>Workers with different education levels consistently do jobs differently. At the same time, despite the growth of higher education, some jobs `upskill' while others `downskill'. We introduce a model in which each education level affords workers a menu of skill packages. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skills. This affects not only the jobs they choose in equilibrium, but means that technological changes can alter the educational makeup of occupations in rich yet analytically tractable ways.</p>
+                </div>
         </div>
         <div class="ml-3">
             <img src="/research/images/skills_image.png" height="84" width="150" alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
