@@ -149,7 +149,7 @@ summary: Taught at Boston University and University of Costa Rica
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')">
                     Full abstract
                 </a>
-                <p id="uk_abstract" class="hidden" style="display: none; font-size=0.8em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do jobs differently. At the same time, despite the growth of higher education, some jobs `upskill' while others `downskill'. We introduce a model in which each education level affords workers a menu of skill packages. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skills. This affects not only the jobs they choose in equilibrium, but means that technological changes can alter the educational makeup of occupations in rich yet analytically tractable ways.</p>
+                <p id="uk_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do jobs differently. At the same time, despite the growth of higher education, some jobs `upskill' while others `downskill'. We introduce a model in which each education level affords workers a menu of skill packages. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skills. This affects not only the jobs they choose in equilibrium, but means that technological changes can alter the educational makeup of occupations in rich yet analytically tractable ways.</p>
                 </div>
         </div>
         <div class="ml-3">
