@@ -80,32 +80,6 @@ summary: Taught at Boston University and University of Costa Rica
         <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
-   <div class="media stream-item view-showcase">
-        <div class="media-body">
-            <div class="section-subheading article-title mb-0 mt-0">Does Linking Vocational Schools to Industry Change Classroom Outcomes? Evidence from a Nationwide Training Program in Indonesia</div>
-            <div class="article-style">
-            We evaluate a large teacher training program in vocational schools in Indonesia<br> <font  color="#F45050">[Draft coming soon] </font> </div>
-            <div class="stream-meta article-metadata">
-                <div class="article-metadata">
-                    <div>
-                        <span class="author-highlighted">César Garro-Marín,</span>
-                        <span><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
-                    </div>
-                </div>
-            </div>
-            <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/SMK_paper.pdf" target="_blank">pdf</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">
-                    Full abstract
-                </a>
-                <p id="smk_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>We evaluate the effect of a mass training program for in-service vocational school teachers in Indonesia. In 2020, the Indonesian Ministry of Education and Culture (MoEC) rolled out a large-scale professional development program for vocational school teachers. This was a targeted and intensive training program that matched teachers with potential employers of vocational school graduates. These potential employers then provided technical training to teachers. We evaluate the effects of this program on teachers’ knowledge, classroom practices, and teachers' expectations of their students’ outcomes using a randomized evaluation, supplemented with propensity score matching. We find little evidence that the training had an effect on any of the outcomes. Survey data from training applicants indicate several possible reasons for the lack of impact: mismatch between training and existing skill gap, lack of post-training support, and untreated teachers accessing training from alternative providers.</p>
-            </div>
-        </div>
-        <div class="ml-3">
-            <img src="/research/images/smk_figure.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
-        </div>
-    </div>
-</div>
 
 <!--
 <div class="media stream-item view-compact">
@@ -128,6 +102,32 @@ summary: Taught at Boston University and University of Costa Rica
 <hr>
 <div class="universal-wrapper">
 
+<div class="media stream-item view-showcase">
+        <div class="media-body">
+            <div class="section-subheading article-title mb-0 mt-0">Does Linking Vocational Schools to Industry Change Classroom Outcomes? Evidence from a Nationwide Training Program in Indonesia</div>
+            <div class="article-style">
+            We evaluate a large teacher training program in vocational schools in Indonesia<br> <font  color="#F45050">[Draft coming soon] </font> </div>
+            <div class="stream-meta article-metadata">
+                <div class="article-metadata">
+                    <div>
+                        <span class="author-highlighted">César Garro-Marín,</span>
+                        <span><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
+                    </div>
+                </div>
+            </div>
+            <div class="btn-links">
+               <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/SMK_paper.pdf" target="_blank">pdf</a>-->
+               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">
+                    Full abstract
+                </a>
+                <p id="smk_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>We evaluate the effect of a mass training program for in-service vocational school teachers in Indonesia. In 2020, the Indonesian Ministry of Education and Culture (MoEC) rolled out a large-scale professional development program for vocational school teachers. This was a targeted and intensive training program that matched teachers with potential employers of vocational school graduates. These potential employers then provided technical training to teachers. We evaluate the effects of this program on teachers’ knowledge, classroom practices, and teachers' expectations of their students’ outcomes using a randomized evaluation, supplemented with propensity score matching. We find little evidence that the training had an effect on any of the outcomes. Survey data from training applicants indicate several possible reasons for the lack of impact: mismatch between training and existing skill gap, lack of post-training support, and untreated teachers accessing training from alternative providers.</p>
+            </div>
+        </div>
+        <div class="ml-3">
+            <img src="/research/images/smk_figure.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+        </div>
+    </div>
+</div>
 
    <div class="media stream-item view-showcase">
         <div class="media-body">
