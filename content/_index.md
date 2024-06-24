@@ -33,7 +33,7 @@ sections:
         
         I am primarily a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to gender inequality, skill acquisition, and education.
 
-        I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I am Costa Rican and I pronounce my name as [ˈse.saɾ].
+        I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
     design:
       columns: '1'
   - block: markdown
