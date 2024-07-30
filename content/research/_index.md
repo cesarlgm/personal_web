@@ -80,7 +80,31 @@ summary: Taught at Boston University and University of Costa Rica
         <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
-
+<div class="media stream-item view-showcase">
+        <div class="media-body">
+            <div class="section-subheading article-title mb-0 mt-0">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
+            <div class="article-style">
+            We evaluate a large teacher training program in vocational schools in Indonesia<br> <font  color="#F45050">[New working paper] </font> </div>
+            <div class="stream-meta article-metadata">
+                <div class="article-metadata">
+                    <div>
+                        <span class="author-highlighted">César Garro-Marín,</span>
+                        <span><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
+                    </div>
+                </div>
+            </div>
+            <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/garroHilmy_smk.pdf" target="_blank">pdf</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">
+                    Full abstract
+                </a>
+                <p id="smk_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>This paper evaluates a mass training program for in-service vocational school teachers in Indonesia. The government rolled out an intensive, field-specific professional development program to enhance teachers’ vocational skills. Training was provided by experienced private sector firms. We assess its effects on teachers’ knowledge, classroom practices, and expectations of students’ outcomes using a randomized evaluation. The results show minimal impact on these areas. Survey data from training applicants suggest several reasons for the lack of effect: a mismatch between training offerings and existing skills gaps, insufficient post-training support, and untreated teachers accessing training from alternative providers.</p>
+            </div>
+        </div>
+        <div class="ml-3">
+            <img src="/research/images/smk_figure.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+        </div>
+    </div>
 </div>
 
 <!--
