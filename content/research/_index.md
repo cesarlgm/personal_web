@@ -42,7 +42,7 @@ summary: Taught at Boston University and University of Costa Rica
             </div>
         </div>
         <div class="btn-links">
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/garromarin_opportunity.pdf" target="_blank">pdf</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">pdf</a>
             <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract')">
                     Full abstract
             </a>
