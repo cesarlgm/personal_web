@@ -58,7 +58,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <br> <font  color="#F45050">[New draft coming soon!] </font> </div>
+        <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <br> <font  color="#A6ACAF">[New draft coming soon!] </font> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
@@ -84,7 +84,7 @@ summary: Taught at Boston University and University of Costa Rica
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
             <div class="article-style">
-            We evaluate a large teacher training program in vocational schools in Indonesia <em>[submitted]</em> </div>
+            We evaluate a large teacher training program in vocational schools in Indonesia <font color="">[submitted]</font> </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
