@@ -14,8 +14,8 @@ summary: Taught at Boston University and University of Costa Rica
             <div class="article-style">
               <strong><font  color="#F45050">Instructor</font> </strong><br>
               <ul>
-                <li><u>Development Economics</u>,  Spring 2024  <br> Third-year undergraduate elective introducing students to major topics in development economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/Syllabus_Development_Econ_2023_2024.pdf" target="_blank">Syllabus (2024) </a> </li>
-                <li><u>Applied Labor Economics</u>,  Fall 2023, Fall 2024  <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_23_24.pdf" target="_blank">Syllabus (2023)</a></li>
+                <li><u>Development Economics</u>,  Spring 2024  <br> Third-year undergraduate elective introducing students to major topics in development economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/Syllabus_Development_Econ_2023_2024.pdf" target="_blank">Syllabus (2023-2024) </a> </li>
+                <li><u>Applied Labor Economics</u>,  Fall 2023, Fall 2024  <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus (2024-2025)</a></li>
                 <li><u>Honours Dissertation Supervision</u>,  2023-2024, 2024-2025. <br> Supervised dissertation work for fourth-year undergraduate students (year-long course).</li>
               </ul>
             </div>
