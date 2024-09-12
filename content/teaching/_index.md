@@ -93,7 +93,7 @@ summary: Taught at Boston University and University of Costa Rica
 <td>
 <ul>
    <br> 
-  <li>Starting week 3: Wednesdays, noon to 1:00 pm, </li>
+  <li>Starting week 3: Thursdays, noon to 1:00 pm, </li>
   <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a></a>
 </ul>
 </td>
@@ -107,7 +107,7 @@ summary: Taught at Boston University and University of Costa Rica
 <td>
 <ul>
   <br> 
-  <li>Starting week 2: Wednesdays, 1:00 to 2:00 pm, </li>
+  <li>Starting week 2: Thursdays, 1:00 to 2:00 pm, </li>
   You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>.<br>
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
 </ul>
