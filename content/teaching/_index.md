@@ -15,7 +15,7 @@ summary: Taught at Boston University and University of Costa Rica
               <strong><font  color="#F45050">Instructor</font> </strong><br>
               <ul>
                 <li><u>Development Economics</u>,  Spring 2024  <br> Third-year undergraduate elective introducing students to major topics in development economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/Syllabus_Development_Econ_2023_2024.pdf" target="_blank">Syllabus (2023-2024) </a> </li>
-                <li><u>Applied Labor Economics</u>,  Fall 2023, Fall 2024  <br> Third-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus (2024-2025)</a></li>
+                <li><u>Applied Labor Economics</u>,  Fall 2023, Fall 2024  <br> Fourth-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus (2024-2025)</a></li>
                 <li><u>Honours Dissertation Supervision</u>,  2023-2024, 2024-2025. <br> Supervised dissertation work for fourth-year undergraduate students (year-long course).</li>
               </ul>
             </div>
@@ -107,7 +107,7 @@ summary: Taught at Boston University and University of Costa Rica
 <td>
 <ul>
   <br> 
-  <li>Starting week 2: Thursdays, 1:00 to 2:00 pm, </li>
+  <li>Starting week 3: Thursdays, 1:00 to 2:00 pm, </li>
   You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>.<br>
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
 </ul>
