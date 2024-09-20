@@ -58,7 +58,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <br> <font  color="#F45050">[New draft!] </font> </div>
+        <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <font  color="#A6ACAF">[submitted] </font> <br> <font  color="#F45050">[New draft!] </font> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
@@ -70,6 +70,7 @@ summary: Taught at Boston University and University of Costa Rica
         </div>
         <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">NBER WP</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">
                     Full abstract
                 </a>
