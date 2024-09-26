@@ -41,6 +41,7 @@ sections:
     content:
       title: News
       text: |-
+            - **October 2024:**  New draft of my paper on [local labor markets and womens's work](https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf).
             - **September 2024:**  New draft of my paper on [faculty pay in academia](https://cesarlgm.github.io/documents/AKM_paper_v1.pdf).
       design:
       columns: '1'
