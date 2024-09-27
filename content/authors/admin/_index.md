@@ -28,13 +28,11 @@ social:
   icon_pack: fab
   link: https://www.github.com/cesarlgm
 - icon: google-scholar
-  icon_pack: academicons
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=ALUCkoUoKtbPiRsf0wZK6UcMuJWcXRFaq_PaVe4eAmIFjfK_uRasrYf9-HHcQj5bXxB0-9jAtOwn3OaC6TaaWQ&user=HrWfU6AAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/cesarlgm
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/uploads/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
   link: https://cesarlgm.github.io/documents/GMCesar_CV.pdf
@@ -43,5 +41,5 @@ social:
   link: https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
