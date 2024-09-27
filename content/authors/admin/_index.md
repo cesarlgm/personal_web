@@ -27,7 +27,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://www.github.com/cesarlgm
-- icon: scholar
+- icon: google-scholar
   icon_pack: fab
   link: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=ALUCkoUoKtbPiRsf0wZK6UcMuJWcXRFaq_PaVe4eAmIFjfK_uRasrYf9-HHcQj5bXxB0-9jAtOwn3OaC6TaaWQ&user=HrWfU6AAAAAJ
 - icon: linkedin
