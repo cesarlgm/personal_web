@@ -74,7 +74,7 @@ summary: Taught at Boston University and University of Costa Rica
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">
                     Full abstract
                 </a>
-                <p id="akm_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>This paper measures the relation between faculty salaries (net of faculty quality) and university or college prestige. We apply the AKM model (Abowd et al., 1999) to matched employer-employee data from U.S. higher education institutions. We find no evidence that more prestigious institutions pay premiums above the competitive salary for the quality of the faculty they hire. Overall, there is little evidence of any institutional effect on salaries, but unsurprisingly, higher quality faculty are more prestigious institutions. We briefly discuss how to reconcile the absence of a prestige premium, the positive match between prestige and faculty quality, and our sense that faculty at prestigious institutions would earn less at less prestigious institutions.</p>
+                <p id="akm_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>Do elite universities overpay their faculty? Not if you believe the AKM model. However, although the AKM model fits well, it is unlikely to be the right interpretation in this case.</p>
         </div>
     </div>
     <div class="ml-3">
