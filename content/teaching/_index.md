@@ -94,7 +94,7 @@ summary: Taught at Boston University and University of Costa Rica
 <ul>
    <br> 
   <li>Starting week 5: Thursdays, noon to 1:00 pm, </li>
-  You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>.<br>
+  You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
 </ul>
 </td>
@@ -109,7 +109,7 @@ summary: Taught at Boston University and University of Costa Rica
 <ul>
   <br> 
   <li>Starting week 4: Thursdays, 1:00 to 2:00 pm, </li>
-  You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2">here</a>.<br>
+  You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
 </ul>
 </tbody>
