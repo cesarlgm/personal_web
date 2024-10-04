@@ -38,7 +38,7 @@ social:
   link: https://cesarlgm.github.io/documents/GMCesar_CV.pdf
 - icon: calendar-check
   icon_pack: fas
-  link: https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2
+  link: https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
