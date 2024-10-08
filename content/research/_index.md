@@ -35,7 +35,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
-        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults <!--<br> <font  color="#F45050">[New draft!] </font>--></div>  
+        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults <font  color="#A6ACAF">[submitted] </font> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div><span class="author-highlighted">César Garro-Marín</span></div>
