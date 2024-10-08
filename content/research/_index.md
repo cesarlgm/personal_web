@@ -38,7 +38,7 @@ summary: Taught at Boston University and University of Costa Rica
         <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults <font  color="#A6ACAF">[submitted] </font> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
-                <div><span class="author-highlighted">César Garro-Marín</span></div>
+                <div><span class="author">César Garro-Marín</span></div>
             </div>
         </div>
         <div class="btn-links">
@@ -62,7 +62,7 @@ summary: Taught at Boston University and University of Costa Rica
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
-                    <span class="author-highlighted">César Garro-Marín,</span>
+                    <span class="author">César Garro-Marín,</span>
                     <span><a href="https://sites.bu.edu/shulamitkahn/">Shulamit Kahn</a>,</span>
                     <span><a href="https://sites.bu.edu/kevinlang/">Kevin Lang</a></span>
                 </div>
@@ -89,7 +89,7 @@ summary: Taught at Boston University and University of Costa Rica
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
-                        <span class="author-highlighted">César Garro-Marín,</span>
+                        <span class="author">César Garro-Marín,</span>
                         <span><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
                     </div>
                 </div>
@@ -137,7 +137,7 @@ summary: Taught at Boston University and University of Costa Rica
                 <div class="article-metadata">
                     <div>
                         <span><a href="https://warwick.ac.uk/fac/soc/economics/staff/ccavounidis/">Costas Cavounidis</a>,</span>
-                        <span class="author-highlighted">César Garro-Marín,</span>
+                        <span class="author">César Garro-Marín,</span>
                         <span><a href="https://sites.bu.edu/kevinlang/">Kevin Lang</a>,</span>
                         <span><a href="https://www.raghavmalhotra.net/">Raghav Malhotra</a></span>
                     </div>
@@ -164,7 +164,7 @@ summary: Taught at Boston University and University of Costa Rica
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
-                        <span class="author-highlighted">César Garro-Marín</span>
+                        <span class="author">César Garro-Marín</span>
                     </div>
                 </div>
             </div>
