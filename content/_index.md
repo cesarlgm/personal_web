@@ -29,9 +29,11 @@ sections:
       text: |-
 
 
-        Thank you for visiting my personal webpage! I am an **Early Career Researcher** at the [**School of Economics of the University of Edinburgh**](https://www.ed.ac.uk/economics). 
+        Thank you for visiting my personal webpage! 
         
-        I am primarily a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to gender inequality, skill acquisition, and education.
+        I am an **Early Career Researcher** at the [**School of Economics of the University of Edinburgh**](https://www.ed.ac.uk/economics). 
+        
+        I am a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to gender inequality, skill acquisition, and education.
 
         I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
     design:
