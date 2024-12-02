@@ -35,7 +35,7 @@ summary: Taught at Boston University and University of Costa Rica
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
-        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults <!-- <font  color="#A6ACAF">[submitted]--> </font> </div>
+        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults <font  color="#A6ACAF">[submitted] </font> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div><span class="author">César Garro-Marín</span></div>
@@ -148,7 +148,7 @@ summary: Taught at Boston University and University of Costa Rica
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')" style="font-size:0.8em">
                     Full abstract
                 </a>
-                <p id="uk_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do jobs differently. At the same time, despite the growth of higher education, some jobs `upskill' while others `downskill'. We introduce a model in which each education level affords workers a menu of skill packages. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skills. This affects not only the jobs they choose in equilibrium, but means that technological changes can alter the educational makeup of occupations in rich yet analytically tractable ways.</p>
+                <p id="uk_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do the same jobs differently. We introduce a model in which each education level affords workers a \textit{menu} of skill packages. While we classify skills into four broad categories, we allow the productivity and substitutability of skills to differ across occupations. Moreover, the change in productivity over time is specific to each skill and occupation. Consequently, we implicitly allow the nature of skills within these broad aggregates to differ among occupations. We identify the cost of acquiring different skills based primarily on these within-occupation differences. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skill while less educated workers acquire manual skill at lower cost. These cost differences are consistent with the occupations workers with different levels of education choose.</p>
                 </div>
         </div>
         <div class="ml-3">
