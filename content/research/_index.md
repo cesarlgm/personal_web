@@ -1,6 +1,6 @@
 ---
-title: 
-summary: Taught at Boston University and University of Costa Rica
+title: Research
+summary: List of my work in progress and publications
 ---
 
 
