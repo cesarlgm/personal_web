@@ -77,9 +77,3 @@
   height: 350px !important;
 }
 
-.stream-item.view-compact .media-thumbnail img {
-  object-fit: contain !important;
-  width: 100%;
-  height: auto;
-  max-height: 116px; /* Adjust based on your layout */
-}
