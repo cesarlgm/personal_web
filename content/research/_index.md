@@ -25,6 +25,7 @@ summary: List of my work in progress and publications
 
 ## Publications ##
 <hr>
+<div class="universal-wrapper">
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Work Hours and Amenity Trade-offs</div>
@@ -38,9 +39,9 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">pdf</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">replication package</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Replication Rackage</a>
             <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">
-                    Full abstract
+                    Full Abstract
             </a>
             <p id="amenities_abstract" class="hidden" style="display: none; text-align: justify"><br>
                 <strong>Abstract: </strong> We examine whether workers who place a higher value on specific job amenities are more likely to receive them in exchange for lower wages. While the classic compensating differentials model (Rosen, 1986) suggests they would, we show that when multiple amenities are considered together, the trade-offs become more complex. We develop a model that accounts for complementarity and substitutability in firms’ amenity offerings and workers’ preferences. Using data from the NLSY97, we find that shorter or more flexible work hours are often traded for other benefits, shaping gender disparities in wages and job amenities.
@@ -50,6 +51,7 @@ summary: List of my work in progress and publications
     <div class="ml-3">
         <img src="/research/images/amenities_picture.png" height="84" width="200" alt="Work Hours and Amenity Trade-offs" loading="lazy">
     </div>
+</div>
 </div>
 
 ## Working papers ##
@@ -67,7 +69,7 @@ summary: List of my work in progress and publications
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">pdf</a>
             <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract')">
-                    Full abstract
+                    Full Abstract
             </a>
             <p id="idn_abstract" class="hidden" style="display: none; text-align: justify"><br>
                 <strong>Abstract: </strong> How does early exposure to labor markets affect women’s work in adulthood? Using Indonesian data, I find strong and persistent effects of longer exposure to high-female employment places, especially during the formative years between ages 6 and 15. My estimation strategy compares women who moved from their birthplace at different ages but now live in the same location. I find that women from high-employment areas have 5 percentage points higher employment than those from lower-employment areas, suggesting that about 23% of the spatial inequality in women’s work is passed to the next generation, likely through learning of birthplace gender norms.
@@ -95,7 +97,7 @@ summary: List of my work in progress and publications
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nber.org/papers/w33005" target="_blank">NBER WP 33005</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">
-                    Full abstract
+                    Full Abstract
                 </a>
                 <p id="akm_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>Do elite universities overpay their faculty? Not if you believe the AKM model. However, although the AKM model fits well, it is unlikely to be the right interpretation in this case.</p>
         </div>
@@ -120,7 +122,7 @@ summary: List of my work in progress and publications
             <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/garroHilmy_smk.pdf" target="_blank">pdf</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">
-                    Full abstract
+                    Full Abstract
                 </a>
                 <p id="smk_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>This paper evaluates a mass training program for in-service vocational school teachers in Indonesia. The government rolled out an intensive, field-specific professional development program to enhance teachers’ vocational skills. Training was provided by experienced private sector firms. We assess its effects on teachers’ knowledge, classroom practices, and expectations of students’ outcomes using a randomized evaluation. The results show minimal impact on these areas. Survey data from training applicants suggest several reasons for the lack of effect: a mismatch between training offerings and existing skills gaps, insufficient post-training support, and untreated teachers accessing training from alternative providers.</p>
             </div>
@@ -169,7 +171,7 @@ summary: List of my work in progress and publications
              <div class="btn-links">
                <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>-->
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')" style="font-size:0.8em">
-                    Full abstract
+                    Full Abstract
                 </a>
                 <p id="uk_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do the same jobs differently. We introduce a model in which each education level affords workers a menu of skill packages. While we classify skills into four broad categories, we allow the productivity and substitutability of skills to differ across occupations. Moreover, the change in productivity over time is specific to each skill and occupation. Consequently, we implicitly allow the nature of skills within these broad aggregates to differ among occupations. We identify the cost of acquiring different skills based primarily on these within-occupation differences. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skill while less educated workers acquire manual skill at lower cost. These cost differences are consistent with the occupations workers with different levels of education choose.</p>
                 </div>
