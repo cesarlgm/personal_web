@@ -22,7 +22,7 @@ summary: List of my work in progress and publications
     </script>
 </head>
 
-
+<!--
 ## Publications ##
 <hr>
 <div class="universal-wrapper">
@@ -53,6 +53,7 @@ summary: List of my work in progress and publications
     </div>
 </div>
 </div>
+-->
 
 ## Working papers ##
 <hr>
