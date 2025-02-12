@@ -77,7 +77,7 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/idn_image_resized.png" style="object-fit: contain; width: 100%; height: auto;"  alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
+        <img src="/research/images/idn_image_resized.png" style="object-fit: contain; width: 100%; height: auto;" alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-compact">
@@ -103,7 +103,7 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/akm_image_resized.png" style="object-fit: contain; width: 100%; height: auto;"   alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+        <img src="/research/images/akm_image_resized.png" style="object-fit: contain; width: 100%; height: auto;" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-showcase">
@@ -128,7 +128,7 @@ summary: List of my work in progress and publications
             </div>
         </div>
         <div class="ml-3">
-            <img src="/research/images/smk_figure.png" style="object-fit: contain; width: 100%; height: auto;"   alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+            <img src="/research/images/smk_figure.png" style="object-fit: contain; width: 100%; height: auto;" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
         </div>
     </div>
 </div>
@@ -177,7 +177,7 @@ summary: List of my work in progress and publications
                 </div>
         </div>
         <div class="ml-3">
-            <img src="/research/images/skills_image.png" height="116" width="100"  alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
+            <img src="/research/images/skills_image.png" style="object-fit: contain; width: 100%; height: auto;" alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
         </div>
     </div>
     <div class="media stream-item view-compact">
