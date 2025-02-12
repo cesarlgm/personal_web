@@ -49,7 +49,7 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/amenities_picture.png" height="84" width="150" alt="Work Hours and Amenity Trade-offs" loading="lazy">
+        <img src="/research/images/amenities_picture.png" height="100" width="150" alt="Work Hours and Amenity Trade-offs" loading="lazy">
     </div>
 </div>
 </div>
@@ -77,7 +77,7 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
+        <img src="/research/images/idn_image_resized.png" height="100" width="150" alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-compact">
@@ -103,7 +103,7 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+        <img src="/research/images/akm_image_resized.png" height="100" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-showcase">
@@ -128,7 +128,7 @@ summary: List of my work in progress and publications
             </div>
         </div>
         <div class="ml-3">
-            <img src="/research/images/smk_figure.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+            <img src="/research/images/smk_figure.png" height="100" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
         </div>
     </div>
 </div>
@@ -148,7 +148,7 @@ summary: List of my work in progress and publications
                 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/georgecushen" target="_blank" rel="noopener">
                     <i class="fab fa-twitter mr-1"></i>Follow</a>
             </div></div><div class="ml-3"><a href="/project/internal-project/">
-<img src="/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="Internal Project" loading="lazy"></a></div></div></div>-->
+<img src="/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q75_h2_lanczos.webp" height="100" width="150" alt="Internal Project" loading="lazy"></a></div></div></div>-->
 
 ## Work in progress ##
 <hr>
@@ -177,7 +177,7 @@ summary: List of my work in progress and publications
                 </div>
         </div>
         <div class="ml-3">
-            <img src="/research/images/skills_image.png" height="84" width="150" alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
+            <img src="/research/images/skills_image.png" height="100" width="150" alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
         </div>
     </div>
     <div class="media stream-item view-compact">
@@ -197,13 +197,13 @@ summary: List of my work in progress and publications
             </div>
         </div>
         <!--<div class="ml-3">
-            <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+            <img src="/research/images/akm_image_resized.png" height="100" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
         </div>-->
     </div>
 </div>
 
 <!--
-<div class="universal-wrapper"><div class="media stream-item view-compact"><div class="media-body"><div class="section-subheading article-title mb-0 mt-0"><a href="http://example.org" target="_blank" rel="noopener">External Project</a></div><a href="http://example.org" target="_blank" rel="noopener" class="summary-link"><div class="article-style">An example of linking directly to an external project website using <code>external_link</code>.</div></a><div class="stream-meta article-metadata"></div></div><div class="ml-3"><a href="http://example.org" target="_blank" rel="noopener"><img src="/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="External Project" loading="lazy"></a></div></div><div class="media stream-item view-compact"><div class="media-body"><div class="section-subheading article-title mb-0 mt-0"><a href="/project/internal-project/">Internal Project</a></div><a href="/project/internal-project/" class="summary-link"><div class="article-style">An example of using the in-built project page.</div></a><div class="stream-meta article-metadata"></div><div class="btn-links"><a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">Slides</a>
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/georgecushen" target="_blank" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a></div></div><div class="ml-3"><a href="/project/internal-project/"><img src="/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q75_h2_lanczos.webp" height="84" width="150" alt="Internal Project" loading="lazy"></a></div></div></div>-->
+<div class="universal-wrapper"><div class="media stream-item view-compact"><div class="media-body"><div class="section-subheading article-title mb-0 mt-0"><a href="http://example.org" target="_blank" rel="noopener">External Project</a></div><a href="http://example.org" target="_blank" rel="noopener" class="summary-link"><div class="article-style">An example of linking directly to an external project website using <code>external_link</code>.</div></a><div class="stream-meta article-metadata"></div></div><div class="ml-3"><a href="http://example.org" target="_blank" rel="noopener"><img src="/project/external-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_329522_150x0_resize_q75_h2_lanczos.webp" height="100" width="150" alt="External Project" loading="lazy"></a></div></div><div class="media stream-item view-compact"><div class="media-body"><div class="section-subheading article-title mb-0 mt-0"><a href="/project/internal-project/">Internal Project</a></div><a href="/project/internal-project/" class="summary-link"><div class="article-style">An example of using the in-built project page.</div></a><div class="stream-meta article-metadata"></div><div class="btn-links"><a class="btn btn-outline-primary btn-page-header btn-sm" href="/slides/example/" target="_blank">Slides</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://twitter.com/georgecushen" target="_blank" rel="noopener"><i class="fab fa-twitter mr-1"></i>Follow</a></div></div><div class="ml-3"><a href="/project/internal-project/"><img src="/project/internal-project/featured_hu3d03a01dcc18bc5be0e67db3d8d209a6_224363_150x0_resize_q75_h2_lanczos.webp" height="100" width="150" alt="Internal Project" loading="lazy"></a></div></div></div>-->
 
 
