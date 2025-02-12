@@ -25,12 +25,13 @@ summary: List of my work in progress and publications
 
 
 ## Publications ##
+<hr>
 
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Work Hours and Amenity Trade-offs</div>
-        <div class="article-style">We study amenity subtitution when jobs offer multiple amenities <font  color="#A6ACAF">[submitted] </font> </div>
+        <div class="article-style">We study amenity subtitution when jobs offer multiple amenities, <i> Forthcoming at AEA Papers & Proceedings </i> </div>
         <div class="stream-meta article-metadata">
                 <div>
                     <span class="author">César Garro-Marín,</span>
@@ -40,16 +41,17 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">pdf</a>
-            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract')">
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">replication package</a>
+            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">
                     Full abstract
             </a>
-            <p id="idn_abstract" class="hidden" style="display: none; text-align: justify"><br>
+            <p id="amenities_abstract" class="hidden" style="display: none; text-align: justify"><br>
                 <strong>Abstract: </strong> In this paper, we examine whether workers who place a higher value on specific job amenities are more likely to receive them in exchange for lower wages. While the classic compensating differentials model (Rosen, 1986) suggests they would, we show that when multiple amenities are considered together, the trade-offs become more complex. We develop a model that accounts for complementarity and substitutability in firms’ amenity offerings and workers’ preferences. Using data from the NLSY97, we find that shorter or more flexible work hours are often traded for other benefits, shaping gender disparities in wages and job amenities.
             </p>
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="Work Hours and Amenity Trade-offs" loading="lazy">
+        <img src="/research/images/amenities_picture.png" height="84" width="150" alt="Work Hours and Amenity Trade-offs" loading="lazy">
     </div>
 </div>
 
