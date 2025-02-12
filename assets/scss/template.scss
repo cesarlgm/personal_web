@@ -79,7 +79,8 @@
 
 .media.stream-item img {
   max-width: 230px !important;
+  width:  100% !important;
   height: auto !important;
   object-fit: contain !important; 
-  border-radius: 2px; /* Optional: makes images look nicer */
+  border-radius: 2px !important; /* Optional: makes images look nicer */
 }
