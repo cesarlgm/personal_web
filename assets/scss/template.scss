@@ -82,5 +82,9 @@
   width:  100% !important;
   height: auto !important;
   object-fit: contain !important; 
-  border-radius: 2px !important; /* Optional: makes images look nicer */
+}
+
+.ml-3, .mx-3 {
+  margin-left: 1rem !important;
+  margin-right: 1rem !important;
 }
