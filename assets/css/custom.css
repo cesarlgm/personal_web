@@ -1,5 +1,5 @@
 .stream-item.view-compact .media-thumbnail {
-    width: 150px; /* You can change this */
-    height: auto;  /* Allow image to keep its original aspect ratio */
+    width: auto; 
+    height: 300px; 
     object-fit: contain !important;
 }
