@@ -1,5 +1,5 @@
-.stream-item.view-compact .media-thumbnail {
-    width: auto; 
-    height: 300px; 
-    object-fit: contain !important;
+.media.stream-item img {
+    max-width: 200px;
+    height: auto;
+    object-fit: contain
 }
