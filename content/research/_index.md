@@ -23,11 +23,9 @@ summary: List of my work in progress and publications
 </head>
 
 
-<div class="universal-wrapper">
+
 ## Publications ##
 <hr>
-
-
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Work Hours and Amenity Trade-offs</div>
@@ -51,13 +49,13 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/amenities_picture.png" height="84" width="150" alt="Work Hours and Amenity Trade-offs" loading="lazy">
+        <img src="/research/images/amenities_picture.png" height="84" width="200" alt="Work Hours and Amenity Trade-offs" loading="lazy">
     </div>
-
+</div>
 
 ## Working papers ##
 <hr>
-
+<div class="universal-wrapper">
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
@@ -78,7 +76,7 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/idn_image_resized.png" height="84" width="150" alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
+        <img src="/research/images/idn_image_resized.png" height="84" width="200" alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-compact">
@@ -104,7 +102,7 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/akm_image_resized.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+        <img src="/research/images/akm_image_resized.png" height="84" width="200" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-showcase">
@@ -129,9 +127,10 @@ summary: List of my work in progress and publications
             </div>
         </div>
         <div class="ml-3">
-            <img src="/research/images/smk_figure.png" height="84" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+            <img src="/research/images/smk_figure.png" height="84" width="200" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
         </div>
     </div>
+</div>
 
 <!--
 <div class="media stream-item view-compact">
@@ -152,6 +151,7 @@ summary: List of my work in progress and publications
 
 ## Work in progress ##
 <hr>
+<div class="universal-wrapper">
    <div class="media stream-item view-showcase">
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Skill Use in Jobs: The Role of Education and Techonology</div>
@@ -176,7 +176,7 @@ summary: List of my work in progress and publications
                 </div>
         </div>
         <div class="ml-3">
-            <img src="/research/images/skills_image.png" height="84" width="150" alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
+            <img src="/research/images/skills_image.png" height="84" width="200" alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
         </div>
     </div>
     <div class="media stream-item view-compact">
