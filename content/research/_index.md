@@ -23,7 +23,6 @@ summary: List of my work in progress and publications
 </head>
 
 
-
 ## Publications ##
 <hr>
 <div class="media stream-item view-compact">
@@ -44,7 +43,7 @@ summary: List of my work in progress and publications
                     Full abstract
             </a>
             <p id="amenities_abstract" class="hidden" style="display: none; text-align: justify"><br>
-                <strong>Abstract: </strong> In this paper, we examine whether workers who place a higher value on specific job amenities are more likely to receive them in exchange for lower wages. While the classic compensating differentials model (Rosen, 1986) suggests they would, we show that when multiple amenities are considered together, the trade-offs become more complex. We develop a model that accounts for complementarity and substitutability in firms’ amenity offerings and workers’ preferences. Using data from the NLSY97, we find that shorter or more flexible work hours are often traded for other benefits, shaping gender disparities in wages and job amenities.
+                <strong>Abstract: </strong> We examine whether workers who place a higher value on specific job amenities are more likely to receive them in exchange for lower wages. While the classic compensating differentials model (Rosen, 1986) suggests they would, we show that when multiple amenities are considered together, the trade-offs become more complex. We develop a model that accounts for complementarity and substitutability in firms’ amenity offerings and workers’ preferences. Using data from the NLSY97, we find that shorter or more flexible work hours are often traded for other benefits, shaping gender disparities in wages and job amenities.
             </p>
         </div>
     </div>
