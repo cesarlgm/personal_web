@@ -29,7 +29,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Work Hours and Amenity Trade-offs</div>
-        <div class="article-style">We study amenity subtitution when jobs offer multiple amenities, <i> Forthcoming at AEA Papers & Proceedings </i> </div>
+        <div class="article-style">We study amenity subtitution when jobs offer multiple amenities <br> <i> Forthcoming at AEA Papers & Proceedings </i> </div>
         <div class="stream-meta article-metadata">
                 <div>
                     <span class="author">César Garro-Marín,</span>
