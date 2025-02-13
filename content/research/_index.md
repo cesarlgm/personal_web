@@ -22,7 +22,7 @@ summary: List of my work in progress and publications
     </script>
 </head>
 
-<!--
+
 ## Publications ##
 <hr>
 <div class="universal-wrapper">
@@ -39,6 +39,7 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">pdf</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Online Appendix</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Replication Rackage</a>
             <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">
                     Full Abstract
@@ -53,7 +54,7 @@ summary: List of my work in progress and publications
     </div>
 </div>
 </div>
--->
+
 
 ## Working papers ##
 <hr>
