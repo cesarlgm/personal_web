@@ -236,6 +236,7 @@ summary: List of my work in progress and publications
             <img src="/research/images/smk_construction.jpg"   alt="Vocational Education and Structural Transformation" loading="lazy">
         </div>
     </div>
+    <!--
     <div class="media stream-item view-compact">
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Gender and the Urban Wage Premium</div>
@@ -252,9 +253,10 @@ summary: List of my work in progress and publications
             <div class="btn-links">
             </div>
         </div>
-        <!--<div class="ml-3">
+        <div class="ml-3">
             <img src="/research/images/akm_image_resized.png" height="100" width="150" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
-        </div>-->
+        </div>
+        -->
     </div>
 </div>
 
