@@ -182,7 +182,7 @@ summary: List of my work in progress and publications
             <img src="/research/images/skills_image.png"   alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
         </div>
     </div>
-        <div class="media stream-item view-showcase">
+    <div class="media stream-item view-showcase">
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Gender and violent conflict</div>
             <div class="article-style">
@@ -208,7 +208,8 @@ summary: List of my work in progress and publications
         <div class="ml-3">
             <img src="/research/images/gender_conflict.jpg"   alt="Vocational Education and Structural Transformation" loading="lazy">
         </div>
-       <div class="media stream-item view-showcase">
+    </div>
+    <div class="media stream-item view-showcase">
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Vocational Education and Structural Transformation</div>
             <div class="article-style">
