@@ -85,7 +85,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <font  color="#A6ACAF"> [Revise and resubmit at The Review of Economics and Statistics] </font> </div>
+        <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
