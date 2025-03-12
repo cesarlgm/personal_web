@@ -43,9 +43,9 @@ sections:
     content:
       title: News
       text: |-
+            - **March 2025:** New draft of our paper studying a [teacher training intervention](https://cesarlgm.github.io/documents/garroHilmy_smk.pdf) in Indonesian vocational high schools.
+            - **Feb 2025:** Our paper studying [trade offs of workplace amenities](https://cesarlgm.github.io/documents/workhours.pdf) is forthcoming at AEA P&P. 
             - **December 2024:**  I will be presenting at the [European Winter Meeting of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) in Mallorca.
-            - **October 2024:**  New draft of my paper on [local labor markets and womens's work](https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf).
-            - **September 2024:**  New draft of my paper on [faculty pay in academia](https://cesarlgm.github.io/documents/AKM_paper_v1.pdf) (also released as the [NBER Working Paper No. 33005](https://www.nber.org/papers/w33005)).
       design:
       columns: '1'
 ---
