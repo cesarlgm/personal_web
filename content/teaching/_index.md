@@ -77,7 +77,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 -->
 
 
-## Office Hours Schedule, Fall 2024 ##
+## Office Hours Schedule, Spring 2025 ##
 <hr>
 <div class="universal-wrapper">
 
