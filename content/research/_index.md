@@ -38,8 +38,8 @@ summary: List of my work in progress and publications
                 </div>
         </div>
         <div class="btn-links">
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/workhours.pdf" target="_blank">pdf</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/workhours_appendix.pdf" target="_blank">Online Appendix</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">pdf</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf" target="_blank">Online Appendix</a>
            <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Replication Rackage</a>-->
             <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">
                     Full Abstract
@@ -96,7 +96,7 @@ summary: List of my work in progress and publications
             </div>
         </div>
         <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">pdf</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nber.org/papers/w33005" target="_blank">NBER WP 33005</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">
                     Full Abstract
@@ -122,7 +122,7 @@ summary: List of my work in progress and publications
                 </div>
             </div>
             <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/garroHilmy_smk.pdf" target="_blank">pdf</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">pdf</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">
                     Full Abstract
                 </a>
