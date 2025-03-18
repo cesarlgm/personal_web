@@ -112,7 +112,7 @@ summary: List of my work in progress and publications
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
             <div class="article-style">
-            We evaluate a large teacher training program in vocational schools in Indonesia <font  color="#dd2c00">[New draft!] </font> </div>
+            We evaluate a large teacher training program in vocational schools in Indonesia <font  color="#dd2c00"> | New draft!, submitted </font> </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
@@ -126,11 +126,11 @@ summary: List of my work in progress and publications
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">
                     Full Abstract
                 </a>
-                <p id="smk_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>This paper evaluates a mass training program for in-service vocational school teachers in Indonesia. The government rolled out an intensive, field-specific professional development program to enhance teachers’ vocational skills. Training was provided by experienced private sector firms. We assess its effects on teachers’ knowledge, classroom practices, and expectations of students’ outcomes using a randomized evaluation. The results show minimal impact on these areas. Survey data from training applicants suggest several reasons for the lack of effect: a mismatch between training offerings and existing skills gaps, insufficient post-training support, and untreated teachers accessing training from alternative providers.</p>
+                <p id="smk_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>This paper evaluates a mass training program for in-service vocational schoolteachers in Indonesia. The government rolled out an intensive, field-specific professional development program provided by private sector firms to enhance teachers’ vocational skills. We use a randomized evaluation to assess its effects on teachers' knowledge, classroom practices, expectations of students' outcomes, and school quality. We find that this program crowded out existing professional development offerings with no increase in overall training participation. There is little evidence of improvements in teachers' knowledge or measures of school quality, albeit with suggestions of increased use of Information and Communication Technologies in the classroom. </p>
             </div>
         </div>
         <div class="ml-3">
-            <img src="/research/images/smk_figure.png"  alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+            <img src="/research/images/smk_figure.png"  alt="Linking Vocational Schools to Industry: Effects on Teachers in Indonesia" loading="lazy">
         </div>
     </div>
 </div>
