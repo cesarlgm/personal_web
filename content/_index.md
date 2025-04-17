@@ -39,7 +39,7 @@ sections:
         <br>
         <br>
 
-        If you want to book a slot for an office hour meeting, head to the [teaching page](/teaching/#office-hours) for information about the schedule and the booking link.
+        **Office hours:** head to the [teaching page](/teaching/#office-hours) for information about the schedule and the booking link.
     design:
       columns: '1'
   - block: markdown
