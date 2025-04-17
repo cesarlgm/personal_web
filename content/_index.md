@@ -36,6 +36,8 @@ sections:
         I am a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to gender inequality, skill acquisition, and education.
 
         I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
+
+        If you want to book a slot for an office hour meeting, head to the [teaching page](/teaching/#office-hours) for information about the schedule and the booking link.
     design:
       columns: '1'
   - block: markdown
