@@ -157,7 +157,7 @@ summary: List of my work in progress and publications
 <div class="universal-wrapper">
    <div class="media stream-item view-showcase">
         <div class="media-body">
-            <div class="section-subheading article-title mb-0 mt-0">Skill Use in Jobs: The Role of Education and Techonology</div>
+            <div class="section-subheading article-title mb-0 mt-0" id="skill-use">Skill Use in Jobs: The Role of Education and Techonology</div>
             <div class="article-style">
             We use data from the UK to study how education and skills interact with technological change</div>
             <div class="stream-meta article-metadata">

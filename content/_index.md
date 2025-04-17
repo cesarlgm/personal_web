@@ -43,9 +43,9 @@ sections:
     content:
       title: News
       text: |-
+            - **June 2025:** I will presenting our paper on the interaction between [education and skill use]("https://www.cesargarromarin.com/research.html#skill-use") at the AASLE-SOLE-EALE Joint Conference in Toronto.
             - **March 2025:** New draft of our paper studying a [teacher training intervention](https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf) in Indonesian vocational high schools.
             - **February 2025:** Our paper studying [trade offs of workplace amenities](https://cesarlgm.github.io/documents/papers/workhours.pdf) is forthcoming at AEA P&P. 
-            - **December 2024:**  I will be presenting at the [European Winter Meeting of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) in Mallorca.
       design:
       columns: '1'
 ---
