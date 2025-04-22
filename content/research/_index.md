@@ -28,7 +28,7 @@ summary: List of my work in progress and publications
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
     <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0">Work Hours and Amenity Trade-offs</div>
+        <div class="section-subheading article-title mb-0 mt-0" id="amenities">Work Hours and Amenity Trade-offs</div>
         <div class="article-style">We study amenity subtitution when jobs offer multiple amenities <br> <i> AEA Papers & Proceedings, forthcoming </i> </div>
         <div class="stream-meta article-metadata">
                 <div>
@@ -84,7 +84,7 @@ summary: List of my work in progress and publications
 </div>
 <div class="media stream-item view-compact">
     <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0">Do Elite Universities Overpay their Faculty?</div>
+        <div class="section-subheading article-title mb-0 mt-0" id="akm">Do Elite Universities Overpay their Faculty?</div>
         <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
@@ -110,7 +110,7 @@ summary: List of my work in progress and publications
 </div>
 <div class="media stream-item view-showcase">
         <div class="media-body">
-            <div class="section-subheading article-title mb-0 mt-0">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
+            <div class="section-subheading article-title mb-0 mt-0" id="smk">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
             <div class="article-style">
             We evaluate a large teacher training program in vocational schools in Indonesia <font  color="#dd2c00"> | submitted </font> </div>
             <div class="stream-meta article-metadata">

@@ -7,7 +7,6 @@ type: landing
 sections:
   - block: about.avatar
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: 
     design:
@@ -48,8 +47,8 @@ sections:
       title: News
       text: |-
             - **June 2025:** I will presenting our paper on the interaction between [education and skill use](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
-            - **March 2025:** New draft of our paper studying a [teacher training intervention](https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf) in Indonesian vocational high schools.
-            - **February 2025:** Our paper studying [trade offs of workplace amenities](https://cesarlgm.github.io/documents/papers/workhours.pdf) is forthcoming at AEA P&P. 
+            - **March 2025:** New draft of our paper studying a [teacher training intervention](/research/#smk) in Indonesian vocational high schools.
+            - **February 2025:** Our paper studying [trade offs of workplace amenities](/research/#amenities) is forthcoming at AEA P&P. 
       design:
       columns: '1'
 ---
