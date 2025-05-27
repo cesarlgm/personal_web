@@ -40,7 +40,7 @@ summary: List of my work in progress and publications
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">pdf</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf" target="_blank">Online Appendix</a>
-           <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Replication Rackage</a>-->
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.openicpsr.org/openicpsr/project/221382/version/V1/view" target="_blank">Replication Rackage</a>
             <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">
                     Full Abstract
             </a>
