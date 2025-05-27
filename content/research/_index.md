@@ -39,7 +39,7 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">Full Abstract</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">pdf</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">Paper</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf" target="_blank">Online Appendix</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.openicpsr.org/openicpsr/project/221382/version/V1/view" target="_blank">Replication Rackage</a>
             <p id="amenities_abstract" class="hidden" style="display: none; text-align: justify"><br>
@@ -68,7 +68,7 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract')">Full Abstract</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">pdf</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Paper</a>
             <p id="idn_abstract" class="hidden" style="display: none; text-align: justify"><br>
                 <strong>Abstract: </strong> How does early exposure to labor markets affect women’s work in adulthood? Using Indonesian data, I find strong and persistent effects of longer exposure to high-female employment places, especially during the formative years between ages 6 and 15. My estimation strategy compares women who moved from their birthplace at different ages but now live in the same location. I find that women from high-employment areas have 5 percentage points higher employment than those from lower-employment areas, suggesting that about 23% of the spatial inequality in women’s work is passed to the next generation, likely through learning of birthplace gender norms.
             </p>
@@ -93,7 +93,7 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">Full Abstract</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">pdf</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">Paper</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nber.org/papers/w33005" target="_blank">NBER WP 33005</a>
                 <p id="akm_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>Do elite universities overpay their faculty? Not if you believe the AKM model. However, although the AKM model fits well, it is unlikely to be the right interpretation in this case.</p>
         </div>
@@ -117,7 +117,7 @@ summary: List of my work in progress and publications
             </div>
             <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">Full Abstract</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">pdf</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">Paper</a>
                 <p id="smk_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>This paper evaluates a mass training program for in-service vocational schoolteachers in Indonesia. The government rolled out an intensive, field-specific professional development program provided by private sector firms to enhance teachers’ vocational skills. We use a randomized evaluation to assess its effects on teachers' knowledge, classroom practices, expectations of students' outcomes, and school quality. We find that this program crowded out existing professional development offerings with no increase in overall training participation. There is little evidence of improvements in teachers' knowledge or measures of school quality, albeit with suggestions of increased use of Information and Communication Technologies in the classroom. </p>
             </div>
         </div>
