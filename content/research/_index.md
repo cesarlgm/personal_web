@@ -29,7 +29,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="amenities">Work Hours and Amenity Trade-offs</div>
-        <div class="article-style">We study amenity subtitution when jobs offer multiple amenities <br> <i> AEA Papers & Proceedings, forthcoming </i> </div>
+        <div class="article-style">We study amenity subtitution when jobs offer multiple amenities <br> <i> AEA Papers & Proceedings, Vol. 115, May 2025 </i> </div>
         <div class="stream-meta article-metadata">
                 <div>
                     <span class="author">César Garro-Marín,</span>
@@ -39,7 +39,8 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">Full Abstract</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">Paper</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">Pre-print</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031" target="_blank">Paper</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf" target="_blank">Online Appendix</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.openicpsr.org/openicpsr/project/221382/version/V1/view" target="_blank">Replication Rackage</a>
             <p id="amenities_abstract" class="hidden" style="display: none; text-align: justify"><br>
