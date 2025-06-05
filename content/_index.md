@@ -46,9 +46,9 @@ sections:
     content:
       title: News
       text: |-
+            - **May 2025:** Our paper on [trade offs of workplace amenities](/research/#amenities) was published in *AEA Papers and Proceedings*. 
             - **June 2025:** I will presenting our paper on the interaction between [education and skills at work](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
             - **March 2025:** New draft of our paper studying a [teacher training intervention](/research/#smk) in Indonesian vocational high schools.
-            - **February 2025:** Our paper studying [trade offs of workplace amenities](/research/#amenities) is forthcoming at AEA P&P. 
       design:
       columns: '1'
 ---
