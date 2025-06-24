@@ -165,7 +165,7 @@ summary: List of my work in progress and publications
             </div>
              <div class="btn-links">
                <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">pdf</a>-->
-               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')" style="font-size:0.8em">
+               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')">
                     Full Abstract
                 </a>
                 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">Paper</a>
