@@ -36,6 +36,9 @@ sections:
 
         I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
         <br>
+
+        <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf" target="_blank">Research statement</a>
+        <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank">Teaching statement</a>
         <br>
 
         **Office hours:** head to the [teaching page](/teaching/#office-hours) for information about the schedule and the booking link.
