@@ -40,8 +40,9 @@ sections:
   - block: markdown
     id: links
     content:
+      title: ''
       text: |-
-                You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages. |        
+                You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.       
    
                 <a class="btn btn-outline-primary btn-page-header btn-sm"
                     href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
@@ -55,7 +56,7 @@ sections:
                   style="font-size: .7rem;">Teaching statement
                 </a>
       design:
-      columns: '1'
+      columns: '2'
   - block: markdown
     id: news
     content:
