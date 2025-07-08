@@ -38,14 +38,16 @@ sections:
         <br>
 
 
-        You can learn more about my research and teaching in the statements below or by heading to my [teaching](/research/) and [teaching](/teaching/) pages.
+        You can learn more about my research and teaching in the statements below or by heading to my [teaching](/research/) and [teaching](/teaching/) pages. <br>
         <a class="btn btn-outline-primary btn-page-header btn-sm"
           href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
           target="_blank"
           style="font-size: 1.5rem;">
           Research statement
         </a>
-        <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank" style="font-size: 1.5rem;>Teaching statement</a>
+        <a class="btn btn-outline-primary btn-page-header btn-sm" 
+          href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank" 
+          style="font-size: 1.5rem;">Teaching statement</a>
         <br>
 
         **Office hours:** head to the [teaching page](/teaching/#office-hours) for information about the schedule and the booking link.
