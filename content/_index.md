@@ -41,26 +41,19 @@ sections:
     id: links
     content:
       text: |-
-            <div style="display: flex; width: 100%; margin: 0; padding: 0; gap: 1.5rem; box-sizing: border-box;">
-              <div style="flex: 3; margin: 0; padding: 0;">
-                <p style="margin: 0;">
-                  You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.
-                </p>
-              </div>
-              <div style="flex: 1; margin: 0; padding: 0;">
+                You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages. |        
+   
                 <a class="btn btn-outline-primary btn-page-header btn-sm"
                     href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
                     target="_blank"
                     style="font-size: .7rem;">
                     Research statement
                 </a>
-                <br>
+           
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                   href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank" 
                   style="font-size: .7rem;">Teaching statement
                 </a>
-              </div>
-            </div>
       design:
       columns: '1'
   - block: markdown
