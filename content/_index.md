@@ -41,9 +41,11 @@ sections:
     id: links
     content:
       text: |-
-            <div style="display: flex; width: 100%; margin: 0; padding: 0; gap: 1.5rem;">
+            <div style="display: flex; width: 100%; margin: 0; padding: 0; gap: 1.5rem; box-sizing: border-box;">
               <div style="flex: 3; margin: 0; padding: 0;">
-                You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.
+                <p style="margin: 0;">
+                  You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.
+                </p>
               </div>
               <div style="flex: 1; margin: 0; padding: 0;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm"
