@@ -35,13 +35,6 @@ sections:
         I am a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to gender inequality, skill acquisition, and education.
 
         I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
-        <br>
-        <br>
-
-        <br>
-        
-        <br>
-        <br>
     design:
       columns: '1'
   - block: markdown
@@ -49,15 +42,15 @@ sections:
     content:
       text: |-
             <div style="display: flex">
-              <div style="flex: 2;">
-                You can learn more about my research and teaching in the statements below or by heading to my [teaching](/research/) and [teaching](/teaching/) pages.
+              <div style="flex: 4;">
+                You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.
               </div>
               <div style="flex: 1;">
-              <a class="btn btn-outline-primary btn-page-header btn-sm"
-                  href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
-                  target="_blank"
-                  style="font-size: 1rem;">
-                  Research statement
+                <a class="btn btn-outline-primary btn-page-header btn-sm"
+                    href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
+                    target="_blank"
+                    style="font-size: 1rem;">
+                    Research statement
                 </a>
                 <br>
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
