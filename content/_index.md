@@ -42,12 +42,12 @@ sections:
         <a class="btn btn-outline-primary btn-page-header btn-sm"
           href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
           target="_blank"
-          style="font-size: 1.5rem;">
+          style="font-size: 1rem;">
           Research statement
         </a>
         <a class="btn btn-outline-primary btn-page-header btn-sm" 
           href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank" 
-          style="font-size: 1.5rem;">Teaching statement</a>
+          style="font-size: 1rem;">Teaching statement</a>
         <br>
 
         **Office hours:** head to the [teaching page](/teaching/#office-hours) for information about the schedule and the booking link.
