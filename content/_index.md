@@ -60,7 +60,7 @@ sections:
               </div>
             </div>
       design:
-      columns: '2'
+      columns: '1'
   - block: markdown
     id: news
     content:
