@@ -42,7 +42,7 @@ sections:
     content:
       text: |-
             <div style="display: flex">
-              <div style="flex: 4;">
+              <div style="flex: 3;">
                 You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.
               </div>
               <div style="flex: 1;">
