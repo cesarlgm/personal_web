@@ -38,24 +38,24 @@ sections:
     design:
       columns: '1'
   - block: markdown
-    id: news
+    id: links
     content:
       text: |-
             <div style="display: flex">
-              <div style="flex: 3;">
+              <div style="flex: 3; margin: 0; padding: 0;">
                 You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.
               </div>
-              <div style="flex: 1;">
+              <div style="flex: 1; margin: 0; padding: 0;">
                 <a class="btn btn-outline-primary btn-page-header btn-sm"
                     href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
                     target="_blank"
-                    style="font-size: 1rem;">
+                    style="font-size: .7rem;">
                     Research statement
                 </a>
                 <br>
                 <a class="btn btn-outline-primary btn-page-header btn-sm" 
                   href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank" 
-                  style="font-size: 1rem;">Teaching statement
+                  style="font-size: .7rem;">Teaching statement
                 </a>
               </div>
             </div>
