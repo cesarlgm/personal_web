@@ -37,7 +37,7 @@ sections:
         I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
         <br>
         <br>
-
+        ***
      
         You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.       
         <a class="btn btn-outline-primary btn-page-header btn-sm"
