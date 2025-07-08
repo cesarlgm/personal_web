@@ -38,22 +38,36 @@ sections:
         <br>
         <br>
 
-        You can learn more about my research and teaching in the statements below or by heading to my [teaching](/research/) and [teaching](/teaching/) pages. <br>
-        <a class="btn btn-outline-primary btn-page-header btn-sm"
-          href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
-          target="_blank"
-          style="font-size: 1rem;">
-          Research statement
-        </a>
-        <a class="btn btn-outline-primary btn-page-header btn-sm" 
-          href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank" 
-          style="font-size: 1rem;">Teaching statement</a>
-        <br>
         <br>
         
-        **Office hours:** head to the [teaching page](/teaching/#office-hours) for information about the schedule and the booking link.
+        <br>
+        <br>
     design:
       columns: '1'
+  - block: markdown
+    id: news
+    content:
+      text: |-
+        <div style="display: flex; gap: 2rem;">
+          <div style="flex: 1;">
+          You can learn more about my research and teaching in the statements below or by heading to my [teaching](/research/) and [teaching](/teaching/) pages.
+          </div>
+          <div style="flex: 1;">
+          <a class="btn btn-outline-primary btn-page-header btn-sm"
+              href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
+              target="_blank"
+              style="font-size: 1rem;">
+              Research statement
+            </a>
+            <br>
+            <a class="btn btn-outline-primary btn-page-header btn-sm" 
+              href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank" 
+              style="font-size: 1rem;">Teaching statement
+            </a>
+          </div>
+        </div>
+      design:
+      columns: '2'
   - block: markdown
     id: news
     content:
