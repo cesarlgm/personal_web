@@ -82,7 +82,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="akm">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> </div>
+        <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> <font  color="#dd2c00"> | New draft coming soon! </font></div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
@@ -152,7 +152,7 @@ summary: List of my work in progress and publications
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0" id="skill-use">Skill Use in Jobs: The Role of Education and Technology</div>
             <div class="article-style">
-            We use data from the UK to study how education and skills interact with technological change</div>
+            We use data from the UK to study how education and skills interact with technological change <font  color="#dd2c00"> | draft coming soon! </font> </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
