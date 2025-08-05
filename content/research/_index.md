@@ -107,7 +107,7 @@ summary: List of my work in progress and publications
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0" id="smk">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
             <div class="article-style">
-            We evaluate a large teacher training program in vocational schools in Indonesia <font  color="#dd2c00"> | submitted </font> </div>
+            We evaluate a large teacher training program in vocational schools in Indonesia <font  color="#dd2c00">  </font> </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
@@ -152,7 +152,7 @@ summary: List of my work in progress and publications
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0" id="skill-use">Skill Use in Jobs: The Role of Education and Technology</div>
             <div class="article-style">
-            We use data from the UK to study how education and skills interact with technological change <font  color="#dd2c00"> | draft coming soon! </font> </div>
+            We use data from the UK to study how education and skills interact with technological change <font  color="#dd2c00"> | Draft coming soon! </font> </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
