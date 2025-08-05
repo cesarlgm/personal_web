@@ -40,6 +40,8 @@ sections:
         ***
 
         You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.       
+        
+        <div style="text-align: center;">
         <a class="btn btn-outline-primary btn-page-header btn-sm"
             href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
             target="_blank"
@@ -50,6 +52,7 @@ sections:
           href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank" 
           style="font-size: 1rem;">Teaching statement
         </a>
+        </div>
 
         ***
     design:
