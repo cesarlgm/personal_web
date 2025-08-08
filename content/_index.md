@@ -62,6 +62,7 @@ sections:
     content:
       title: News
       text: |-
+            - **August 2025:** New draft of our paper studying [salaries of US academics](/research/#akm).
             - **June 2025:** I will presenting our paper on the interaction between [education and skills at work](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
             - **May 2025:** Our paper on [trade offs of workplace amenities](/research/#amenities) was published in *AEA Papers and Proceedings*. 
             - **March 2025:** New draft of our paper studying a [teacher training intervention](/research/#smk) in Indonesian vocational high schools.
