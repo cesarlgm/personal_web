@@ -60,7 +60,7 @@ summary: List of my work in progress and publications
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
     <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
+        <div class="section-subheading article-title mb-0 mt-0" id="rooted">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
         <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults  </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
@@ -177,10 +177,9 @@ summary: List of my work in progress and publications
             <img src="/research/images/skills_image.png"   alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
         </div>
     </div>
-    <!--
     <div class="media stream-item view-showcase">
         <div class="media-body">
-            <div class="section-subheading article-title mb-0 mt-0">Gender and violent conflict</div>
+            <div class="section-subheading article-title mb-0 mt-0" id="gender-crime">Gender and violent conflict</div>
             <div class="article-style">
             We study the long term effects of violent conflict on household decision making in Mexico</div>
             <div class="stream-meta article-metadata">
@@ -203,7 +202,7 @@ summary: List of my work in progress and publications
             <img src="/research/images/gender_conflict.jpg"   alt="Vocational Education and Structural Transformation" loading="lazy">
         </div>
     </div>
-    -->
+    <!--
     <div class="media stream-item view-showcase">
         <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Vocational Education and Structural Transformation</div>
