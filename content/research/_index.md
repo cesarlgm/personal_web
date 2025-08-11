@@ -179,32 +179,6 @@ summary: List of my work in progress and publications
     </div>
     <div class="media stream-item view-showcase">
         <div class="media-body">
-            <div class="section-subheading article-title mb-0 mt-0" id="gender-crime">Gender and violent conflict</div>
-            <div class="article-style">
-            We study the long term effects of violent conflict on household decision making in Mexico</div>
-            <div class="stream-meta article-metadata">
-                <div class="article-metadata">
-                    <div>
-                        <span class="author">César Garro-Marín,</span>
-                        <span class="author"><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
-                    </div>
-                </div>
-            </div>
-             <div class="btn-links">
-              <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')" style="font-size:0.8em">
-                    Full Abstract
-                </a>
-                <p id="uk_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do the same jobs differently. We introduce a model in which each education level affords workers a menu of skill packages. While we classify skills into four broad categories, we allow the productivity and substitutability of skills to differ across occupations. Moreover, the change in productivity over time is specific to each skill and occupation. Consequently, we implicitly allow the nature of skills within these broad aggregates to differ among occupations. We identify the cost of acquiring different skills based primarily on these within-occupation differences. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skill while less educated workers acquire manual skill at lower cost. These cost differences are consistent with the occupations workers with different levels of education choose.</p>
-                </div>
-        </div>
-        <div class="ml-3">
-            <img src="/research/images/gender_conflict.jpg"   alt="Vocational Education and Structural Transformation" loading="lazy">
-        </div>
-    </div>
-    <!--
-    <div class="media stream-item view-showcase">
-        <div class="media-body">
             <div class="section-subheading article-title mb-0 mt-0">Vocational Education and Structural Transformation</div>
             <div class="article-style">
             We study the effects of a large expansion of vocational secondary education in Indonesia</div>
@@ -230,6 +204,34 @@ summary: List of my work in progress and publications
             <img src="/research/images/smk_construction.jpg"   alt="Vocational Education and Structural Transformation" loading="lazy">
         </div>
     </div>
+    <div class="media stream-item view-showcase">
+        <div class="media-body">
+            <div class="section-subheading article-title mb-0 mt-0" id="gender-crime">Gender and violent conflict</div>
+            <div class="article-style">
+            We study the long term effects of violent conflict on household decision making in Mexico</div>
+            <div class="stream-meta article-metadata">
+                <div class="article-metadata">
+                    <div>
+                        <span class="author">César Garro-Marín,</span>
+                        <span class="author"><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
+                    </div>
+                </div>
+            </div>
+             <div class="btn-links">
+             <!--
+              <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')" style="font-size:0.8em">
+                    Full Abstract
+                </a>
+                <p id="uk_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do the same jobs differently. We introduce a model in which each education level affords workers a menu of skill packages. While we classify skills into four broad categories, we allow the productivity and substitutability of skills to differ across occupations. Moreover, the change in productivity over time is specific to each skill and occupation. Consequently, we implicitly allow the nature of skills within these broad aggregates to differ among occupations. We identify the cost of acquiring different skills based primarily on these within-occupation differences. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skill while less educated workers acquire manual skill at lower cost. These cost differences are consistent with the occupations workers with different levels of education choose.</p>
+                </div>
+                -->
+        </div>
+        <div class="ml-3">
+            <img src="/research/images/gender_conflict.jpg"   alt="Vocational Education and Structural Transformation" loading="lazy">
+        </div>
+    </div>
+
     <!--
     <div class="media stream-item view-compact">
         <div class="media-body">
