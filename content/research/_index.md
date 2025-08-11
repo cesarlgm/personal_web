@@ -204,7 +204,6 @@ summary: List of my work in progress and publications
                 <img src="/research/images/smk_construction.jpg"   alt="Vocational Education and Structural Transformation" loading="lazy">
             </div>
         </div>
-    </div>
         <div class="media stream-item view-showcase">
             <div class="media-body">
                 <div class="section-subheading article-title mb-0 mt-0" id="gender-conflict">Gender and violent conflict</div>
@@ -233,7 +232,6 @@ summary: List of my work in progress and publications
                 <img src="/research/images/gender_conflict.jpg"   alt="Vocational Education and Structural Transformation" loading="lazy">
             </div>
         </div>
-    </div>
     <!--
     <div class="media stream-item view-showcase">
         <div class="media-body">
