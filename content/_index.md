@@ -65,9 +65,9 @@ sections:
             - **December 2025:** I will be presenting our paper on the [US academic market](/research/#akm) at [SAEe 2025](https://asesec.org/simposio-de-la-asociacion-espanola-de-economia/).
             - **September 2025:** The British Academy awarded us a Small Research Grant ot study [the long term effects of violent conflict on household decision making](/research/#gender-conflict).
             - **August 2025:** New draft of our paper studying [salaries of US academics](/research/#akm).
-            - **June 2025:** I will presenting our paper on the interaction between [education and skills at work](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
+            <!-- - **June 2025:** I will presenting our paper on the interaction between [education and skills at work](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
             - **May 2025:** Our paper on [trade offs of workplace amenities](/research/#amenities) was published in *AEA Papers and Proceedings*. 
-            - **March 2025:** New draft of our paper studying a [teacher training intervention](/research/#smk) in Indonesian vocational high schools.
+            - **March 2025:** New draft of our paper studying a [teacher training intervention](/research/#smk) in Indonesian vocational high schools. -->
       design:
       columns: '1'
 ---
