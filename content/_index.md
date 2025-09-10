@@ -57,8 +57,6 @@ sections:
         ***
 
         <br>
-        <br>
-        <br>
         
         ***
 
