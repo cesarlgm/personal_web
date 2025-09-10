@@ -53,10 +53,13 @@ sections:
           style="font-size: 1rem;">Teaching statement
         </a>
         </div>
+
         ***
+
         <br>
         <br>
         <br>
+        
         ***
 
         **For students:** you can find information about my office hours schedule and the link to book a meeting on my [teaching page](/teaching/#office-hours)
