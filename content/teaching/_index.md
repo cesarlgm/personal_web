@@ -15,7 +15,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
               <strong><font  color="#F45050">Instructor</font> </strong><br>
               <ul>
                 <li><u>Development Economics</u>,  Spring 2024, Spring 2025  <br> Third-year undergraduate elective introducing students to major topics in development economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/ECNM10061_Development_Economics 2024-2025.pdf" target="_blank">Syllabus (2024-2025) </a> </li>
-                <li><u>Applied Labor Economics</u>,  Fall 2023, Fall 2024  <br> Fourth-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus (2024-2025)</a></li>
+                <li><u>Applied Labor Economics</u>,  Fall 2023, Fall 2024, Fall 2025  <br> Fourth-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus (2024-2025)</a></li>
                 <li><u>Honours Dissertation Supervision</u>,  2023-2024, 2024-2025. <br> Supervised dissertation work for fourth-year undergraduate students (year-long course).</li>
               </ul>
             </div>
@@ -77,7 +77,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 -->
 
 
-## Office Hours Schedule, Spring 2025 ##{#office-hours}
+## Office Hours Schedule, Fall 2025 ##{#office-hours}
 <hr>
 <div class="universal-wrapper">
 
@@ -86,7 +86,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 <tbody>
 <tr>
 <td  style="vertical-align:top" width="40%">
-<p><strong> Development Economics</strong><br>
+<p><strong> Applied Labour Economics</strong><br>
   By appointment
 </p>
 </td>
