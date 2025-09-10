@@ -114,6 +114,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
   <br>
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
   <br>
+  <br>
   Regular 20-min slots will be available once the matching period concludes. For now, only 10-min virtual
   matching meetings are available.
 </ul>
