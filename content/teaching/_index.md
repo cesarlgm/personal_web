@@ -93,9 +93,10 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 <td>
 <ul>
    <br> 
-  <li>Starting week 6: Wednesdays, 4:30 to 5:30 pm, </li>
-  You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
+  <li>Starting week 5: Thursdays, 4:30 to 5:30 pm, </li>
+  Book your 10 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
+
 </ul>
 </td>
 </tr>
@@ -108,9 +109,12 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 <td>
 <ul>
   <br> 
-  <li>Starting week 2: Wednesdays, 3:30 to 4:30 pm, </li>
-  You can book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
+  <li>Starting week 2: Wednesdays, 4:00 to 5:00 pm, </li>
+  Book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
+
+  Regular 20 min slots will be available once the matching period concludes. For now, only 10-min virtual
+  matching meetings are available.
 </ul>
 </tbody>
 </table>
