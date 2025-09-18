@@ -179,7 +179,7 @@ summary: List of my work in progress and publications
     </div>
     <div class="media stream-item view-showcase">
         <div class="media-body">
-            <div class="section-subheading article-title mb-0 mt-0">Vocational Education and Structural Transformation</div>
+            <div class="section-subheading article-title mb-0 mt-0">Secondary Education and Structural Transformation: Evidence from a Large Secondary Expansion</div>
                 <div class="article-style">
                     We study the effects of a large expansion of vocational secondary education in Indonesia</div>
                     <div class="stream-meta article-metadata">
