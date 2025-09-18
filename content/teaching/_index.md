@@ -109,7 +109,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 <td>
 <ul>
   <br> 
-  <li><strong>Starting week 2:</strong> Wednesdays, 4:30 to 5:30 pm, </li>
+  <li><strong>Starting week 2:</strong> Thursdays, 4:30 to 5:30 pm, </li>
   Book your slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
   <br>
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"><i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place</a>. Otherwise, use the link sent to your mail to join the virtual meeting.
