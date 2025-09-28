@@ -86,22 +86,6 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 <tbody>
 <tr>
 <td  style="vertical-align:top" width="40%">
-<p><strong> Applied Labour Economics</strong><br>
-  By appointment
-</p>
-</td>
-<td>
-<ul>
-   <br> 
-  <li> <strong>Starting week 5:</strong> Thursdays, 3:30 to 4:30 pm, </li>
-  Book your 10 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br><br>
-  If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Weeks 2-9: Room 2.11, 31 Buccleuch Place. <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Week 10:  Room 4.05, 31 Buccleuch Place</a>. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
-
-</ul>
-</td>
-</tr>
-<tr>
-<td  style="vertical-align:top" width="40%">
 <p><strong> Dissertation Supervision</strong><br>
   By appointment
 </p>
@@ -115,9 +99,22 @@ summary: Taught at University of Edinburgh, Boston University and University of 
   If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Weeks 2-9: Room 2.11, 31 Buccleuch Place. <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Week 10:  Room 4.05, 31 Buccleuch Place</a>. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
   <br>
   <br>
-  Regular 20-min slots will be available once the matching period concludes. For now, only 10-min virtual
-  matching meetings are available.
+<tr>
+<td  style="vertical-align:top" width="40%">
+<p><strong> Applied Labour Economics</strong><br>
+  By appointment
+</p>
+</td>
 </ul>
+<td>
+<ul>
+   <br> 
+  <li> <strong>Starting week 5:</strong> Thursdays, 3:30 to 4:30 pm, </li>
+  Book your 10 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br><br>
+  If your meeting is in person, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Weeks 5-9: Room 2.11, 31 Buccleuch Place. <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Week 10:  Room 4.05, 31 Buccleuch Place</a>. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
+</ul>
+</td>
+</tr>
 </tbody>
 </table>
 </div>
