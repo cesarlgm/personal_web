@@ -82,27 +82,6 @@ summary: List of my work in progress and publications
         <img src="/research/images/akm_image_resized.png" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
-<div class="media stream-item view-compact">
-    <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0" id="rooted">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
-        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults  </div>
-        <div class="stream-meta article-metadata">
-            <div class="article-metadata">
-                <div><span class="author">César Garro-Marín</span></div>
-            </div>
-        </div>
-        <div class="btn-links">
-           <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract')">Full Abstract</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Paper</a>
-            <p id="idn_abstract" class="hidden" style="display: none; text-align: justify"><br>
-                <strong>Abstract: </strong> How does early exposure to labor markets affect women’s work in adulthood? Using Indonesian data, I find strong and persistent effects of longer exposure to high-female employment places, especially during the formative years between ages 6 and 15. My estimation strategy compares women who moved from their birthplace at different ages but now live in the same location. I find that women from high-employment areas have 5 percentage points higher employment than those from lower-employment areas, suggesting that about 23% of the spatial inequality in women’s work is passed to the next generation, likely through learning of birthplace gender norms.
-            </p>
-        </div>
-    </div>
-    <div class="ml-3">
-        <img src="/research/images/idn_image_resized.png"   alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
-    </div>
-</div>
 <div class="media stream-item view-showcase">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="smk">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
@@ -124,6 +103,27 @@ summary: List of my work in progress and publications
     </div>
     <div class="ml-3">
         <img src="/research/images/smk_figure.png"  alt="Linking Vocational Schools to Industry: Effects on Teachers in Indonesia" loading="lazy">
+    </div>
+</div>
+<div class="media stream-item view-compact">
+    <div class="media-body">
+        <div class="section-subheading article-title mb-0 mt-0" id="rooted">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
+        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults  </div>
+        <div class="stream-meta article-metadata">
+            <div class="article-metadata">
+                <div><span class="author">César Garro-Marín</span></div>
+            </div>
+        </div>
+        <div class="btn-links">
+           <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract')">Full Abstract</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Paper</a>
+            <p id="idn_abstract" class="hidden" style="display: none; text-align: justify"><br>
+                <strong>Abstract: </strong> How does early exposure to labor markets affect women’s work in adulthood? Using Indonesian data, I find strong and persistent effects of longer exposure to high-female employment places, especially during the formative years between ages 6 and 15. My estimation strategy compares women who moved from their birthplace at different ages but now live in the same location. I find that women from high-employment areas have 5 percentage points higher employment than those from lower-employment areas, suggesting that about 23% of the spatial inequality in women’s work is passed to the next generation, likely through learning of birthplace gender norms.
+            </p>
+        </div>
+    </div>
+    <div class="ml-3">
+        <img src="/research/images/idn_image_resized.png"   alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
     </div>
 </div>
 </div>
