@@ -9,7 +9,7 @@ sections:
       email: cgarrom@ed.ac.uk
       appointment_url: 'https://outlook.office.com/book/Meetingslots@uoe.onmicrosoft.com/?ismsaljsauthenabled'
       address:
-        street: 31 Buccleuch Place
+        street: Room 4.18, 31 Buccleuch Place
         city: Edinburgh
         region: Scotland
         postcode: 'EH8 9JS'

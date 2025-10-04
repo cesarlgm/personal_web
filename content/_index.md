@@ -60,11 +60,9 @@ sections:
         
         ***
 
-        **For students:** you can find information about my office hours schedule and the link to book a meeting on my [teaching page](/teaching/#office-hours)
+        **For students:** you can find my office hours schedule and the link to book a meeting on my [teaching page](/teaching/#office-hours)
 
         ***
-
-
     design:
       columns: '1'
   - block: markdown

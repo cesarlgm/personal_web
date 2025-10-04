@@ -60,27 +60,6 @@ summary: List of my work in progress and publications
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
     <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0" id="rooted">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
-        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults  </div>
-        <div class="stream-meta article-metadata">
-            <div class="article-metadata">
-                <div><span class="author">César Garro-Marín</span></div>
-            </div>
-        </div>
-        <div class="btn-links">
-           <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract')">Full Abstract</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Paper</a>
-            <p id="idn_abstract" class="hidden" style="display: none; text-align: justify"><br>
-                <strong>Abstract: </strong> How does early exposure to labor markets affect women’s work in adulthood? Using Indonesian data, I find strong and persistent effects of longer exposure to high-female employment places, especially during the formative years between ages 6 and 15. My estimation strategy compares women who moved from their birthplace at different ages but now live in the same location. I find that women from high-employment areas have 5 percentage points higher employment than those from lower-employment areas, suggesting that about 23% of the spatial inequality in women’s work is passed to the next generation, likely through learning of birthplace gender norms.
-            </p>
-        </div>
-    </div>
-    <div class="ml-3">
-        <img src="/research/images/idn_image_resized.png"   alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
-    </div>
-</div>
-<div class="media stream-item view-compact">
-    <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="akm">Do Elite Universities Overpay their Faculty?</div>
         <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> <font  color="#dd2c00"> | New draft! </font></div>
         <div class="stream-meta article-metadata">
@@ -103,29 +82,50 @@ summary: List of my work in progress and publications
         <img src="/research/images/akm_image_resized.png" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
-<div class="media stream-item view-showcase">
-        <div class="media-body">
-            <div class="section-subheading article-title mb-0 mt-0" id="smk">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
-            <div class="article-style">
-            We evaluate a large teacher training program in vocational schools in Indonesia <font  color="#dd2c00">  </font> </div>
-            <div class="stream-meta article-metadata">
-                <div class="article-metadata">
-                    <div>
-                        <span class="author">César Garro-Marín,</span>
-                        <span class="author"><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
-                    </div>
-                </div>
-            </div>
-            <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">Full Abstract</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">Paper</a>
-                <p id="smk_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>This paper evaluates a mass training program for in-service vocational school teachers in Indonesia. The government rolled out an intensive, field-specific professional development program provided by private sector firms to enhance teachers’ vocational skills. We use a randomized evaluation to assess its effects on teachers' knowledge, classroom practices, expectations of students' outcomes, and school quality. We find that this program crowded out existing professional development offerings with no increase in overall training participation. There is little evidence of improvements in teachers' knowledge or measures of school quality, albeit with suggestions of increased use of Information and Communication Technologies in the classroom. </p>
+<div class="media stream-item view-compact">
+    <div class="media-body">
+        <div class="section-subheading article-title mb-0 mt-0" id="rooted">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
+        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults  </div>
+        <div class="stream-meta article-metadata">
+            <div class="article-metadata">
+                <div><span class="author">César Garro-Marín</span></div>
             </div>
         </div>
-        <div class="ml-3">
-            <img src="/research/images/smk_figure.png"  alt="Linking Vocational Schools to Industry: Effects on Teachers in Indonesia" loading="lazy">
+        <div class="btn-links">
+           <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract')">Full Abstract</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Paper</a>
+            <p id="idn_abstract" class="hidden" style="display: none; text-align: justify"><br>
+                <strong>Abstract: </strong> How does early exposure to labor markets affect women’s work in adulthood? Using Indonesian data, I find strong and persistent effects of longer exposure to high-female employment places, especially during the formative years between ages 6 and 15. My estimation strategy compares women who moved from their birthplace at different ages but now live in the same location. I find that women from high-employment areas have 5 percentage points higher employment than those from lower-employment areas, suggesting that about 23% of the spatial inequality in women’s work is passed to the next generation, likely through learning of birthplace gender norms.
+            </p>
         </div>
     </div>
+    <div class="ml-3">
+        <img src="/research/images/idn_image_resized.png"   alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
+    </div>
+</div>
+<div class="media stream-item view-showcase">
+    <div class="media-body">
+        <div class="section-subheading article-title mb-0 mt-0" id="smk">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
+        <div class="article-style">
+        We evaluate a large teacher training program in vocational schools in Indonesia <font  color="#dd2c00">  </font> </div>
+        <div class="stream-meta article-metadata">
+            <div class="article-metadata">
+                <div>
+                    <span class="author">César Garro-Marín,</span>
+                    <span class="author"><a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a></span>
+                </div>
+            </div>
+        </div>
+        <div class="btn-links">
+            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract')">Full Abstract</a>
+            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">Paper</a>
+            <p id="smk_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>This paper evaluates a mass training program for in-service vocational school teachers in Indonesia. The government rolled out an intensive, field-specific professional development program provided by private sector firms to enhance teachers’ vocational skills. We use a randomized evaluation to assess its effects on teachers' knowledge, classroom practices, expectations of students' outcomes, and school quality. We find that this program crowded out existing professional development offerings with no increase in overall training participation. There is little evidence of improvements in teachers' knowledge or measures of school quality, albeit with suggestions of increased use of Information and Communication Technologies in the classroom. </p>
+        </div>
+    </div>
+    <div class="ml-3">
+        <img src="/research/images/smk_figure.png"  alt="Linking Vocational Schools to Industry: Effects on Teachers in Indonesia" loading="lazy">
+    </div>
+</div>
 </div>
 
 <!--
