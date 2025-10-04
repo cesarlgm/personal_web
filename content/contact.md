@@ -7,7 +7,7 @@ sections:
   - block: contact
     content:
       email: cgarrom@ed.ac.uk
-      appointment_url: 'https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/s/3KyNCUZjfEqzUAkxt2X8IQ2'
+      appointment_url: 'https://outlook.office.com/book/Meetingslots@uoe.onmicrosoft.com/?ismsaljsauthenabled'
       address:
         street: 31 Buccleuch Place
         city: Edinburgh
