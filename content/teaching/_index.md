@@ -18,6 +18,10 @@ summary: Taught at University of Edinburgh, Boston University and University of 
                 <li><u>Applied Labor Economics</u>,  Fall 2023, Fall 2024, Fall 2025  <br> Fourth-year undergraduate elective introducing students to major topics and empirical methods in labor economics <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus (2024-2025)</a></li>
                 <li><u>Honours Dissertation Supervision</u>,  2023-2024, 2024-2025. <br> Supervised dissertation work for fourth-year undergraduate students (year-long course).</li>
               </ul>
+            <strong><font  color="#F45050">Tutor</font> </strong><br>
+                <ul>
+                <li><u>Essentials of Econometrics</u>,  Fall 2023, Fall 2024, Fall 2025  <br> Tutored for this third-year compulsory undergraduate class in Econometrics.
+              </ul>
             </div>
       </div>
       <!--<div class="ml-3">
@@ -96,7 +100,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
   <li><strong>Starting week 2:</strong> Thursdays, 4:30 to 5:30 pm, </li>
   Book your 20 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
   <br>
-  If your meeting is <strong>in person<>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place </a>. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
+  If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place </a>. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
   <br>
   <br>
 <tr>
