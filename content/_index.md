@@ -44,18 +44,18 @@ sections:
         <div style="text-align: center;">
         <a class="btn btn-outline-primary btn-page-header btn-sm"
             href="/research/#idn-secondary"
-            target="_blank"
+            target="_self"
             style="font-size: 1rem;  margin-right: 100px;">
             Job Market Paper
         </a>
         <a class="btn btn-outline-primary btn-page-header btn-sm"
             href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
-            target="_blank"
+            target="_self"
             style="font-size: 1rem;  margin-right: 100px;">
             Research statement
         </a>
         <a class="btn btn-outline-primary btn-page-header btn-sm" 
-          href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_blank" 
+          href="https://cesarlgm.github.io/documents/profile/teaching_statement_cesarlgm.pdf" target="_self" 
           style="font-size: 1rem;">Teaching statement
         </a>
         </div>
