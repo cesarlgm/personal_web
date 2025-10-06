@@ -60,7 +60,7 @@ summary: List of my work in progress and publications
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
 <div class="media-body">
-    <div class="section-subheading article-title mb-0 mt-0">Secondary Education and Structural Transformation: Evidence from a Large Secondary Expansion</div>
+    <div class="section-subheading article-title mb-0 mt-0" id="idn-secondary">Secondary Education and Structural Transformation: Evidence from a Large Secondary Expansion</div>
         <div class="article-style">
             We study the effects of a large expansion of vocational secondary education in Indonesia <font  color="#dd2c00"> | Draft coming soon! </font>  </div>
             <div class="stream-meta article-metadata">

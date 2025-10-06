@@ -43,7 +43,7 @@ sections:
         
         <div style="text-align: center;">
         <a class="btn btn-outline-primary btn-page-header btn-sm"
-            href="https://cesarlgm.github.io/documents/profile/research_statement_cesarlgm.pdf"
+            href="/research/#idn-secondary"
             target="_blank"
             style="font-size: 1rem;  margin-right: 100px;">
             Job Market Paper
