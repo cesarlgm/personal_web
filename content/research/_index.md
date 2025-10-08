@@ -82,7 +82,7 @@ summary: List of my work in progress and publications
             -->
         </div>
     <div class="ml-3">
-        <img src="/research/images/smk_construction.jpg"   alt="Vocational Education and Structural Transformation" loading="lazy">
+        <img src="/research/images/secondary_construction.png"   alt="Vocational Education and Structural Transformation" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-compact">
