@@ -39,7 +39,9 @@ sections:
         <br>
         ***
 
-        I will be on the **2015-2016 Economics Job Market**. You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.       
+        I will be on the 2025-2026 Economics Job Market. 
+        
+        You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.       
         
         <div style="text-align: center;">
         <a class="btn btn-outline-primary btn-page-header btn-sm"
