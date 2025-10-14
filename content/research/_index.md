@@ -72,12 +72,13 @@ summary: List of my work in progress and publications
                 </div>
             </div>
             <div class="btn-links">
-            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/idn_secondary_expansion.pdf" target="_blank">pdf</a>
-            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')" style="font-size:0.8em">
+            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_secondary_abstract')" style="font-size:0.8em">
                     Full Abstract
-                </a>
-                <p id="uk_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>We evaluate the effects of a large upper secondary expansion in Indonesia.</p>
-                </div>
+            </a>
+            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/idn_secondary_expansion.pdf" target="_blank">Paper</a>
+            <p id="idn_secondary_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>We evaluate the effects of a large upper secondary expansion in Indonesia.
+            </p>
+            </div>
         </div>
     <div class="ml-3">
         <img src="/research/images/secondary_construction.png"   alt="Vocational Education and Structural Transformation" loading="lazy">
