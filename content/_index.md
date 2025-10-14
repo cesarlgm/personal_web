@@ -81,7 +81,7 @@ sections:
             - **December 2025:** I will be presenting our paper:
               - On the interaction between [education and skills at work](https://www.econometricsociety.org/regional-activities/schedule/2025/12/07/2025-European-Winter-Meeting-Nicosia-Cyprus) at the [EWMES 2025]() in Cyprus.
               - On the [US academic market](/research/#akm) at [SAEe 2025](https://asesec.org/simposio-de-la-asociacion-espanola-de-economia/) in Barcelona.
-            - **September 2025:** The [British Academy](https://www.thebritishacademy.ac.uk/) awarded us a [BA/Leverhulme Small Research Grant](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/) ot study [the long term effects of violent conflict on household decision making](/research/#gender-conflict).
+            - **September 2025:** The [British Academy](https://www.thebritishacademy.ac.uk/) awarded us a [BA/Leverhulme Small Research Grant](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/) to study [the long term effects of violent conflict on household decision making](/research/#gender-conflict).
             - **August 2025:** New draft of our paper studying [salaries of US academics](/research/#akm).
             <!-- - **June 2025:** I will presenting our paper on the interaction between [education and skills at work](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
             - **May 2025:** Our paper on [trade offs of workplace amenities](/research/#amenities) was published in *AEA Papers and Proceedings*. 
