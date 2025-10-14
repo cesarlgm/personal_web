@@ -6,7 +6,7 @@ title: César Garro-Marín
 superuser: true
 
 # Role/position
-role: Early Career Researcher (Postdoc)
+role: Fixed-Term Lecturer and Researcher
 
 # Organizations/Affiliations
 organizations:
