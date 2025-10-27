@@ -29,7 +29,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="amenities">Work Hours and Amenity Trade-offs</div>
-        <div class="article-style">We study amenity subtitution when jobs offer multiple amenities <br> <i> AEA Papers & Proceedings, Vol. 115, May 2025 </i> </div>
+        <div class="article-style">We study how workers substitute between job characteristics (amenities) when jobs offer several amenities together <br> <i> AEA Papers & Proceedings, Vol. 115, May 2025 </i> </div>
         <div class="stream-meta article-metadata">
                 <div>
                     <span class="author">César Garro-Marín,</span>
@@ -71,14 +71,14 @@ summary: List of my work in progress and publications
                     </div>
                 </div>
             </div>
-            <div class="btn-links">
+            <!--<div class="btn-links">
             <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_secondary_abstract')">
                     Full Abstract
             </a>
             <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/idn_secondary_expansion.pdf" target="_blank">Paper</a>
             <p id="idn_secondary_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>We evaluate the effects of a large upper secondary expansion in Indonesia.
             </p>
-            </div>
+            </div>-->
         </div>
     <div class="ml-3">
         <img src="/research/images/secondary_construction.png"   alt="Vocational Education and Structural Transformation" loading="lazy">
@@ -87,7 +87,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="akm">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">We use matched employer-employee data to study pay inequality in US academia  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> <font  color="#dd2c00"> | New draft! </font></div>
+        <div class="article-style">We use matched employer-employee data to study the sources of the higher faculty salaries at elite US universities  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> <font  color="#dd2c00"> | New draft! </font></div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
@@ -112,7 +112,7 @@ summary: List of my work in progress and publications
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="smk">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
         <div class="article-style">
-        We evaluate a large teacher training program in vocational schools in Indonesia <font  color="#dd2c00">  </font> </div>
+        We evaluate a large training program for vocational high school teachers in Indonesia <font  color="#dd2c00">  </font> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
