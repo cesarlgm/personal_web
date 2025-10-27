@@ -29,7 +29,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="amenities">Work Hours and Amenity Trade-offs</div>
-        <div class="article-style">We study how workers substitute between job characteristics (amenities) when jobs offer several amenities together <br> <i> AEA Papers & Proceedings, Vol. 115, May 2025 </i> </div>
+        <div class="article-style">We study how workers substitute between job benefits (amenities) when jobs bundle them together <br> <i> AEA Papers & Proceedings, Vol. 115, May 2025 </i> </div>
         <div class="stream-meta article-metadata">
                 <div>
                     <span class="author">César Garro-Marín,</span>
@@ -87,7 +87,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="akm">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">We use matched employer-employee data to study the sources of the higher faculty salaries at elite US universities  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> <font  color="#dd2c00"> | New draft! </font></div>
+        <div class="article-style">We use matched employer-employee data to study what explains higher faculty salaries at elite US universities  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> <font  color="#dd2c00"> | New draft! </font></div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
