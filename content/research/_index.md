@@ -71,14 +71,14 @@ summary: List of my work in progress and publications
                     </div>
                 </div>
             </div>
-            <!--<div class="btn-links">
+            <div class="btn-links">
             <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_secondary_abstract')">
                     Full Abstract
             </a>
-            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/idn_secondary_expansion.pdf" target="_blank">Paper</a>
-            <p id="idn_secondary_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>We evaluate the effects of a large upper secondary expansion in Indonesia.
+            <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/idn_secondary_expansion.pdf" target="_blank">Paper</a>-->
+            <p id="idn_secondary_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong> Expanding access to secondary education remains a challenge in many developing countries, where schooling is often a mix of public and private provision. This paper exploits Indonesia’s large-scale high school expansion to study how students and private schools respond to greater public secondary supply. Beginning in the early 2000s, the government built over 6,000 public high schools in 15 years, targeting low-enrollment districts and phasing construction nationwide. We exploit these features to estimate the expansion's effects using a staggered Difference-in-Differences design à la Callaway and Sant’Anna (2021). Despite the expansion's scale and persistence, we find no evidence of any sizable negative impact on private high schools. The expansion neither crowded out new private school investment nor reduced the quality of private school students. Furthermore, we find that while the expansion increased high school enrollment, there were large differences by gender and student background. The largest gains were concentrated among male students from more educated households, who likely face lower barriers to participation. 
             </p>
-            </div>-->
+            </div>
         </div>
     <div class="ml-3">
         <img src="/research/images/secondary_construction.png"   alt="Vocational Education and Structural Transformation" loading="lazy">
