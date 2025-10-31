@@ -62,7 +62,7 @@ summary: List of my work in progress and publications
 <div class="media-body">
     <div class="section-subheading article-title mb-0 mt-0" id="idn-secondary">Expanding Access in a Semi-Private Education Market: Evidence from a Large High School Expansion</div>
         <div class="article-style">
-            We study the effects expanding public secondary in a market with high private-sector participation <font  color="#dd2c00"> | Draft coming soon! </font>  </div>
+            We study the effects expanding public secondary in a market with high private-sector participation <font  color="#dd2c00"></font>  </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
