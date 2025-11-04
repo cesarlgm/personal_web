@@ -87,7 +87,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="akm">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">We use matched employer-employee data to study what explains higher faculty salaries at elite US universities  <br> <i> Revise and resubmit at The Review of Economics and Statistics </i> <font  color="#dd2c00"> | New draft! </font></div>
+        <div class="article-style">We use matched employer-employee data to study what explains higher faculty salaries at elite US universities  <br> <i> Conditionally accepted at the Review of Economics and Statistics </i> <font  color="#dd2c00"> | New draft! </font></div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
