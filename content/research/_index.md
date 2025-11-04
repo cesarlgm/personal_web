@@ -52,6 +52,30 @@ summary: List of my work in progress and publications
         <img src="/research/images/amenities_picture.png" alt="Work Hours and Amenity Trade-offs" loading="lazy">
     </div>
 </div>
+<div class="media stream-item view-compact">
+    <div class="media-body">
+        <div class="section-subheading article-title mb-0 mt-0" id="akm">Do Elite Universities Overpay their Faculty?</div>
+        <div class="article-style">We use matched employer-employee data to study what explains higher faculty salaries at elite US universities  <br> <i> Accepted at the Review of Economics and Statistics</div>
+        <div class="stream-meta article-metadata">
+            <div class="article-metadata">
+                <div>
+                    <span class="author">César Garro-Marín,</span>
+                    <span class="author"><a href="https://sites.bu.edu/shulamitkahn/">Shulamit Kahn</a>,</span>
+                    <span class="author"><a href="https://sites.bu.edu/kevinlang/">Kevin Lang</a></span>
+                </div>
+            </div>
+        </div>
+        <div class="btn-links">
+               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">Full Abstract</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">Paper</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nber.org/papers/w33005" target="_blank">NBER WP 33005</a>
+                <p id="akm_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>Do elite universities overpay their faculty? No. Elite institutions offer high salaries because they compete with other elite institutions for the most valued faculty. In contrast to the broader labor market, faculty are equally likely to move up and down the prestige ladder, and they increase their salary either way. We speculate that these differences reflect the visible nature of faculty productivity and the sporadic nature of academic job openings.</p>
+        </div>
+    </div>
+    <div class="ml-3">
+        <img src="/research/images/akm_image_resized.png" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+    </div>
+</div>
 </div>
 
 
@@ -82,30 +106,6 @@ summary: List of my work in progress and publications
         </div>
     <div class="ml-3">
         <img src="/research/images/secondary_construction.png"   alt="Vocational Education and Structural Transformation" loading="lazy">
-    </div>
-</div>
-<div class="media stream-item view-compact">
-    <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0" id="akm">Do Elite Universities Overpay their Faculty?</div>
-        <div class="article-style">We use matched employer-employee data to study what explains higher faculty salaries at elite US universities  <br> <i> Conditionally accepted at the Review of Economics and Statistics </i> <font  color="#dd2c00"> | New draft! </font></div>
-        <div class="stream-meta article-metadata">
-            <div class="article-metadata">
-                <div>
-                    <span class="author">César Garro-Marín,</span>
-                    <span class="author"><a href="https://sites.bu.edu/shulamitkahn/">Shulamit Kahn</a>,</span>
-                    <span class="author"><a href="https://sites.bu.edu/kevinlang/">Kevin Lang</a></span>
-                </div>
-            </div>
-        </div>
-        <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">Full Abstract</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">Paper</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nber.org/papers/w33005" target="_blank">NBER WP 33005</a>
-                <p id="akm_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>Do elite universities overpay their faculty? No. Elite institutions offer high salaries because they compete with other elite institutions for the most valued faculty. In contrast to the broader labor market, faculty are equally likely to move up and down the prestige ladder, and they increase their salary either way. We speculate that these differences reflect the visible nature of faculty productivity and the sporadic nature of academic job openings.</p>
-        </div>
-    </div>
-    <div class="ml-3">
-        <img src="/research/images/akm_image_resized.png" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-showcase">
