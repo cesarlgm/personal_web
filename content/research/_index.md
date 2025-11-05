@@ -207,7 +207,7 @@ summary: List of my work in progress and publications
             <div class="media-body">
                 <div class="section-subheading article-title mb-0 mt-0" id="gender-conflict">Gender and violent conflict</div>
                     <div class="article-style">
-                        We study the long term effects of violent conflict on household decision making in Mexico
+                        We study the long-term effects of violent conflict on household decision-making in Mexico
                     </div>
                     <div class="stream-meta article-metadata">
                         <div class="article-metadata">
