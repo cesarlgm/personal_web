@@ -28,7 +28,7 @@ social:
   icon_pack: fab
   link: https://www.github.com/cesarlgm
 - icon: orcid
-  iconpack: fab
+  icon_pack: ai
   link: https://orcid.org/0009-0009-8860-8697
 #- icon: google-scholar
 #  icon_pack: ai
