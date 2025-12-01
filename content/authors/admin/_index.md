@@ -24,21 +24,21 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:cgarrom@ed.ac.uk  # For a direct email link, use "mailto:test@example.org".
-- icon: github
-  icon_pack: fab
-  link: https://www.github.com/cesarlgm
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0009-8860-8697
+- icon: cv
+  icon_pack: ai
+  link: https://cesarlgm.github.io/documents/profile/GMCesar_CV.pdf
+- icon: github
+  icon_pack: fab
+  link: https://www.github.com/cesarlgm
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=ALUCkoUoKtbPiRsf0wZK6UcMuJWcXRFaq_PaVe4eAmIFjfK_uRasrYf9-HHcQj5bXxB0-9jAtOwn3OaC6TaaWQ&user=HrWfU6AAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/cesarlgm
-- icon: cv
-  icon_pack: ai
-  link: https://cesarlgm.github.io/documents/profile/GMCesar_CV.pdf
 #- icon: calendar-check
 #  icon_pack: fas
 #  link: https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/
