@@ -79,6 +79,7 @@ sections:
       title: News
       text: |-
             - **December 2025:** 
+            
               -I will be presenting our paper:
                 - On the interaction between [education and skills at work](/research/#skill-use) at the EWMES 2025 in Cyprus.
                 - On the [US academic market](/research/#akm) at SAEe 2025 in Barcelona.
