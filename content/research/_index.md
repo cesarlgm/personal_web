@@ -112,7 +112,7 @@ summary: List of my work in progress and publications
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="smk">Linking Vocational Schools to Industry: Effects on Teachers in Indonesia</div>
         <div class="article-style">
-        We evaluate a large training program for vocational high school teachers in Indonesia <font  color="#dd2c00">| Revised draft!  </font> </div>
+        We evaluate a large training program for vocational high school teachers in Indonesia <font  color="#dd2c00">| Revised draft!  </font> <br> Submitted </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
