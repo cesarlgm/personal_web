@@ -18,7 +18,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
                   <u>Applied Labor Economics</u>,  Fall 2023, Fall 2024, Fall 2025  <br> Fourth-year undergraduate elective introducing students to major topics and empirical methods in labor economics. <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10112.htm" target="_blank">Class description</a>
                 </li>
                 <li>
-                  <u>Development Economics</u>,  Spring 2024, Spring 2025  <br> Third-year undergraduate elective introducing students to major topics in development economics. <br> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/ECNM10061_Development_Economics 2024-2025.pdf" target="_blank">Syllabus</a>  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10061.htm" target="_blank">Class description</a> 
+                  <u>Development Economics</u>,  Spring 2024, Spring 2025, Spring 2026  <br> Third-year undergraduate elective introducing students to major topics in development economics. <br> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/ECNM10061_Development_Economics 2024-2025.pdf" target="_blank">Syllabus</a>  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10061.htm" target="_blank">Class description</a> 
                 </li>
                 <li>
                   <u>Honours Dissertation Supervision</u>,  2023-2024, 2024-2025. <br> Supervised dissertation work for fourth-year undergraduate students (year-long course).
@@ -89,7 +89,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 -->
 
 
-## Office Hours Schedule, Fall 2025 ##{#office-hours}
+## Office Hours Schedule, Spring 2026 ##{#office-hours}
 <hr>
 <div class="universal-wrapper">
 
@@ -105,7 +105,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 <td>
 <ul>
   <br> 
-  <li><strong>Starting week 2:</strong> Thursdays, 4:30 to 5:30 pm, </li>
+  <li><strong>Starting week 1:</strong> Wednesdays, 3:30 to 4:30 pm, </li>
   Book your 20 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
   <br>
   If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place </a>. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
@@ -121,9 +121,9 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 <td>
 <ul>
    <br> 
-  <li> <strong>Starting week 5:</strong> Thursdays, 3:30 to 4:30 pm, </li>
+  <li> <strong>Starting week 6:</strong> Wednesdays, 4:30 to 5:30 pm, </li>
   Book your 10 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br><br>
-  If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> <strong>Weeks 5-9:</strong> Room 2.11, 31 Buccleuch Place. <br> <i class="fa-sharp fa-solid fa-location-pin"></i> <strong>Week 10:</strong>  Room 4.05, 31 Buccleuch Place</a>. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
+  If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
 </ul>
 </td>
 </tr>
