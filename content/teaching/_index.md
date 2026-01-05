@@ -108,12 +108,12 @@ summary: Taught at University of Edinburgh, Boston University and University of 
   <li><strong>Starting week 1:</strong> Wednesdays, 3:30 to 4:30 pm, </li>
   Book your 20 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
   <br>
-  If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place </a>. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
+  If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place </a>. <br> Otherwise, use the link sent to your email to join the virtual meeting.
   <br>
   <br>
 <tr>
 <td  style="vertical-align:top" width="40%">
-<p><strong> Applied Labour Economics</strong><br>
+<p><strong> Development Economics</strong><br>
   By appointment
 </p>
 </td>
@@ -123,7 +123,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
    <br> 
   <li> <strong>Starting week 6:</strong> Wednesdays, 4:30 to 5:30 pm, </li>
   Book your 10 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br><br>
-  If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place. <br> Otherwise, use the link sent to your mail to join the virtual meeting.
+  If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place.</a> <br> Otherwise, use the link sent to your email to join the virtual meeting.
 </ul>
 </td>
 </tr>
