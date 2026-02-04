@@ -1,0 +1,28 @@
+{{/* Site-wide Last Modified Footer */}}
+{{ $lastMod := "" }}
+{{ $gitDate := "" }}
+
+{{/* Try to get the most recent commit date from any page */}}
+{{ range first 1 (where site.Pages "GitInfo" "!=" nil) }}
+  {{ $gitDate = .GitInfo.AuthorDate.Format "January 2, 2006" }}
+{{ end }}
+
+{{ if $gitDate }}
+  {{ $lastMod = $gitDate }}
+{{ else }}
+  {{ $lastMod = now.Format "January 2, 2006" }}
+{{ end }}
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <div class="last-modified-footer">
+          <small class="text-muted">
+            <i class="fas fa-code-branch"></i> Repository last updated: {{ $lastMod }}
+          </small>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,17 @@
+{{/* Last Modified Shortcode - Usage: {{< last-modified >}} */}}
+{{ $lastMod := "" }}
+{{ $format := .Get 0 | default "January 2, 2006" }}
+
+{{ if .Page.GitInfo }}
+  {{ $lastMod = .Page.GitInfo.AuthorDate.Format $format }}
+{{ else if .Page.Lastmod }}
+  {{ $lastMod = .Page.Lastmod.Format $format }}
+{{ else if .Page.Date }}
+  {{ $lastMod = .Page.Date.Format $format }}
+{{ end }}
+
+{{ if $lastMod }}
+<span class="last-modified-shortcode">
+  <i class="fas fa-clock"></i> Last updated: {{ $lastMod }}
+</span>
+{{ end }}

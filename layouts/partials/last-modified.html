@@ -1,0 +1,17 @@
+{{/* Last Modified Date Component */}}
+{{ $lastMod := "" }}
+{{ if .GitInfo }}
+  {{ $lastMod = .GitInfo.AuthorDate.Format "January 2, 2006" }}
+{{ else if .Lastmod }}
+  {{ $lastMod = .Lastmod.Format "January 2, 2006" }}
+{{ else if .Date }}
+  {{ $lastMod = .Date.Format "January 2, 2006" }}
+{{ end }}
+
+{{ if $lastMod }}
+<div class="last-modified-info">
+  <small class="text-muted">
+    <i class="fas fa-clock"></i> Last updated: {{ $lastMod }}
+  </small>
+</div>
+{{ end }}

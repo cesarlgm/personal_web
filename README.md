@@ -1,11 +1,11 @@
-# Academic Pages Template for [Hugo](https://github.com/gohugoio/hugo)
+# [Personal Website](https://github.com/gohugoio/hugo) Code
+![Last Updated](https://img.shields.io/github/last-commit/cesarlgm/personal_web)
 
-### Exclusive to [Sponsors](https://github.com/sponsors/gcushen): ❤️ Thanks for your support ❤️
+Thank you for visiting! 
 
-The Academic Pages template enables you to quickly create a multi-page academic resumé with publications.
+This repository uses a customized version of  [Hugo themes](https://github.com/gohugoio/hugo) to
+build my personal website. 
 
-[![Screenshot](preview.webp)](https://hugo-academic-pages.netlify.app/)
+For any question, contact me at [cgarrom@ed.ac.uk](mailto:cgarrom@ed.ac.uk).
 
-## License 
 
-This template/theme is licensed to sponsors of George Cushen (sponsoring via GitHub Sponsors or Patreon) under the Sponsor License (see attached `../../LICENSE.md`).
