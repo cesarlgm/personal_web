@@ -9,11 +9,22 @@ baseURL: 'https://www.cesargarromarin.com/' # Website URL
 ############################
 ## LANGUAGE
 ############################
-
-languageCode: en-us
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: false
+disableDefaultLanguageRedirect: false
 hasCJKLanguage: false
 removePathAccents: true
 
+
+languages:
+  en:
+    languageCode: en-US
+    languageName: English
+    weight: 1
+  es:
+    languageCode: es-ES
+    languageName: Español
+    weight: 1
 ############################
 ## MODULES
 ############################
