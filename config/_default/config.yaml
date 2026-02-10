@@ -24,6 +24,7 @@ languages:
   es:
     languageCode: es-ES
     languageName: Español
+    contentDir: content/es/
     weight: 1
 ############################
 ## MODULES
