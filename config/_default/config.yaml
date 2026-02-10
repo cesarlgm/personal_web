@@ -20,14 +20,13 @@ languages:
   en:
     languageCode: en-US
     languageName: English
+    title: César Garro-Marín
     weight: 1
   es:
     languageCode: es-ES
     languageName: Español
-    weight: 2
-
-
-############################
+    title: César Garro-Marín
+    
 ## MODULES
 ############################
 
