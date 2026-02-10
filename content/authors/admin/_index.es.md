@@ -6,15 +6,15 @@ title: César Garro-Marín
 superuser: true
 
 # Role/position
-role: Fixed-Term Lecturer and Researcher
+role: Investigador Post-Doctoral
 
 # Organizations/Affiliations
 organizations:
-- name: University of Edinburgh
+- name: Universidad de Edimburgo
   url: "https://www.ed.ac.uk/economics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an applied economists with interests in gender, labor, and development economics.
+bio: Soy un economista interesado en economía de género, laboral y del desarrollo.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
