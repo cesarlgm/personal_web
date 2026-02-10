@@ -26,8 +26,9 @@ languages:
     languageCode: es-ES
     languageName: Español
     title: César Garro-Marín
-    
-## MODULES
+    weight: 2
+
+############################ MODULES
 ############################
 
 module:
