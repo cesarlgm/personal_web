@@ -1,5 +1,5 @@
 ---
-title: Research
+title:
 summary: List of my work in progress and publications
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title:
 summary: Taught at University of Edinburgh, Boston University and University of Costa Rica
 ---
 
