@@ -19,12 +19,12 @@ removePathAccents: true
 languages:
   en:
     languageCode: en-US
-    languageName: English
+    languageName: ENG
     title: César Garro-Marín
     weight: 1
   es:
     languageCode: es-ES
-    languageName: Español
+    languageName: ESP
     title: César Garro-Marín
     weight: 2
 
