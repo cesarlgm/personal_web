@@ -24,7 +24,6 @@ languages:
   es:
     languageCode: es-ES
     languageName: Español
-    contentDir: es/
     weight: 2
 
 
