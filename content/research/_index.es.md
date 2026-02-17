@@ -86,7 +86,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
 <div class="media-body">
     <div class="section-subheading article-title mb-0 mt-0" id="idn-secondary_es">Expanding Access in a Semi-Private Education Market: Evidence from a Large High School Expansion</div>
         <div class="article-style">
-            Estudiamos los efectos de expandir la educación secundaria pública en un mercado educativo con alta participación del sector privado <font  color="#dd2c00">(Artículo del Mercado Laboral)</font>  </div>
+            Estudiamos los efectos de expandir la educación secundaria pública en un mercado educativo con alta participación del sector privado <font  color="#dd2c00"></font>  </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
