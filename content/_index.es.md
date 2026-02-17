@@ -23,7 +23,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'Welcome'
+      title: 'Bienvenido(a)'
       subtitle: ''
       text: |-
 
