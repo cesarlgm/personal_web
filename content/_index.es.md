@@ -68,7 +68,7 @@ sections:
         -->
         ***
 
-        **Para estudiantes:** pueden encontrar mi horario de oficina en la sección de [docencia](/teaching/#office-hours)
+        **Para estudiantes:** pueden encontrar mi horario de oficina en la sección de [docencia](/teaching/#office-hours_es)
 
         ***
     design:
@@ -79,16 +79,12 @@ sections:
       title: Noticias
       text: |-
             - **Diciembre 2025:** 
-              - Nueva versión de nuestro artículo evaluando [capacitación docente a nivel nacional](/research/#smk) en Indonesia.
+              - Nueva versión de nuestro artículo evaluando [capacitación docente a nivel nacional](/research/#smk_es) en Indonesia.
               - Presentaré nuestro artículo:
-                - Sobre la interacción entre [educación y habilidades en el trabajo](/research/#skill-use) en EWMES 2025 en Chipre.
-                - Sobre el [mercado académico estadounidense](/research/#akm) en SAEe 2025 en Barcelona.
-            - **Noviembre 2025:** nuestro artículo sobre [salarios del personal académico en universidades de EE.UU.](/research/#akm) fue aceptado en el *Review of Economics and Statistics*.
-            - **Septiembre 2025:** La [British Academy](https://www.thebritishacademy.ac.uk/) nos otorgó una [BA/Leverhulme Small Research Grant](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/) para estudiar los efectos a largo plazo del [conflicto violento en la toma de decisiones del hogar](/research/#gender-conflict).
-            <!--- **August 2025:** New draft of our paper studying [salaries of US academics](/research/#akm).
-            - **June 2025:** I will presenting our paper on the interaction between [education and skills at work](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
-            - **May 2025:** Our paper on [trade offs of workplace amenities](/research/#amenities) was published in *AEA Papers and Proceedings*. 
-            - **March 2025:** New draft of our paper studying a [teacher training intervention](/research/#smk) in Indonesian vocational high schools. -->
+                - Sobre la interacción entre [educación y habilidades en el trabajo](/research/#skill-use_es) en EWMES 2025 en Chipre.
+                - Sobre el [mercado académico estadounidense](/research/#akm_es) en SAEe 2025 en Barcelona.
+            - **Noviembre 2025:** nuestro artículo sobre [salarios del personal académico en universidades de EE.UU.](/research/#akm_es) fue aceptado en el *Review of Economics and Statistics*.
+            - **Septiembre 2025:** La [British Academy](https://www.thebritishacademy.ac.uk/) nos otorgó una [BA/Leverhulme Small Research Grant](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/) para estudiar los efectos a largo plazo del [conflicto armado en la toma de decisiones del hogar](/research/#gender-conflict_es).
       design:
       columns: '1'
 ---
