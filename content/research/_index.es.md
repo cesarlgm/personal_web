@@ -1,6 +1,6 @@
 ---
-title: Investigación
-summary: Lista de mi trabajo en progreso y publicaciones
+title:
+summary: Lista de mis publicaciones y trabajo en progreso
 ---
 
 
