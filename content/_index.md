@@ -30,9 +30,9 @@ sections:
 
         Thank you for visiting my personal webpage! 
         
-        I am an Fixed-Term Lecturer and Researcher at the [School of Economics of the University of Edinburgh](https://www.ed.ac.uk/economics) and a Research Affiliate at [RF Berlin](https://www.rfberlin.com/about/). 
+        I am a Fixed-Term Lecturer and Researcher at the [School of Economics of the University of Edinburgh](https://www.ed.ac.uk/economics) and a Research Affiliate at [RF Berlin](https://www.rfberlin.com/about/). 
         
-        I am a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to gender inequality, skill acquisition, and education.
+        I am a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to education, gender inequality, and job amenities.
 
         I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
         <br>

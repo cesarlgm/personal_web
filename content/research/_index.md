@@ -43,7 +43,7 @@ summary: List of my work in progress and publications
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">Full Abstract</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">Paper</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nber.org/papers/w33005" target="_blank">NBER WP 33005</a>
-               <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/cesarlgm/GMKL_2026_replication" target="_blank">Replication Rackage</a>-->
+               <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/cesarlgm/GMKL_2026_replication" target="_blank">Replication Package</a>-->
                 <p id="akm_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>Do elite universities overpay their faculty? No. Elite institutions offer high salaries because they compete with other elite institutions for the most valued faculty. In contrast to the broader labor market, faculty are equally likely to move up and down the prestige ladder, and they increase their salary either way. We speculate that these differences reflect the visible nature of faculty productivity and the sporadic nature of academic job openings.</p>
         </div>
     </div>
@@ -67,7 +67,7 @@ summary: List of my work in progress and publications
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">Pre-print</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031" target="_blank">Paper</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf" target="_blank">Online Appendix</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.openicpsr.org/openicpsr/project/221382/version/V1/view" target="_blank">Replication Rackage</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.openicpsr.org/openicpsr/project/221382/version/V1/view" target="_blank">Replication Package</a>
             <p id="amenities_abstract" class="hidden" style="display: none; text-align: justify"><br>
                 <strong>Abstract: </strong> We examine whether workers who place a higher value on specific job amenities are more likely to receive them in exchange for lower wages. While the classic compensating differentials model (Rosen, 1986) suggests they would, we show that when multiple amenities are considered together, the trade-offs become more complex. We develop a model that accounts for complementarity and substitutability in firms’ amenity offerings and workers’ preferences. Using data from the NLSY97, we find that shorter or more flexible work hours are often traded for other benefits, shaping gender disparities in wages and job amenities.
             </p>
@@ -87,7 +87,7 @@ summary: List of my work in progress and publications
 <div class="media-body">
     <div class="section-subheading article-title mb-0 mt-0" id="idn-secondary">Expanding Access in a Semi-Private Education Market: Evidence from a Large High School Expansion</div>
         <div class="article-style">
-            We study the effects of expanding public secondary in a market with high private-sector participation <font  color="#dd2c00"></font>  </div>
+            We study the effects of expanding public secondary education in a market with high private-sector participation <font  color="#dd2c00"></font>  </div>
             <div class="stream-meta article-metadata">
                 <div class="article-metadata">
                     <div>
@@ -101,12 +101,12 @@ summary: List of my work in progress and publications
                     Full Abstract
             </a>
             <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/idn_secondary_expansion.pdf" target="_blank">Paper</a>
-            <p id="idn_secondary_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong> Expanding access to secondary education remains a challenge in many developing countries, where schooling is often a mix of public and private provision. This paper exploits Indonesia’s large-scale high school expansion to study how students and private schools respond to greater public secondary supply. Beginning in the early 2000s, the government built over 6,000 public high schools in 15 years, targeting low-enrollment districts and phasing construction nationwide. We exploit these features to estimate the expansion's effects using a staggered Difference-in-Differences design à la Callaway and Sant’Anna (2021). Despite the expansion's scale and persistence, we find no evidence of any sizable negative impact on private high schools. The expansion neither crowded out new private school investment nor reduced the quality of private school students. Furthermore, we find that while the expansion increased high school enrollment, there were large differences by gender and student background. The largest gains were concentrated among male students from more educated households, who likely face lower barriers to participation. 
+            <p id="idn_secondary_abstract" class="hidden" style="display: none; font-size:0.5em; text-align: justify"><br><strong>Abstract: </strong> Expanding access to secondary education remains a challenge in many developing countries, where schooling is often a mix of public and private provision. This paper exploits Indonesia’s large-scale high school expansion to study how students and private schools respond to greater public secondary supply. Beginning in the early 2000s, the government built over 6,000 public high schools in 15 years, targeting low-enrollment districts and phasing construction nationwide. We exploit these features to estimate the expansion's effects using a staggered Difference-in-Differences design à la Callaway and Sant’Anna (2021). Despite the expansion's scale and persistence, we find no evidence of any sizable negative impact on private high schools. The expansion neither crowded out new private school investment nor reduced the quality of private school students. Furthermore, we find that while the expansion increased high school enrollment, there were large differences by gender and student background. The largest gains were concentrated among male students from more educated households, who likely face lower barriers to participation. 
             </p>
             </div>
         </div>
     <div class="ml-3">
-        <img src="/research/images/secondary_construction.png"   alt="Vocational Education and Structural Transformation" loading="lazy">
+        <img src="/research/images/secondary_construction.png" alt="Vocational Education and Structural Transformation" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-showcase">
@@ -129,7 +129,7 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/smk_figure.png"  alt="Linking Vocational Schools to Industry: Effects on Teachers in Indonesia" loading="lazy">
+        <img src="/research/images/smk_figure.png" alt="Linking Vocational Schools to Industry: Effects on Teachers in Indonesia" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-compact">
@@ -150,7 +150,7 @@ summary: List of my work in progress and publications
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/idn_image_resized.png"   alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
+        <img src="/research/images/idn_image_resized.png" alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
     </div>
 </div>
 </div>
@@ -197,11 +197,11 @@ summary: List of my work in progress and publications
                 </a>
                 <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">Paper</a>
                 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">Slides</a>-->
-                <p id="uk_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do the same jobs differently. We introduce a model in which each education level affords workers a menu of skill packages. While we classify skills into four broad categories, we allow the productivity and substitutability of skills to differ across occupations. Moreover, the change in productivity over time is specific to each skill and occupation. Consequently, we implicitly allow the nature of skills within these broad aggregates to differ among occupations. We identify the cost of acquiring different skills based primarily on these within-occupation differences. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skill while less educated workers acquire manual skill at lower relative cost. These cost differences are consistent with the occupations workers with different levels of education choose.</p>
+                <p id="uk_abstract" class="hidden" style="display: none; font-size:0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do the same jobs differently. We introduce a model in which each education level affords workers a menu of skill packages. While we classify skills into four broad categories, we allow the productivity and substitutability of skills to differ across occupations. Moreover, the change in productivity over time is specific to each skill and occupation. Consequently, we implicitly allow the nature of skills within these broad aggregates to differ among occupations. We identify the cost of acquiring different skills based primarily on these within-occupation differences. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skill while less educated workers acquire manual skill at lower relative cost. These cost differences are consistent with the occupations workers with different levels of education choose.</p>
             </div>
         </div>
         <div class="ml-3">
-            <img src="/research/images/skills_image.png"   alt="Skill Use in Jobs: The Role of Education and Techonology" loading="lazy">
+            <img src="/research/images/skills_image.png" alt="Skill Use in Jobs: The Role of Education and Technology" loading="lazy">
         </div>
     </div>
         <div class="media stream-item view-compact">
@@ -223,12 +223,12 @@ summary: List of my work in progress and publications
                         <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('gender_idn_abstract')" style="font-size:0.8em">
                             Full Abstract
                         </a>
-                            <p id="gender_idn_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>Exposure to violence has well-documented harmful effects, yet we know relatively little about how it impacts decision-making within households, and whether its impact varies for men and women. Understanding these effects is crucial for designing well-targeted policies that address these harms effectively. In this project, we study how exposure to violence affects the work and family choices of men and women roles using data from Mexico. To identify the effects of exposure, we take advantage of rich administrative and survey data and use a Difference-in-Difference strategy that exploits within-country differences in exposure, driven by Mexico’s dramatic increase in drug-related violence during the 2000s.
+                            <p id="gender_idn_abstract" class="hidden" style="display: none; font-size:0.5em; text-align: justify"><br><strong>Abstract: </strong>Exposure to violence has well-documented harmful effects, yet we know relatively little about how it impacts decision-making within households, and whether its impact varies for men and women. Understanding these effects is crucial for designing well-targeted policies that address these harms effectively. In this project, we study how exposure to violence affects the work and family choices of men and women using data from Mexico. To identify the effects of exposure, we take advantage of rich administrative and survey data and use a Difference-in-Difference strategy that exploits within-country differences in exposure, driven by Mexico’s dramatic increase in drug-related violence during the 2000s.
                             </p>
                     </div>    
             </div>
             <div class="ml-3">
-                <img src="/research/images/gender_conflict.jpg"   alt="Gender and conflict" loading="lazy">
+                <img src="/research/images/gender_conflict.jpg" alt="Gender and conflict" loading="lazy">
             </div>
         </div>
     <!--
@@ -249,7 +249,7 @@ summary: List of my work in progress and publications
                             <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract')" style="font-size:0.8em">
                                     Full Abstract
                                 </a>
-                                <p id="uk_abstract" class="hidden" style="display: none; font-size=0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do the same jobs differently. We introduce a model in which each education level affords workers a menu of skill packages. While we classify skills into four broad categories, we allow the productivity and substitutability of skills to differ across occupations. Moreover, the change in productivity over time is specific to each skill and occupation. Consequently, we implicitly allow the nature of skills within these broad aggregates to differ among occupations. We identify the cost of acquiring different skills based primarily on these within-occupation differences. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skill while less educated workers acquire manual skill at lower cost. These cost differences are consistent with the occupations workers with different levels of education choose.</p>
+                                <p id="uk_abstract" class="hidden" style="display: none; font-size:0.5em; text-align: justify"><br><strong>Abstract: </strong>Workers with different education levels consistently do the same jobs differently. We introduce a model in which each education level affords workers a menu of skill packages. While we classify skills into four broad categories, we allow the productivity and substitutability of skills to differ across occupations. Moreover, the change in productivity over time is specific to each skill and occupation. Consequently, we implicitly allow the nature of skills within these broad aggregates to differ among occupations. We identify the cost of acquiring different skills based primarily on these within-occupation differences. We find that more educated workers have lower costs of investing in social, adaptive, and abstract skill while less educated workers acquire manual skill at lower cost. These cost differences are consistent with the occupations workers with different levels of education choose.</p>
                                 </div>
                         </div>
                         <div class="ml-3">

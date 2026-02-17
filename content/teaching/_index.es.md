@@ -1,33 +1,33 @@
 ---
-title: Teaching
-summary: Taught at University of Edinburgh, Boston University and University of Costa Rica
+title:
+summary: Docente en la Universidad de Edimburgo, la Universidad de Boston y la Universidad de Costa Rica
 ---
 
-## Teaching ##
+## Experiencia docente ##
 <hr>
 
 
 <div class="universal-wrapper">
   <div class="media stream-item view-compact">
       <div class="media-body">
-          <div class="section-subheading article-title mb-0 mt-0"><a href="https://www.ed.ac.uk/economics" target="_blank" rel="noopener">University of Edinburgh</a></div>
+          <div class="section-subheading article-title mb-0 mt-0"><a href="https://www.ed.ac.uk/economics" target="_blank" rel="noopener">Universidad de Edimburgo</a></div>
             <div class="article-style">
               <strong><font  color="#F45050">Instructor</font> </strong><br>
               <ul>
                 <li>
-                  <u>Applied Labor Economics</u>,  Fall 2023, Fall 2024, Fall 2025  <br> Fourth-year undergraduate elective introducing students to major topics and empirical methods in labor economics. <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10112.htm" target="_blank">Class description</a>
+                  <u>Economía laboral aplicada (EN)</u>,  Otoño 2023&ndash;Otoño 2025  <br> Curso optativo del cuarto año de grado que introduce a los estudiantes a los principales temas y métodos empíricos en economía laboral. <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Programa (EN)</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10112.htm" target="_blank">Descripción de la clase (EN)</a>
                 </li>
                 <li>
-                  <u>Development Economics</u>,  Spring 2024, Spring 2025, Spring 2026  <br> Third-year undergraduate elective introducing students to major topics in development economics. <br> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/ECNM10061_Development_Economics 2024-2025.pdf" target="_blank">Syllabus</a>  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10061.htm" target="_blank">Class description</a> 
+                  <u>Economía del desarrollo</u>,  Primavera  2024&ndash;Primavera 2026  <br> Curso optativo del tercer año de grado que introduce a los estudiantes a los principales temas de la economía del desarrollo. <br> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/ECNM10061_Development_Economics 2024-2025.pdf" target="_blank">Programa (EN)</a>  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10061.htm" target="_blank">Descripción de la clase (EN)</a> 
                 </li>
                 <li>
-                  <u>Honours Dissertation Supervision</u>,  2023-2024, 2024-2025. <br> Supervised dissertation work for fourth-year undergraduate students (year-long course).
+                  <u>Trabajos de final de grado</u>,  2023&ndash;2026. <br> Trabajo de tesis supervisado para estudiantes de grado de cuarto año (curso de un año de duración).
                 </li>
               </ul>
             <strong><font  color="#F45050">Tutor</font> </strong><br>
                 <ul>
                   <li>
-                    <u>Essentials of Econometrics</u>,  Fall 2023, Fall 2024, Fall 2025  <br> Tutored for this third-year compulsory undergraduate class in Econometrics. <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10052.htm" target="_blank">Class description</a>
+                    <u>Fundamentos de econometría</u>,  Otoño 2023&ndash;Otoño 2025  <br> Tutor de clase obligatoria del grado en economía. <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10052.htm" target="_blank">Descripción de la clase (EN)</a>
                   </li>
                 </ul>
             </div>
@@ -38,18 +38,18 @@ summary: Taught at University of Edinburgh, Boston University and University of 
   </div>
   <div class="media stream-item view-compact">
       <div class="media-body">
-          <div class="section-subheading article-title mb-0 mt-0"><a href="https://www.bu.edu/econ/" target="_blank" rel="noopener">Boston University</a></div>
+          <div class="section-subheading article-title mb-0 mt-0"><a href="https://www.bu.edu/econ/" target="_blank" rel="noopener">Universidad de Boston</a></div>
             <div class="article-style">
-              <strong><font   color="#F45050">Teaching Assistant</font> </strong><br>
-              <i><u>Graduate level</i></u>
+              <strong><font   color="#F45050">Asistente de docencia</font> </strong><br>
+              <u><i>Posgrado</i></u>
               <ul>
-                <li><u>Economics of Labor Markets</u> (<a href="https://sites.google.com/view/paserman/home">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
+                <li><u>Economía laboral</u> (<a href="https://sites.google.com/view/paserman/home">Prof. Daniele Paserman</a>), Primavera 2020, Otoño 2021. <br> Clase de máster que estudia los mercados laborales y sus instituciones en los Estados Unidos.</li>
               </ul>
-              <i><u>Undergraduate level</i></u>
+              <u><i>Grado</i></u>
               <ul>
-                <li><u>Poverty and Discrimination</u> (<a href="https://sites.bu.edu/kevinlang/">Prof. Kevin Lang</a>), Fall 2019. <br> 
-                This class examines who is poor in the United States and how the evidence of poverty has changed over time. </li>
-                <li><u>Principles of Microeconomics</u> (Prof. Todd Idson), Fall 2018-Spring 2019 <br> Class introducing students to basic micro and macroeconomic topics in economics.</li>
+                <li><u>Pobreza y discriminación</u> (<a href="https://sites.bu.edu/kevinlang/">Prof. Kevin Lang</a>), Otoño 2019. <br> 
+                Esta clase examina las causas y consecuencias de la pobreza y la discriminación en los Estados Unidos. </li>
+                <li><u>Principios de microeconomía</u> (Prof. Todd Idson), Otoño 2018-Primavera 2019 <br> Clase que introduce conceptos microeconómicos básicos.</li>
               </ul>
             </div>
       </div>
@@ -59,11 +59,11 @@ summary: Taught at University of Edinburgh, Boston University and University of 
   </div>
   <div class="media stream-item view-compact">
       <div class="media-body">
-          <div class="section-subheading article-title mb-0 mt-0"><a href="https://economia.ucr.ac.cr/" target="_blank" rel="noopener">University of Costa Rica</a></div>
+          <div class="section-subheading article-title mb-0 mt-0"><a href="https://economia.ucr.ac.cr/" target="_blank" rel="noopener">Universidad de Costa Rica</a></div>
             <div class="article-style">
              <strong><font  color="#F45050">Instructor</font> </strong><br>
               <ul>
-                <li> <u>Principles of Economics</u>, Spring 2014-Spring 2015<br>Undergraduate class that introduced non-economics majors to basic economic concepts.</li>
+                <li> <u>Principios de economía</u>, Primavera 2014-Primavera 2015<br>Clase de grado que introduce conceptos básicos de micro y macroeconomía.</li>
               </ul>
             </div>
       </div>
@@ -89,7 +89,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 -->
 
 
-## Office Hours Schedule, Spring 2026 ##{#office-hours}
+## Horario de oficina, primavera de 2026 ##{#office-hours}
 <hr>
 <div class="universal-wrapper">
 
@@ -98,32 +98,33 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 <tbody>
 <tr>
 <td  style="vertical-align:top" width="40%">
-<p><strong> Dissertation Supervision</strong><br>
-  By appointment
+<p><strong> Trabajo final de grado</strong><br>
+  Con cita
 </p>
 </td>
 <td>
 <ul>
   <br> 
-  <li><strong>Starting week 1:</strong> Wednesdays, 3:30 to 4:30 pm, </li>
-  Book your 20 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br>
+  <li><strong>Comenzando en la semana 1:</strong> miércoles, 3:30 a 4:30 pm, </li>
+  Reserva tu cita de 20 minutos <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">acá</a>.<br>
   <br>
-  If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place </a>. <br> Otherwise, use the link sent to your email to join the virtual meeting.
+  Si tu cita es <strong>en persona</strong>, ocurrirá en <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> la oficina 2.11, 31 Buccleuch Place </a>. <br> De lo contrario, usa el link enviado a tu correo electrónico para unirte a la reunión virtual.
   <br>
   <br>
 <tr>
 <td  style="vertical-align:top" width="40%">
-<p><strong> Development Economics</strong><br>
-  By appointment
+<p><strong> Economía del desarrollo</strong><br>
+  Con cita
 </p>
 </td>
 </ul>
 <td>
 <ul>
    <br> 
-  <li> <strong>Starting week 6:</strong> Wednesdays, 4:30 to 5:30 pm, </li>
-  Book your 10 min slot <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">here</a>.<br><br>
-  If your meeting is <strong>in person</strong>, it will take place at <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> Room 2.11, 31 Buccleuch Place.</a> <br> Otherwise, use the link sent to your email to join the virtual meeting.
+  <li> <strong>Comenzando en la semana 6:</strong> miércoles, 4:30 a 5:30 pm, </li>
+  Reserva tu cita de 10 minutos <a href="https://outlook.office365.com/owa/calendar/Meetingslots@uoe.onmicrosoft.com/bookings/">acá</a>.<br>
+  <br>
+  Si tu cita es <strong>en persona</strong>, ocurrirá en <a href="https://maps.app.goo.gl/WagPyxj5mxZuw94u5"> <br> <i class="fa-sharp fa-solid fa-location-pin"></i> la oficina 2.11, 31 Buccleuch Place </a>. <br> De lo contrario, usa el link enviado a tu correo electrónico para unirte a la reunión virtual.
 </ul>
 </td>
 </tr>

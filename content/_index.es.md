@@ -30,15 +30,15 @@ sections:
 
         ¡Gracias por visitar mi página web! 
         
-        I am an Fixed-Term Lecturer and Researcher at the [School of Economics of the University of Edinburgh](https://www.ed.ac.uk/economics) and a Research Affiliate at [RF Berlin](https://www.rfberlin.com/about/). 
+        Soy un Investigador Postdoctoral en la [Escuela de Economía de la Universidad de Edimburgo](https://www.ed.ac.uk/economics) e Investigador Asociado en [RF Berlin](https://www.rfberlin.com/about/). 
         
-        I am a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to gender inequality, skill acquisition, and education.
-
-        I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
+        Trabajo en temas de **economía laboral** y **del desarrollo**. Estoy particularmente interesado en educación, desigualdad de género y beneficios laborales.
+        
+        Obtuve mi doctorado en economía en la [**Universidad de Boston**](https://www.bu.edu/econ/).
         <br>
         <br>
         ***
-
+        <!--
         I am on the **2025-2026 Economics Job Market.** 
         
         You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.       
@@ -65,10 +65,10 @@ sections:
         ***
 
         <br>
-        
+        -->
         ***
 
-        **For students:** you can find my office hours schedule and the link to book a meeting on my [teaching page](/teaching/#office-hours)
+        **Para estudiantes:** pueden encontrar mi horario de oficina en la sección de [docencia](/teaching/#office-hours)
 
         ***
     design:
@@ -76,15 +76,15 @@ sections:
   - block: markdown
     id: news
     content:
-      title: News
+      title: Noticias
       text: |-
-            - **December 2025:** 
-              - Revised draft of our paper evaluating a [nationwide teacher training](/research/#smk) in Indonesia.
-              - I will be presenting our paper:
-                - On the interaction between [education and skills at work](/research/#skill-use) at the EWMES 2025 in Cyprus.
-                - On the [US academic market](/research/#akm) at SAEe 2025 in Barcelona.
-            - **November 2025:** our paper on  [faculty pay in US academia](/research/#akm) was accepted at the *Review of Economics and Statistics*.
-            - **September 2025:** The [British Academy](https://www.thebritishacademy.ac.uk/) awarded us a [BA/Leverhulme Small Research Grant](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/) to study the long-term effects of [violent conflict on household decision making](/research/#gender-conflict).
+            - **Diciembre 2025:** 
+              - Nueva versión de nuestro artículo evaluando [capacitación docente a nivel nacional](/research/#smk) en Indonesia.
+              - Presentaré nuestro artículo:
+                - Sobre la interacción entre [educación y habilidades en el trabajo](/research/#skill-use) en EWMES 2025 en Chipre.
+                - Sobre el [mercado académico estadounidense](/research/#akm) en SAEe 2025 en Barcelona.
+            - **Noviembre 2025:** nuestro artículo sobre [salarios del personal académico en universidades de EE.UU.](/research/#akm) fue aceptado en el *Review of Economics and Statistics*.
+            - **Septiembre 2025:** La [British Academy](https://www.thebritishacademy.ac.uk/) nos otorgó una [BA/Leverhulme Small Research Grant](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/) para estudiar los efectos a largo plazo del [conflicto violento en la toma de decisiones del hogar](/research/#gender-conflict).
             <!--- **August 2025:** New draft of our paper studying [salaries of US academics](/research/#akm).
             - **June 2025:** I will presenting our paper on the interaction between [education and skills at work](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
             - **May 2025:** Our paper on [trade offs of workplace amenities](/research/#amenities) was published in *AEA Papers and Proceedings*. 

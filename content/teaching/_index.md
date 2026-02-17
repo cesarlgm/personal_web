@@ -3,7 +3,7 @@ title:
 summary: Taught at University of Edinburgh, Boston University and University of Costa Rica
 ---
 
-## Teaching ##
+## Teaching Experience ##
 <hr>
 
 
@@ -15,19 +15,19 @@ summary: Taught at University of Edinburgh, Boston University and University of 
               <strong><font  color="#F45050">Instructor</font> </strong><br>
               <ul>
                 <li>
-                  <u>Applied Labor Economics</u>,  Fall 2023, Fall 2024, Fall 2025  <br> Fourth-year undergraduate elective introducing students to major topics and empirical methods in labor economics. <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10112.htm" target="_blank">Class description</a>
+                  <u>Applied Labor Economics</u>,  Fall 2023&ndash;Fall 2025  <br> Fourth-year undergraduate elective introducing students to major topics and empirical methods in labor economics. <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Syllabus</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10112.htm" target="_blank">Class description</a>
                 </li>
                 <li>
-                  <u>Development Economics</u>,  Spring 2024, Spring 2025, Spring 2026  <br> Third-year undergraduate elective introducing students to major topics in development economics. <br> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/ECNM10061_Development_Economics 2024-2025.pdf" target="_blank">Syllabus</a>  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10061.htm" target="_blank">Class description</a> 
+                  <u>Development Economics</u>,  Spring 2024&ndash;Spring 2026  <br> Third-year undergraduate elective introducing students to major topics in development economics. <br> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/ECNM10061_Development_Economics 2024-2025.pdf" target="_blank">Syllabus</a>  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10061.htm" target="_blank">Class description</a> 
                 </li>
                 <li>
-                  <u>Honours Dissertation Supervision</u>,  2023-2024, 2024-2025. <br> Supervised dissertation work for fourth-year undergraduate students (year-long course).
+                  <u>Honours Dissertation Supervision</u>,  2023&ndash;2026 <br> Supervised dissertation work for fourth-year undergraduate students (year-long course).
                 </li>
               </ul>
             <strong><font  color="#F45050">Tutor</font> </strong><br>
                 <ul>
                   <li>
-                    <u>Essentials of Econometrics</u>,  Fall 2023, Fall 2024, Fall 2025  <br> Tutored for this third-year compulsory undergraduate class in Econometrics. <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10052.htm" target="_blank">Class description</a>
+                    <u>Essentials of Econometrics</u>,  Fall 2023&ndash;Fall 2025  <br> Tutored for this third-year compulsory undergraduate class in Econometrics. <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10052.htm" target="_blank">Class description</a>
                   </li>
                 </ul>
             </div>
@@ -40,16 +40,16 @@ summary: Taught at University of Edinburgh, Boston University and University of 
       <div class="media-body">
           <div class="section-subheading article-title mb-0 mt-0"><a href="https://www.bu.edu/econ/" target="_blank" rel="noopener">Boston University</a></div>
             <div class="article-style">
-              <strong><font   color="#F45050">Teaching Assistant</font> </strong><br>
-              <i><u>Graduate level</i></u>
+              <strong><font color="#F45050">Teaching Assistant</font> </strong><br>
+              <u><i>Graduate level</i></u>
               <ul>
-                <li><u>Economics of Labor Markets</u> (<a href="https://sites.google.com/view/paserman/home">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics studying the behavior of labor markets and labor market institutions in the United States</li>
+                <li><u>Economics of Labor Markets</u> (<a href="https://sites.google.com/view/paserman/home">Prof. Daniele Paserman</a>), Spring 2020, Fall 2021. <br> Master-level economics class studying the behavior of labor markets and its institutions in the United States</li>
               </ul>
-              <i><u>Undergraduate level</i></u>
+              <u><i>Undergraduate level</i></u>
               <ul>
                 <li><u>Poverty and Discrimination</u> (<a href="https://sites.bu.edu/kevinlang/">Prof. Kevin Lang</a>), Fall 2019. <br> 
-                This class examines who is poor in the United States and how the evidence of poverty has changed over time. </li>
-                <li><u>Principles of Microeconomics</u> (Prof. Todd Idson), Fall 2018-Spring 2019 <br> Class introducing students to basic micro and macroeconomic topics in economics.</li>
+                This class examines the causes and consequences of poverty and discrimination in the United States. </li>
+                <li><u>Principles of Microeconomics</u> (Prof. Todd Idson), Fall 2018-Spring 2019 <br> Class introducing students to basic microeconomic topics.</li>
               </ul>
             </div>
       </div>
