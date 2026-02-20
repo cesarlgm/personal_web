@@ -16,6 +16,7 @@ tags:
 
 image:
   filename: "harvard-business-school_pdp.png"
+  caption: "View of Harvard Business School. Credit: Petr Kratochvil."
   filters:
     brightness: 0.5
   size: "cover"
