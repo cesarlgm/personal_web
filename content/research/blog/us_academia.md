@@ -2,7 +2,7 @@
 title: "Do Elite Universities Overpay Their Faculty?"
 date: 2026-02-20
 subtitle: No. Elite institutions offer high salaries because they compete with other elite institutions for the most valued faculty.
-draft: true
+draft: false
 summary: "Elite universities don't overpay faculty—they operate in a separate, competitive market. Here's what that means for understanding university prestige and resource concentration."
 
 type: page
@@ -26,78 +26,105 @@ image:
 featured: true
 
 ---
+In most industries, some firms pay more than others—even for seemingly similar workers. Economists have shown that employees who move to higher-paying firms typically receive wage increases, while those moving to lower-paying firms experience comparable losses. These persistent differences across employers are often interpreted as *firm effects* or even *rents*—a share of firm-specific advantages captured by workers.
 
-Harvard pays its professors roughly 40% more than regional state universities. Stanford matches this. MIT does too. 
+Universities appear to fit this pattern. There is a clear prestige hierarchy, and faculty at elite institutions earn higher salaries on average. It is therefore natural to think that top universities pay a premium.
 
-Is this waste? Are elite universities throwing money around? Or does the salary premium reflect something real—genuine differences in talent, scarcity, and how elite institutions compete?
+But this intuition turns out to be misleading.
 
-We set out to answer this question using a simple idea: track what happens to a professor's salary when they move. If elite universities overpay, we should see sharp salary penalties when academics leave Harvard for a regional university. We don't.
+In this paper, we show that **elite universities do not systematically pay more for the same faculty**. Instead, they pay more because they hire higher-paid, more productive academics.
 
-## The puzzle
 
-Economists have long wondered whether prestige premiums in labor markets reflect real productivity differences or just social hierarchy. Do top law firms pay 40% more because their lawyers are 40% better? Do elite universities pay Harris $150,000 instead of $110,000 because Harris is genuinely more productive at Harvard than at Nebraska?
+## A familiar pattern—at first glance
 
-The problem with answering this is selection. We can't tell whether Harvard's professors earn more because Harvard hires better people, or because Harvard pays for excellence, or both. Compare a Harvard professor's salary to a Nebraska professor's salary, and you're comparing different people.
+As in other sectors, academic salaries are strongly correlated with institutional prestige. Faculty at top-ranked universities earn more on average, and these institutions have greater resources and visibility.
 
-Unless they move.
+However, average differences can be misleading. To understand whether universities themselves pay more, we need to compare what the *same faculty member* would earn across institutions.
 
-When a top researcher moves from Nebraska to Harvard, we can see what happens to their salary in the same market. When another researcher moves the opposite direction—from Harvard to a regional university—we can see what they lose (or gain). These moves let us separate the person from the institution.
 
-## What we found
 
-We analyzed data on faculty moves across US universities using matched employer-employee records. The results reversed the conventional story.
+## Prestige does not imply higher pay
 
-**Finding 1: Elite universities don't overpay. They operate in a separate market.**
+Using longitudinal data on US STEM faculty and a standard two-way fixed effects (AKM) framework, we separate the role of individual characteristics from institutional effects.
 
-Faculty earn more at elite institutions because elite universities compete primarily with *each other*. A Harvard researcher worried about losing talent isn't competing against Ohio State. Harvard is competing against Stanford. Stanford is competing against MIT. 
+We find that:
 
-The bidding war happens at the top. This segmented market—where the elite subset competes intensely among themselves while non-elite universities operate in a different equilibrium—explains the salary gap without requiring overpayment.
+- Differences across universities explain **very little** of salary variation  
+- Most of the variation is explained by **individual faculty characteristics**
 
-**Finding 2: The surprising mobility pattern.**
+In other words, **elite universities do not pay a meaningful premium for identical academics**.
 
-In most labor markets, people move up the hierarchy for pay. A talented engineer at a regional firm might move to Silicon Valley and get a 30% raise. That's why top talent concentrates.
+Even when comparing the most and least prestigious institutions, the implied salary differences—holding faculty quality constant—are modest.
 
-Academia is different. We find academics move both *toward and away from* elite institutions with roughly equal frequency. And here's the key: **they get salary increases either way.**
 
-A professor might leave MIT for a teaching-focused university and still negotiate a raise. Another might move from a state school to Stanford and also get more money. The salary increase isn't correlated with moving "up."
 
-This breaks the traditional model. In hierarchical labor markets, what holds people at lower rungs is lower pay. When you see people leaving the top, they're usually taking pay cuts. But in academia, they aren't.
+## Mobility looks very different from other labor markets
 
-**Finding 3: It's about the market, not the worker.**
+Academic careers also exhibit unusual mobility patterns.
 
-Individual fixed effects—differences between professors—explain surprisingly little of the elite university salary premium. What matters instead is *which market you're in*. 
+In most labor markets:
+- Workers tend to move **up the job ladder**
+- Moving down typically comes with a pay cut
 
-This is the critical insight. The elite university salary premium is largely a market-level phenomenon, not a worker-level one. It's not that Harvard has discovered a genius-identifying algorithm that attracts disproportionately talented people. It's that Harvard participates in a different labor market with different competitive dynamics.
+In academia, neither holds:
 
-## Why this happens
+- Moves **up and down the prestige hierarchy are equally common**
+- **Salaries increase after a move—regardless of direction**
 
-Two features of academic labor markets make this pattern possible.
+Faculty moving to less prestigious institutions often still receive substantial pay increases.
 
-**Academic productivity is visible.** Unlike many fields where quality is hard to assess, a professor's research productivity is public. Publication records, citation counts, and reputation are essentially impossible to fake. When Harvard hires someone, the administration knows what it's getting because the candidate's track record is on display.
 
-This visibility means elite universities aren't paying for obscure "talent" they've somehow detected. They're paying for demonstrated ability that the entire market can see. That constrains how much they can overpay relative to actual quality.
+## Why do elite universities pay more on average?
 
-**The academic job market is extremely thin.** Faculty positions don't open constantly. A researcher might be perfect for a position at their dream university, but it might take years for that institution to have a relevant opening. When it finally does, the competition isn't broad—it's among a few other elite institutions also recruiting that year.
+If elite institutions do not pay more for the same faculty, why are their average salaries higher?
 
-This thinness creates intense bidding at the top end of the market. But it also means most recruitment happens within competitive tiers. Elite universities rarely recruit from non-elite pools (and vice versa), not because of discrimination, but because these are genuinely different markets with different entry points and moving costs.
+The answer is straightforward:
 
-The result: market segmentation sustains the salary premium without requiring overpayment or inefficiency.
+> **They hire better-paid faculty.**
 
-## What this means
+There is strong sorting across institutions: more productive academics—measured through publications, citations, and career trajectories—are more likely to work at more prestigious universities.
 
-**For university rankings:** The elite university premium isn't waste. It reflects real differences in resources, talent density, and institutional capacity. University prestige rankings—while subject to criticism—aren't just marketing. They reflect genuine competitive differentiation.
+Thus, the observed salary differences reflect **who institutions hire**, not **how much they pay for a given individual**.
 
-**For understanding higher education hierarchy:** The concentration of talent and resources at elite institutions isn't driven by overcompensation. It's driven by market segmentation that, paradoxically, can be stable even without persistent overpayment at the margin.
 
-**For policy:** This raises harder questions than simple overpayment. The real issue isn't whether elite universities pay too much. It's whether concentrating talent and resources at a small number of institutions is good for the knowledge economy overall. That's a question about equity, innovation distribution, and access—not about market efficiency.
 
-If anything, the fact that elite universities *don't* need to overpay dramatically to retain talent (because faculty mobility is constrained by market thinness) suggests the market is working mostly efficiently. What's worth questioning is whether that efficient outcome is desirable.
+## A different model of the academic labor market
 
-## The bottom line
+We argue that two key features distinguish academia from most labor markets:
 
-Elite universities pay 40% more than regional institutions, but they don't overpay. The premium reflects a bifurcated labor market where elite institutions compete intensely with each other while non-elite universities operate in a different equilibrium. 
+### 1. High information about productivity  
+Academic output (publications, citations, grants) is highly visible, allowing institutions to assess researchers’ quality early in their careers.
 
-The real puzzle in higher education isn't wasteful spending. It's market structure.
+### 2. Scarce and irregular job openings  
+Departments hire infrequently and often in narrow fields, meaning that good matches are not always available when candidates enter the market.
+
+
+
+## A market of imperfect matches
+
+These features lead to a labor market shaped by mismatch and gradual improvement:
+
+- Initial job matches are often imperfect  
+- Moves—whether up or down in prestige—improve the match  
+- Better matches translate into **higher productivity and higher salaries**
+
+This explains why:
+- Mobility is symmetric across the prestige ladder  
+- Moves in both directions are associated with pay increases  
+- Institutional “rents” are limited or absent  
+
+
+## Implications
+
+Our findings suggest that academia operates under a different logic than most labor markets:
+
+- Limited role for employer-specific wage premia  
+- Strong sorting of talent across institutions  
+- Mobility driven by match quality rather than hierarchy alone  
+
+More broadly, the results highlight how **information and the timing of job opportunities** shape labor market outcomes.
+
+Elite universities do not necessarily pay more—they employ faculty who would earn more almost anywhere.
 
 ---
 **Co-authored with:** [Shulamit Kahn](https://sites.bu.edu/shulamitkahn/) (Boston University) and [Kevin Lang](https://sites.bu.edu/kevinlang/) (Boston University)
