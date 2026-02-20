@@ -2,7 +2,7 @@
 title: "Do Elite Universities Overpay Their Faculty?"
 date: 2026-02-20
 subtitle: No. Elite institutions offer high salaries because they compete with other elite institutions for the most valued faculty.
-draft: false
+draft: true
 summary: "Elite universities don't overpay faculty—they operate in a separate, competitive market. Here's what that means for understanding university prestige and resource concentration."
 
 type: page
@@ -24,8 +24,6 @@ image:
   preview_only: false 
 
 featured: true
----
-[Paper](https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf){.btn .btn-outline-primary .btn-sm}
 ---
 
 In most industries, some firms pay more than others—even for seemingly similar workers. Economists have shown that employees who move to higher-paying firms typically receive wage increases, while those moving to lower-paying firms experience comparable losses. These persistent differences across employers are often interpreted as *firm effects* or even *rents*—a share of firm-specific advantages captured by workers.
