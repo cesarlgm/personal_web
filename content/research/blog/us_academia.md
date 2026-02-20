@@ -20,8 +20,8 @@ image:
   filename: "akm_image_resized.png"
   filters:
     brightness: 0.5
-  size: cover
-  prosition: center
+  size: "cover"
+  focal_point: "Smart"
   preview_only: false 
   
 ---
