@@ -9,10 +9,9 @@ authors:
   - admin
 
 tags:
-  - academia
-  - labor economics
-  - faculty salaries
-  - higher education
+  - Academia
+  - Higher Education
+  - Labor Markets
 
 categories:
   - research
