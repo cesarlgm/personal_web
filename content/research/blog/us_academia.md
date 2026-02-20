@@ -24,8 +24,10 @@ image:
   preview_only: false 
 
 featured: true
-
 ---
+[Paper](https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf){.btn .btn-outline-primary .btn-sm}
+---
+
 In most industries, some firms pay more than others—even for seemingly similar workers. Economists have shown that employees who move to higher-paying firms typically receive wage increases, while those moving to lower-paying firms experience comparable losses. These persistent differences across employers are often interpreted as *firm effects* or even *rents*—a share of firm-specific advantages captured by workers.
 
 Universities appear to fit this pattern. There is a clear prestige hierarchy, and faculty at elite institutions earn higher salaries on average. It is therefore natural to think that top universities pay a premium.
