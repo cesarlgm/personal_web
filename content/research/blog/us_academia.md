@@ -17,7 +17,7 @@ tags:
 featured: true
 
 image:
-  filename: "akm_image_resized.png"
+  filename: "../images/akm_image_resized.png"
   focal_point: "Smart"
   preview_only: false 
   
