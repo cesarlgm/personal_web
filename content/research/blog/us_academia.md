@@ -17,8 +17,11 @@ tags:
 featured: true
 
 image:
-  filename: "../images/akm_image_resized.png"
-  focal_point: "Smart"
+  filename: "akm_image_resized.png"
+  filters:
+    brightness: 0.5
+  size: cover
+  prosition: center
   preview_only: false 
   
 ---
