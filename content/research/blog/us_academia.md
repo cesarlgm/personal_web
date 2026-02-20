@@ -22,7 +22,9 @@ image:
   size: "cover"
   focal_point: "Smart"
   preview_only: false 
-  
+
+featured: true
+
 ---
 
 Harvard pays its professors roughly 40% more than regional state universities. Stanford matches this. MIT does too. 
