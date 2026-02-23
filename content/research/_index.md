@@ -135,7 +135,7 @@ summary: List of my work in progress and publications
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="rooted">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
-        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults <font  color="#dd2c00">| Big rework in progress  </div>
+        <div class="article-style">I show that the place women grow up in shapes their participation in the labor market as adults <font  color="#dd2c00">| Big rework in progress </font> </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div><span class="author">César Garro-Marín</span></div>
