@@ -133,7 +133,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="rooted_es">Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work</div>
-        <div class="article-style">Demuestro que el lugar donde las mujeres crecen moldea su participación en el mercado laboral cuando son adultas  </div>
+        <div class="article-style">Demuestro que el lugar donde las mujeres crecen moldea su participación en el mercado laboral cuando son adultas <font  color="#dd2c00">| Nueva versión en progreso  </font>  </div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div><span class="author">César Garro-Marín</span></div>
