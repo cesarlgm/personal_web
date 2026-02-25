@@ -29,7 +29,7 @@ social:
   link: https://orcid.org/0009-0009-8860-8697
 - icon: cv
   icon_pack: ai
-  link: https://cesarlgm.github.io/documents/profile/GMCesar_CV.pdf
+  link: https://cesarlgm.github.io/documents/profile/cv_cesarlgm_es.pdf
 - icon: github
   icon_pack: fab
   link: https://www.github.com/cesarlgm
