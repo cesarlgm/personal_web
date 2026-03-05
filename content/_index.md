@@ -38,7 +38,7 @@ sections:
         <br>
         <br>
         ***
-
+        <!--
         I am on the **2025-2026 Economics Job Market.** 
         
         You can learn more about my research and teaching in the statements below or by heading to my <a href="/research/">research</a> and <a href="/teaching/">teaching</a> pages.       
@@ -63,7 +63,7 @@ sections:
         </div>
 
         ***
-
+        -->
         <br>
         
         ***
