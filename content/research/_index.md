@@ -206,7 +206,7 @@ summary: List of my work in progress and publications
     </div>
         <div class="media stream-item view-compact">
             <div class="media-body">
-                <div class="section-subheading article-title mb-0 mt-0" id="gender-conflict">Gender and violent conflict</div>
+                <div class="section-subheading article-title mb-0 mt-0" id="gender-conflict">Gender and Violent Conflict</div>
                     <div class="article-style">
                         We study the long-term effects of violent conflict on household decision-making in Mexico
                     </div>

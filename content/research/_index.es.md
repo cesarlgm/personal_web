@@ -188,7 +188,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
     </div>
         <div class="media stream-item view-compact">
             <div class="media-body">
-                <div class="section-subheading article-title mb-0 mt-0" id="gender-conflict_es">Gender and violent conflict</div>
+                <div class="section-subheading article-title mb-0 mt-0" id="gender-conflict_es">Gender and Violent Conflict</div>
                     <div class="article-style">
                         Estudiamos los efectos a largo plazo del conflicto violento en la toma de decisiones del hogar en México
                     </div>
