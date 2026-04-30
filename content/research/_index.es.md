@@ -43,6 +43,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract_es')">Resumen Completo</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">Artículo</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nber.org/papers/w33005" target="_blank">NBER WP 33005</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/cesarlgm/GMKL_2026_replication" target="_blank">Código de replicación</a>
                 <p id="akm_abstract_es" class="hidden" style="display: none; text-align: justify"><br><strong>Resumen: </strong>¿Sobrepagan las universidades de élite su personal académico? No. Las universidades de élite ofrecen salarios más altos porque compiten con otras instituciones por el personal académico de alta calidad. A diferencia del mercado laboral más amplio, el personal académico tiene las mismas probabilidades de subir y bajar en la escala de prestigio, y aumentan su salario de cualquier manera. Sugerimos que estas diferencias reflejan la naturaleza visible de la productividad académica y la naturaleza esporádica de las ofertas de trabajo académico.</p>
         </div>
     </div>
