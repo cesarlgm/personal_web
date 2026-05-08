@@ -41,9 +41,9 @@ summary: Lista de mis publicaciones y trabajo en progreso
         </div>
         <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract_es')">Resumen Completo</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">Artículo</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nber.org/papers/w33005" target="_blank">NBER WP 33005</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/cesarlgm/GMKL_2026_replication" target="_blank">Código de replicación</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf" target="_blank">Artículo</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf" target="_blank">Apéndice en línea</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/64PORL" target="_blank">Código de replicación</a>
                 <p id="akm_abstract_es" class="hidden" style="display: none; text-align: justify"><br><strong>Resumen: </strong>¿Sobrepagan las universidades de élite su personal académico? No. Las universidades de élite ofrecen salarios más altos porque compiten con otras instituciones por el personal académico de alta calidad. A diferencia del mercado laboral más amplio, el personal académico tiene las mismas probabilidades de subir y bajar en la escala de prestigio, y aumentan su salario de cualquier manera. Sugerimos que estas diferencias reflejan la naturaleza visible de la productividad académica y la naturaleza esporádica de las ofertas de trabajo académico.</p>
         </div>
     </div>
