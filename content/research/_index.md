@@ -41,8 +41,8 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">Full Abstract</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">Paper</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.nber.org/papers/w33005" target="_blank">NBER WP 33005</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf" target="_blank">Paper</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf" target="_blank">Online Appendix</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/64PORL" target="_blank">Replication Package</a>
                 <p id="akm_abstract" class="hidden" style="display: none; text-align: justify"><br><strong>Abstract: </strong>Do elite universities overpay their faculty? No. Elite institutions offer high salaries because they compete with other elite institutions for the most valued faculty. In contrast to the broader labor market, faculty are equally likely to move up and down the prestige ladder, and they increase their salary either way. We speculate that these differences reflect the visible nature of faculty productivity and the sporadic nature of academic job openings.</p>
         </div>
