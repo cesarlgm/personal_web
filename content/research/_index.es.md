@@ -29,7 +29,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
 <div class="media stream-item view-compact">
     <div class="media-body">
         <div class="section-subheading article-title mb-0 mt-0" id="akm_es">Do Elite Universities Overpay Their Faculty?</div>
-        <div class="article-style">Utilizamos las historias laborales de los profesores para estudiar qué explica los salarios más altos del personal académico en las universidades más prestigiosas de los Estados Unidos  <br> <i> Aceptado en el Review of Economics and Statistics </i></div>
+        <div class="article-style">Utilizamos las historias laborales de los profesores para estudiar qué explica los salarios más altos del personal académico en las universidades más prestigiosas de los Estados Unidos  <br> <i> Próximamente en el Review of Economics and Statistics </i></div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
                 <div>
