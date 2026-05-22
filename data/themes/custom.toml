@@ -6,7 +6,7 @@ name = "Custom"
   primary = "#dd2c00"
 
   # Menu
-  menu_primary = "#000"
+  menu_primary = "#0B0C6B"
   menu_text = "#fff"
   menu_text_active = "#fdfbe4"
   menu_title = "#fff"
