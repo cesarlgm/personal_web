@@ -4,6 +4,7 @@ name = "Custom"
 [light]
   # Primary
   primary = "#dd2c00"
+  secondary = "#0B0C6B"
 
   # Menu
   menu_primary = "#0B0C6B"
