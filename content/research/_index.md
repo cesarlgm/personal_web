@@ -228,7 +228,7 @@ summary: List of my work in progress and publications
                     </div>    
             </div>
             <div class="ml-3">
-                <img src="/research/images/gender_conflict_blue.jpg" alt="Gender and conflict" loading="lazy">
+                <img src="/research/images/gender_conflict_blue.png" alt="Gender and conflict" loading="lazy">
             </div>
         </div>
     <!--
