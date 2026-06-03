@@ -28,7 +28,10 @@ links:
     url: https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf
 ---
 
-Cuando aceptas un empleo, no solo estás acordando un salario. Estás acordando un horario, un desplazamiento, un conjunto de expectativas sobre tu tiempo y un paquete de beneficios. Algunos empleos pagan bien pero exigen muchas horas. Otros ofrecen flexibilidad pero menos prestaciones. Este intercambio parece familiar.
+Cuando aceptas un empleo, no solo estás acordando un salario. Estás acordando un horario, un
+desplazamiento, un conjunto de expectativas sobre tu tiempo y un paquete de beneficios. Algunos
+empleos pagan bien pero exigen muchas horas. Otros ofrecen jornadas más cortas pero menos prestaciones. Este
+intercambio parece familiar.
 
 ¿Pero exactamente qué están intercambiando los trabajadores por qué?
 
@@ -36,9 +39,15 @@ Cuando aceptas un empleo, no solo estás acordando un salario. Estás acordando 
 
 La respuesta económica clásica es clara: los trabajadores que valoran los horarios flexibles están dispuestos a aceptar un salario más bajo a cambio. Las empresas responden ofreciendo salarios menores a cambio de mejores condiciones laborales. Los trabajadores se distribuyen en empleos que se ajustan a sus preferencias, y la brecha salarial entre empleos exigentes y flexibles revela cuánto valoran esas ventajas.
 
-Esta es la teoría de los *diferenciales compensatorios* (Rosen, 1986), que ha moldeado la forma en que economistas y responsables de políticas piensan sobre los salarios y las características de los empleos durante décadas. Por ejemplo, si los trabajadores aceptan salarios más bajos a cambio de flexibilidad, las diferencias salariales entre empleos reflejan en parte las preferencias de los trabajadores.
+Esta es la teoría de los *diferenciales compensatorios* (Rosen, 1986), que ha moldeado la forma en
+que economistas y responsables de políticas piensan sobre los salarios y las características de los
+empleos durante décadas. Por ejemplo, si los trabajadores aceptan salarios más bajos a cambio de
+menos horas, las diferencias salariales entre empleos reflejan en parte las preferencias de los
+trabajadores.
 
-Pero los empleos no ofrecen solo una ventaja: suelen agrupar varias de ellas juntas. Además, algunas prestaciones no se ofrecen cuando se ofrecen otras. Por ejemplo, los empleos con horarios flexibles a menudo no incluyen seguro médico ni la posibilidad de trabajar desde casa.
+Pero los empleos no ofrecen solo una ventaja: suelen agrupar varias de ellas juntas. Además, algunas
+prestaciones no se ofrecen cuando se ofrecen otras. Por ejemplo, los empleos con menores jornadas a menudo
+no incluyen seguro médico ni la posibilidad de trabajar desde casa.
 
 **Cuando las empresas agrupan varias prestaciones, los trabajadores con frecuencia intercambian horas flexibles por otros beneficios —no solo por salario— y esto cambia la forma en que debemos entender las diferencias salariales en el mercado laboral.**
 
@@ -52,9 +61,9 @@ En [nuestro artículo](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.2025103
 
 Usando datos que siguen a 6.755 estadounidenses desde la adolescencia hasta la edad adulta (Bureau of Labor Statistics, 2024), encontramos que:
 
-- Los trabajadores estadounidenses que valoran los horarios flexibles a menudo deben renunciar a **otras prestaciones**.
+- Los trabajadores estadounidenses que valoran jornadas menos extensas a menudo deben renunciar a **otras prestaciones**.
 - Los horarios más cortos o flexibles suelen agruparse con menos beneficios, como menos días de permiso remunerado o seguro médico.
-- El simple intercambio entre salario y flexibilidad que predice la teoría estándar es mucho menos común que el intercambio entre una prestación y otra.
+- El simple intercambio entre salario y menos horas que predice la teoría estándar es mucho menos común que el intercambio entre una prestación y otra.
 
 Los trabajadores no solo eligen entre dinero y flexibilidad. Navegan entre un menú de paquetes donde obtener un beneficio a menudo implica renunciar a otro.
 
@@ -64,7 +73,7 @@ Estos patrones importan especialmente para entender por qué hombres y mujeres t
 
 Las mujeres tienen más probabilidades que los hombres de valorar los horarios flexibles, especialmente aquellas con responsabilidades de cuidado:
 
-- Las mujeres tienen más probabilidades de terminar en empleos con horarios flexibles, pero estos empleos también tienden a incluir menos beneficios adicionales.
+- Las mujeres tienen más probabilidades de terminar en empleos con menores jornadas, pero estos empleos también tienden a incluir menos beneficios adicionales.
 - Como resultado, las mujeres enfrentan una desventaja compuesta: salarios más bajos **y** un paquete de beneficios no salariales más reducido.
 - Así, la brecha de género en la compensación total —salarios más el valor completo de los beneficios— es mayor de lo que sugiere únicamente la brecha salarial de género.
 

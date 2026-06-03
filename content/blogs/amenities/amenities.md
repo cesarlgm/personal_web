@@ -28,7 +28,9 @@ links:
     url: https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf
 ---
 
-When you accept a job, you're not just agreeing to a salary. You're agreeing to a schedule, a commute, a set of expectations about your time, and a package of benefits. Some jobs pay well but demand long hours. Others offer flexibility but provide fewer perks. This trade-off seems familiar.
+When you accept a job, you're not just agreeing to a salary. You're agreeing to a schedule, a
+commute, a set of expectations about your time, and a package of benefits. Some jobs pay well but
+demand long hours. Others offer lower hours but provide fewer perks. This trade-off seems familiar.
 
 But what exactly are workers trading against what?
 
@@ -38,13 +40,13 @@ The classic economic answer is clean: workers who value flexible hours are willi
 
 This is the theory of *compensating differentials* (Rosen, 1986)---and it has shaped how economists and
 policymakers think about salaries and job characteristics for decades. For example, if workers
-accept lower wages in exchange for flexibility, salary differences across jobs partly workers preferences.
+accept lower wages in exchange for lower hours, salary differences across jobs partly reflect workers preferences.
 
 But jobs don't offer only one perk, they offen package several of them together. Moreover, some
 perks are not offered when others are. For example, jobs with flexible hours ofen do not offer
 health insurance, or the ability to work from home.
 
-**When firms package multiple perks together, workers often trade flexible hours for other
+**When firms package multiple perks together, workers often trade lower hours for other
 benefits---not just for wages---and this reshapes how we should understand salary differences in the labour
 market.**
 
@@ -60,12 +62,12 @@ In our paper, we develop a model that accounts for how firms combine amenities (
 
 Using data tracking 6,755 Americans from their teens through adulthood (Bureau of Labor Statistics, 2024), we find that:
 
-- American workers who value flexible hours often must give up **other amenities**.
-- Shorter or more flexible work hours are frequently bundled with fewer other benefits, such as less
+- American workers who value lower hours often must give up **other amenities**.
+- Shorter work hours are frequently bundled with fewer other benefits, such as less
   paid leave or health insurance.
-- The simple trade-off between wages and flexibility that standard theory predicts is far less common than the trade-off between one amenity and another
+- The simple trade-off between wages and work hours that standard theory predicts is far less common than the trade-off between one amenity and another
 
-Workers are not just choosing between money and flexibility. They're navigating a menu of bundles where getting one benefit often means giving up another.
+Workers are not just choosing between money and work hours. They're navigating a menu of bundles where getting one benefit often means giving up another.
 
 ## Who ends up where, and the gender gap
 
