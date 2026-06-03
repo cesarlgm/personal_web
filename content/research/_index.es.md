@@ -48,7 +48,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/akm_image_resized.png" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
+        <img src="/research/images/akm_image_resized_blue.png" alt="Do Elite Universities Overpay their Faculty" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-compact">
@@ -74,7 +74,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/amenities_picture.png" alt="Work Hours and Amenity Trade-offs" loading="lazy">
+        <img src="/research/images/amenities_picture_blue.png" alt="Work Hours and Amenity Trade-offs" loading="lazy">
     </div>
 </div>
 </div>
@@ -105,7 +105,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
             </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/secondary_construction.png" alt="Expanding Access in a Semi-Private Education Market" loading="lazy">
+        <img src="/research/images/secondary_construction_blue.png" alt="Expanding Access in a Semi-Private Education Market" loading="lazy">
     </div>   
 </div>
 <div class="media stream-item view-showcase">
@@ -128,7 +128,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/smk_figure.png"  alt="Linking Vocational Schools to Industry: Effects on Teachers in Indonesia" loading="lazy">
+        <img src="/research/images/smk_figure_blue.png"  alt="Linking Vocational Schools to Industry: Effects on Teachers in Indonesia" loading="lazy">
     </div>
 </div>
 <div class="media stream-item view-compact">
@@ -149,7 +149,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
         </div>
     </div>
     <div class="ml-3">
-        <img src="/research/images/idn_image_resized.png"   alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
+        <img src="/research/images/idn_image_resized_blue.png" alt="Rooted Decisions: Childhood Exposure to Labor Markets and Women's Work" loading="lazy">
     </div>
 </div>
 </div>
@@ -184,7 +184,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
             </div>
         </div>
         <div class="ml-3">
-            <img src="/research/images/skills_image.png" alt="Skill Use in Jobs: The Role of Education and Technology" loading="lazy">
+            <img src="/research/images/skills_image_blue.png" alt="Skill Use in Jobs: The Role of Education and Technology" loading="lazy">
         </div>
     </div>
         <div class="media stream-item view-compact">
@@ -211,7 +211,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
                     </div>    
             </div>
             <div class="ml-3">
-                <img src="/research/images/gender_conflict.jpg"   alt="Gender and conflict" loading="lazy">
+                <img src="/research/images/gender_conflict_blue.png" alt="Gender and conflict" loading="lazy">
             </div>
         </div>
     <!--
