@@ -33,12 +33,15 @@ Key content files:
 - `content/teaching/_index.md` — teaching page
 - `content/authors/admin/_index.md` — profile data (name, role, social links)
 
-### Research page pattern
+### Homepage vs research page structure
 
-The research page (`content/research/_index.md`) is written as raw HTML embedded in Markdown. Each paper uses a `<div class="media stream-item">` block with:
+The **homepage** (`content/_index.md`) uses Wowchemy's block system: content is declared as a `sections:` list in the YAML frontmatter, each entry being a named block type (e.g., `block: about.avatar`, `block: markdown`). No raw HTML.
+
+The **research page** (`content/research/_index.md`) is written as raw HTML embedded in Markdown — a deliberate workaround because Wowchemy's standard publication blocks didn't meet the design requirements. Each paper uses a `<div class="media stream-item">` block with:
 - An anchor `id` on the title div (used for deep links from the homepage news section)
 - A `showHideText(id)` onclick button to toggle abstract visibility
 - Abstract in a `<p>` with `style="display: none"` (the `.hidden` class is set via `<head>` inline styles at the top of the file)
+- A paper image from `content/research/images/`; images come in pairs — a default and a `_blue.png` variant (the blue variant is the one linked in the HTML)
 
 ### Configuration layout
 
@@ -49,12 +52,20 @@ Config is split across `config/_default/`:
 
 Custom color theme: `data/themes/custom.toml`.
 
+### Blog posts
+
+`content/research/blog/` contains non-technical explainers for each paper (one `.md` per paper). All are marked `draft: true` and are never published. They exist as reference material and are not linked from anywhere on the site.
+
 ### GitHub agents and skills
 
-`.github/agents/bilingual-content-auditor.agent.md` — an agent that audits bilingual content quality and sync without modifying files.
+`.github/agents/bilingual-content-auditor.agent.md` — audits bilingual content quality and EN/ES sync; read-only, never edits files.
 
-`.github/skills/` — two skills:
-- `proofread` — runs proofreading and saves reports to `quality_reports/`
-- `bilingual-sync` — checks EN/ES document synchronization
+`.github/agents/proofreader.md` — sub-agent invoked by the `proofread` skill to review a single file for grammar, typos, and consistency.
+
+`.claude/skills/` — four skills (invoke via `/skill-name`):
+- `proofread [filename|all]` — runs proofreading and saves reports to `quality_reports/`
+- `bilingual-sync [base_name]` — checks EN/ES synchronization for a given content file
+- `plan-work [start-of-day|end-of-day|review]` — manages `workplan.md` in the repo root as a daily task tracker
+- `draft-blog <paper-id>` — drafts a VoxEU-style general-audience blog post for a paper; `paper-id` is the anchor ID from `content/research/_index.md` (e.g., `akm`, `amenities`, `idn-secondary`)
 
 Quality reports from these skills are stored in `quality_reports/`.
