@@ -1,7 +1,7 @@
 ---
 title: "Work Hours and Amenity Trade-offs"
 date: 2026-06-03
-subtitle: Flexible hours and paid leave often get bundled together---meaning workers trade them off against each other, not just against wages.
+subtitle: Lower work hours are often traded off for higher salaries and other job perks.
 draft: false
 summary: When jobs bundle benefits into packages, the simple story of workers trading wages for the perks they value most breaks down — and women end up worse off.
 type: page
@@ -12,7 +12,7 @@ tags:
   - Gender Inequality
   - Job Amenities
 image:
-  filename: "/research/images/amenities_picture_blue.png"
+  filename: "amenities_picture_blue.png"
   caption: ""
   filters:
     brightness: 0.5

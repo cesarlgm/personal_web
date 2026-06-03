@@ -1,7 +1,7 @@
 ---
 title: "Horarios de trabajo y compensaciones entre beneficios laborales"
 date: 2026-06-03
-subtitle: Las horas flexibles y el permiso remunerado suelen ofrecerse juntos, lo que significa que los trabajadores los intercambian entre sí, no solo por salario.
+subtitle: Jornadas menos extensas a menudo implica aceptar salarios más bajos y perder otros beneficios laborales.
 draft: false
 summary: Cuando los empleos agrupan beneficios en paquetes, la idea de que los trabajadores intercambian salario por las prestaciones que más valoran se rompe — y las mujeres terminan en desventaja.
 type: page
@@ -12,7 +12,7 @@ tags:
   - Desigualdad de Género
   - Beneficios Laborales
 image:
-  filename: "/research/images/amenities_picture_blue.png"
+  filename: "amenities_picture_blue.png"
   caption: ""
   filters:
     brightness: 0.5
