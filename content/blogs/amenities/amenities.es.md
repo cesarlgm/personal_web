@@ -88,8 +88,9 @@ Las mujeres tienen más probabilidades que los hombres de valorar los horarios f
 - Goldin, C (2014), "A grand gender convergence: Its last chapter", *American Economic Review* 104(4): 1091–1119.
 - Rosen, S (1986), "The theory of equalizing differences", *Handbook of Labor Economics* 1: 641–692.
 
----
-**Coautoría con:** [Neil Thakral](https://neilthakral.github.io/) (Brown University) y [Linh Tô](https://linh.to/) (Boston University)
-**Publicado en:** *AEA Papers & Proceedings, Vol. 115, mayo de 2025*
-**Ver artículo completo:** [Artículo](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031)
----
+<div class="article-footer">
+<hr>
+<p><strong>Coautoría con:</strong> <a href="https://neilthakral.github.io/">Neil Thakral</a> (Brown University) y <a href="https://linh.to/">Linh Tô</a> (Boston University)</p>
+<p><strong>Publicado en:</strong> <em>AEA Papers & Proceedings, Vol. 115, mayo de 2025</em></p>
+<hr>
+</div>

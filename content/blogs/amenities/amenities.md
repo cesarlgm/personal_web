@@ -90,8 +90,9 @@ Women are more likely than men to value flexible hours, particularly those with 
 - Goldin, C (2014), "A grand gender convergence: Its last chapter", *American Economic Review* 104(4): 1091–1119.
 - Rosen, S (1986), "The theory of equalizing differences", *Handbook of Labor Economics* 1: 641–692.
 
----
-**Co-authored with:** [Neil Thakral](https://neilthakral.github.io/) (Brown University) and [Linh Tô](https://linh.to/) (Boston University)
-**Published in:** *AEA Papers & Proceedings, Vol. 115, May 2025*
-**Learn more:** [Full Paper](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031)
----
+<div class="article-footer">
+<hr>
+<p><strong>Co-authored with:</strong> <a href="https://neilthakral.github.io/">Neil Thakral</a> (Brown University) and <a href="https://linh.to/">Linh Tô</a> (Boston University)</p>
+<p><strong>Published in:</strong> <em>AEA Papers & Proceedings, Vol. 115, May 2025</em></p>
+<hr>
+</div>
