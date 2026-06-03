@@ -24,7 +24,6 @@ image:
   preview_only: false 
 
 
-
 featured: true
 ---
 
@@ -77,10 +76,10 @@ prestigious institutions often still receive substantial pay increases.
 
 We argue that two key features distinguish academia from most labor markets:
 
-### 1. High information about productivity  
+1. High information about productivity  
 Academic output (publications, citations, grants) is highly visible, allowing institutions to assess researchers’ quality early in their careers.
 
-### 2. Scarce and irregular job openings  
+2. Scarce and irregular job openings  
 Departments hire infrequently and often in narrow fields, meaning that good matches are not always available when candidates enter the market.
 
 These features lead to a labor market shaped by mismatch and gradual improvement. Initial placements are often imperfect---the right candidate and the right department don't always meet at the same time. When academics do move, whether up or down the prestige ladder, the match typically improves, translating into **higher productivity and higher salaries**.
@@ -99,7 +98,5 @@ Elite universities do not necessarily pay more. They employ faculty who would ea
 ---
 **Co-authored with:** [Shulamit Kahn](https://sites.bu.edu/shulamitkahn/) (Boston University) and [Kevin Lang](https://sites.bu.edu/kevinlang/) (Boston University)
 
-**Accepted for publication at:** *Review of Economics and Statistics*
-
-**Learn more:** [Full Paper](https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf)
+**Forthcoming at:** *Review of Economics and Statistics*
 ---
