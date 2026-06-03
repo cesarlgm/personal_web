@@ -20,6 +20,12 @@ image:
   focal_point: "Smart"
   preview_only: false
 featured: false
+
+links:
+  - name: Paper
+    url: https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031
+  - name: Appendix
+    url: https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf
 ---
 
 When you accept a job, you're not just agreeing to a salary. You're agreeing to a schedule, a commute, a set of expectations about your time, and a package of benefits. Some jobs pay well but demand long hours. Others offer flexibility but provide fewer perks. This trade-off seems familiar.
