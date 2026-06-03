@@ -47,12 +47,7 @@ However, average differences can be misleading. To understand whether universiti
 
 Using longitudinal data on US STEM faculty and a standard two-way fixed effects (AKM) framework, we separate the role of individual characteristics from institutional effects.
 
-We find that:
-
-- Differences across universities explain **very little** of salary variation  
-- Most of the variation is explained by **individual faculty characteristics**
-
-In other words, **elite universities do not pay a meaningful premium for identical academics**.
+We find that differences across universities explain **very little** of salary variation—most of it comes down to **individual faculty characteristics**. In other words, **elite universities do not pay a meaningful premium for identical academics**.
 
 Even when comparing the most and least prestigious institutions, the implied salary differences—holding faculty quality constant—are modest.
 
@@ -60,16 +55,7 @@ Even when comparing the most and least prestigious institutions, the implied sal
 
 ## Mobility looks very different from other labor markets
 
-Academic careers also exhibit unusual mobility patterns.
-
-In most labor markets:
-- Workers tend to move **up the job ladder**
-- Moving down typically comes with a pay cut
-
-In academia, neither holds:
-
-- Moves **up and down the prestige hierarchy are equally common**
-- **Salaries increase after a move—regardless of direction**
+Academic careers also exhibit unusual mobility patterns. In most labor markets, workers tend to move up the job ladder, and moving down typically comes with a pay cut. In academia, neither holds: moves up and down the prestige hierarchy are equally common, and **salaries tend to increase after a move regardless of direction**.
 
 Faculty moving to less prestigious institutions often still receive substantial pay increases.
 
@@ -102,25 +88,14 @@ Departments hire infrequently and often in narrow fields, meaning that good matc
 
 ## A market of imperfect matches
 
-These features lead to a labor market shaped by mismatch and gradual improvement:
+These features lead to a labor market shaped by mismatch and gradual improvement. Initial placements are often imperfect—the right candidate and the right department don't always meet at the same time. When academics do move, whether up or down the prestige ladder, the match typically improves, translating into **higher productivity and higher salaries**.
 
-- Initial job matches are often imperfect  
-- Moves—whether up or down in prestige—improve the match  
-- Better matches translate into **higher productivity and higher salaries**
-
-This explains why:
-- Mobility is symmetric across the prestige ladder  
-- Moves in both directions are associated with pay increases  
-- Institutional “rents” are limited or absent  
+This explains both the symmetric mobility pattern and the limited role of institutional rents. If a better fit drives moves in either direction, both directions should be associated with pay increases—which is exactly what we find. And if salaries reflect worker quality rather than employer generosity, there is little room for rents to accumulate.
 
 
 ## Implications
 
-Our findings suggest that academia operates under a different logic than most labor markets:
-
-- Limited role for employer-specific wage premia  
-- Strong sorting of talent across institutions  
-- Mobility driven by match quality rather than hierarchy alone  
+Our findings suggest that academia operates under a different logic than most labor markets. Employer-specific wage premia play a limited role; talent sorts strongly across institutions, and mobility is driven by match quality rather than climbing a prestige ladder.
 
 More broadly, the results highlight how **information and the timing of job opportunities** shape labor market outcomes.
 
