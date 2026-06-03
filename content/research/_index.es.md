@@ -41,7 +41,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
         </div>
         <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract_es')">Resumen Completo</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="/es/research/academia/us_academia" target="_blank">Resumen no técnico</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="/es/blogs/academia/us_academia" target="_blank">Resumen no técnico</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf" target="_blank">Artículo</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf" target="_blank">Apéndice en línea</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/64PORL" target="_blank">Código de replicación</a>
