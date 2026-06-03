@@ -27,8 +27,12 @@ image:
 featured: true
 
 links:
-  Full paper: https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf
-  Online Appendix: https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf
+  - type: custom
+    label: Full paper
+    url: https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf
+  - type: custom
+    label: Full paper
+    url: https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf
 ---
 
 In most industries, some firms pay more than others—even for seemingly similar workers. Economists
