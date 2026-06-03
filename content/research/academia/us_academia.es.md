@@ -24,7 +24,7 @@ image:
   preview_only: false
 
 
-featured: true
+featured: false
 
 links:
   - name: Artículo
