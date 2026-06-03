@@ -56,7 +56,7 @@ Usando datos que siguen a 6.755 estadounidenses desde la adolescencia hasta la e
 - Los horarios más cortos o flexibles suelen agruparse con menos beneficios, como menos días de permiso remunerado o seguro médico.
 - El simple intercambio entre salario y flexibilidad que predice la teoría estándar es mucho menos común que el intercambio entre una prestación y otra.
 
-> Los trabajadores no solo eligen entre dinero y flexibilidad. Navegan entre un menú de paquetes donde obtener un beneficio a menudo implica renunciar a otro.
+Los trabajadores no solo eligen entre dinero y flexibilidad. Navegan entre un menú de paquetes donde obtener un beneficio a menudo implica renunciar a otro.
 
 ## Quién termina dónde, y la brecha de género
 

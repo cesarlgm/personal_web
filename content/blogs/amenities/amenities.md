@@ -1,7 +1,7 @@
 ---
 title: "Work Hours and Amenity Trade-offs"
 date: 2026-06-03
-subtitle: Flexible hours and paid leave often get bundled together — meaning workers trade them off against each other, not just against wages.
+subtitle: Flexible hours and paid leave often get bundled together---meaning workers trade them off against each other, not just against wages.
 draft: false
 summary: When jobs bundle benefits into packages, the simple story of workers trading wages for the perks they value most breaks down — and women end up worse off.
 type: page
