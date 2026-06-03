@@ -35,12 +35,14 @@ links:
 
 In most industries, some firms pay more than others—even for seemingly similar workers. Economists
 have shown that otherwise similar employees who move to higher-paying firms typically receive wage
-increases, while those moving to lower-paying firms experience comparable losses. These persistent
+increases, while those moving to lower-paying firms experience comparable losses (Bagger and Lentz, 2019; Moscarini and Postel-Vinay, 2018;
+Haltiwanger et al., 2018, Abowd
+et al., 1999). These persistent
 differences across employers are often interpreted as *firm wage effects* or *rents*. These are
 firm-specific wage premiums captured by workers.
 
 Universities appear to fit this pattern. There is a clear prestige hierarchy, and faculty at elite
-institutions earn higher salaries on average. But in [https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf](our paper), we show that **elite universities
+institutions earn higher salaries on average. But in [our paper](https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf), we show that **elite universities
 do not systematically pay more for the same faculty**. Instead, they pay more because they hire
 more productive academics. In fact, we find very little evidence of any significant university pay
 premia in the US academic market.
@@ -64,7 +66,7 @@ modest. Thus, the observed salary differences reflect **who institutions hire**.
 
 Academic careers also exhibit mobility patterns that differ from the broader labor market. In most
 labor markets, workers tend to move up the job ladder, and moving down typically comes with a pay
-cut. In academia, neither holds: moves up and down the prestige hierarchy are equally common, and
+cut (Card et al., 2018). In academia, neither holds: moves up and down the prestige hierarchy are equally common, and
 **salaries tend to increase after a move regardless of direction**. Faculty moving to less
 prestigious institutions often still receive substantial pay increases.
 
@@ -91,6 +93,14 @@ Our findings suggest that academia operates under a different logic than most la
 More broadly, the results highlight how **information and the timing of job opportunities** shape labor market outcomes.
 
 Elite universities do not necessarily pay more. They employ faculty who would earn more almost anywhere.
+
+## References
+
+- Abowd, J M, F Kramarz and D N Margolis (1999), "High wage workers and high wage firms", *Econometrica* 67(2): 251–333.
+- Bagger, J and R Lentz (2019), "An empirical model of wage dispersion with sorting", *The Review of Economic Studies* 86(1): 153–190.
+- Card, D, A R Cardoso, J Heining and P Kline (2018), "Firms and labor market inequality: Evidence and some theory", *Journal of Labor Economics* 36(S1): S13–S70.
+- Haltiwanger, J C, H R Hyatt, L B Kahn and E McEntarfer (2018), "Cyclical job ladders by firm size and firm wage", *American Economic Journal: Macroeconomics* 10(2): 52–85.
+- Moscarini, G and F Postel-Vinay (2018), "The cyclical job ladder", *Annual Review of Economics* 10(1): 165–188.
 
 <div class="article-footer">
 <hr>
