@@ -40,7 +40,7 @@ differences across employers are often interpreted as *firm wage effects* or *re
 firm-specific wage premiums captured by workers.
 
 Universities appear to fit this pattern. There is a clear prestige hierarchy, and faculty at elite
-institutions earn higher salaries on average. But in our paper, we show that **elite universities
+institutions earn higher salaries on average. But in [https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf](our paper), we show that **elite universities
 do not systematically pay more for the same faculty**. Instead, they pay more because they hire
 more productive academics. In fact, we find very little evidence of any significant university pay
 premia in the US academic market.
@@ -50,20 +50,11 @@ premia in the US academic market.
 
 As in other sectors, academic salaries are strongly correlated with institutional prestige. Faculty at top-ranked universities earn more on average, and these institutions have greater resources and visibility.
 
-Higher salaries in these universities can result *firm-pay premimums*---they pay higher salaries
-to all their faculty---or from hiring higher-quality faculty. To understand whether universities themselves pay more, we need to compare what the
-*same faculty member* would earn across institutions. We distinguish between these two stories using
-survey data from the US Survey of Earned Doctorates, that allows to observe faculty job and salary
-histories. 
+Higher salaries at these universities can result from *firm-level pay premiums* — paying higher salaries to all their faculty — or from hiring higher-quality faculty. To understand whether universities themselves pay more, we need to compare what the *same faculty member* would earn across institutions. We distinguish between these two stories using survey data from the Survey of Doctorate Recipients, which allows us to observe faculty jobs and salary histories.
 
-By tracking the same person across different jobs we are able to distinguish pay coming
-from high-quality employes from that reflecting university-pay premiums. Namely, if university A pay
-higher rents than university B, all faculty should experience high salary increases when moving B to A,
-and salary decreases when moving from A to B. In the extreme scenario where there are no university
-rents and salaries are solely explained by faculty productivity, faculty should experience little
-salary change when moving from A to B or viceversa.
+By following the same person across jobs, we can separate what the employer pays from what the employee is worth. If institutions pay genuine premiums, we would expect salaries to rise whenever someone moves to a more prestigious university — and fall whenever they move down.
 
-We find that differences across university rents explain **very little** of salary variation. Most
+We find that university-specific pay premiums explain **very little** of salary variation. Most
 of it comes down to **individual faculty characteristics**. In other words, **elite universities do
 not pay a meaningful premium for identical academics**. Even when comparing the most and least
 prestigious institutions, the implied salary differences---holding faculty quality constant---are
@@ -95,7 +86,7 @@ This can explain both the symmetric mobility pattern and the limited role of ins
 
 ## Implications
 
-Our findings suggest that academia operates under a different logic than most labor markets. Employer-specific wage premia play a limited role; talent sorts strongly across institutions, and mobility is driven by match quality rather than climbing a prestige ladder.
+Our findings suggest that academia operates under a different logic than most labor markets. Employer-specific pay premiums play a limited role; talent sorts strongly across institutions, and mobility is driven by match quality rather than climbing a prestige ladder.
 
 More broadly, the results highlight how **information and the timing of job opportunities** shape labor market outcomes.
 
