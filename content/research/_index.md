@@ -41,7 +41,7 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract')">Full Abstract</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="/research/blog/us_academia" target="_blank">Non-technical summary</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="/research/academia/us_academia" target="_blank">Non-technical summary</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf" target="_blank">Paper</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf" target="_blank">Online Appendix</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/64PORL" target="_blank">Replication Package</a>               
