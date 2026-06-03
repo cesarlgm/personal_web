@@ -42,7 +42,7 @@ This is the theory of *compensating differentials* (Rosen, 1986)---and it has sh
 policymakers think about salaries and job characteristics for decades. For example, if workers
 accept lower wages in exchange for lower hours, salary differences across jobs partly reflect workers preferences.
 
-But jobs don't offer only one perk, they offen package several of them together. Moreover, some
+But jobs don't offer only one perk, they often package several of them together. Moreover, some
 perks are not offered when others are. For example, jobs with flexible hours often do not offer
 health insurance, or the ability to work from home.
 
