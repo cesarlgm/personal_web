@@ -19,7 +19,7 @@ image:
   size: "cover"
   focal_point: "Smart"
   preview_only: false
-featured: true
+featured: false
 ---
 
 When you accept a job, you're not just agreeing to a salary. You're agreeing to a schedule, a commute, a set of expectations about your time, and a package of benefits. Some jobs pay well but demand long hours. Others offer flexibility but provide fewer perks. This trade-off seems familiar.
