@@ -23,58 +23,57 @@ image:
   focal_point: "Smart"
   preview_only: false 
 
+
+
 featured: true
 ---
 
-In most industries, some firms pay more than others—even for seemingly similar workers. Economists have shown that employees who move to higher-paying firms typically receive wage increases, while those moving to lower-paying firms experience comparable losses. These persistent differences across employers are often interpreted as *firm effects* or even *rents*—a share of firm-specific advantages captured by workers.
+In most industries, some firms pay more than others—even for seemingly similar workers. Economists
+have shown that otherwise similar employees who move to higher-paying firms typically receive wage
+increases, while those moving to lower-paying firms experience comparable losses. These persistent
+differences across employers are often interpreted as *firm wage effects* or *rents*. These are
+firm-specific wage premiums captured by workers.
 
-Universities appear to fit this pattern. There is a clear prestige hierarchy, and faculty at elite institutions earn higher salaries on average. It is therefore natural to think that top universities pay a premium.
+Universities appear to fit this pattern. There is a clear prestige hierarchy, and faculty at elite
+institutions earn higher salaries on average. But in our paper, we show that **elite universities
+do not systematically pay more for the same faculty**. Instead, they pay more because they hire
+more productive academics. In fact, we find very little evidence of any significant university pay
+premia in the US academic market.
 
-But this intuition turns out to be misleading.
 
-In this paper, we show that **elite universities do not systematically pay more for the same faculty**. Instead, they pay more because they hire higher-paid, more productive academics.
-
-
-## A familiar pattern—at first glance
+## Higher academic salaries reflect better faculty quality
 
 As in other sectors, academic salaries are strongly correlated with institutional prestige. Faculty at top-ranked universities earn more on average, and these institutions have greater resources and visibility.
 
-However, average differences can be misleading. To understand whether universities themselves pay more, we need to compare what the *same faculty member* would earn across institutions.
+Higher salaries in these universities can result *firm-pay premimums*---they pay higher salaries
+to all their faculty---or from hiring higher-quality faculty. To understand whether universities themselves pay more, we need to compare what the
+*same faculty member* would earn across institutions. We distinguish between these two stories using
+survey data from the US Survey of Earned Doctorates, that allows to observe faculty job and salary
+histories. 
+
+By tracking the same person across different jobs we are able to distinguish pay coming
+from high-quality employes from that reflecting university-pay premiums. Namely, if university A pay
+higher rents than university B, all faculty should experience high salary increases when moving B to A,
+and salary decreases when moving from A to B. In the extreme scenario where there are no university
+rents and salaries are solely explained by faculty productivity, faculty should experience little
+salary change when moving from A to B or viceversa.
+
+We find that differences across university rents explain **very little** of salary variation. Most
+of it comes down to **individual faculty characteristics**. In other words, **elite universities do
+not pay a meaningful premium for identical academics**. Even when comparing the most and least
+prestigious institutions, the implied salary differences---holding faculty quality constant---are
+modest. Thus, the observed salary differences reflect **who institutions hire**.
+
+## Worker mobility in academia looks very different from other labor markets
+
+Academic careers also exhibit mobility patterns that differ from the broader labor market. In most
+labor markets, workers tend to move up the job ladder, and moving down typically comes with a pay
+cut. In academia, neither holds: moves up and down the prestige hierarchy are equally common, and
+**salaries tend to increase after a move regardless of direction**. Faculty moving to less
+prestigious institutions often still receive substantial pay increases.
 
 
-
-## Prestige does not imply higher pay
-
-Using longitudinal data on US STEM faculty and a standard two-way fixed effects (AKM) framework, we separate the role of individual characteristics from institutional effects.
-
-We find that differences across universities explain **very little** of salary variation—most of it comes down to **individual faculty characteristics**. In other words, **elite universities do not pay a meaningful premium for identical academics**.
-
-Even when comparing the most and least prestigious institutions, the implied salary differences—holding faculty quality constant—are modest.
-
-
-
-## Mobility looks very different from other labor markets
-
-Academic careers also exhibit unusual mobility patterns. In most labor markets, workers tend to move up the job ladder, and moving down typically comes with a pay cut. In academia, neither holds: moves up and down the prestige hierarchy are equally common, and **salaries tend to increase after a move regardless of direction**.
-
-Faculty moving to less prestigious institutions often still receive substantial pay increases.
-
-
-## Why do elite universities pay more on average?
-
-If elite institutions do not pay more for the same faculty, why are their average salaries higher?
-
-The answer is straightforward:
-
-> **They hire better-paid faculty.**
-
-There is strong sorting across institutions: more productive academics—measured through publications, citations, and career trajectories—are more likely to work at more prestigious universities.
-
-Thus, the observed salary differences reflect **who institutions hire**, not **how much they pay for a given individual**.
-
-
-
-## A different model of the academic labor market
+## Why is academia different?
 
 We argue that two key features distinguish academia from most labor markets:
 
@@ -84,13 +83,9 @@ Academic output (publications, citations, grants) is highly visible, allowing in
 ### 2. Scarce and irregular job openings  
 Departments hire infrequently and often in narrow fields, meaning that good matches are not always available when candidates enter the market.
 
+These features lead to a labor market shaped by mismatch and gradual improvement. Initial placements are often imperfect---the right candidate and the right department don't always meet at the same time. When academics do move, whether up or down the prestige ladder, the match typically improves, translating into **higher productivity and higher salaries**.
 
-
-## A market of imperfect matches
-
-These features lead to a labor market shaped by mismatch and gradual improvement. Initial placements are often imperfect—the right candidate and the right department don't always meet at the same time. When academics do move, whether up or down the prestige ladder, the match typically improves, translating into **higher productivity and higher salaries**.
-
-This explains both the symmetric mobility pattern and the limited role of institutional rents. If a better fit drives moves in either direction, both directions should be associated with pay increases—which is exactly what we find. And if salaries reflect worker quality rather than employer generosity, there is little room for rents to accumulate.
+This can explain both the symmetric mobility pattern and the limited role of institutional rents. If a better fit drives moves in either direction, both directions should be associated with pay increases—which is exactly what we find. And if salaries reflect worker quality rather than employer generosity, there is little room for rents to accumulate.
 
 
 ## Implications
@@ -99,7 +94,7 @@ Our findings suggest that academia operates under a different logic than most la
 
 More broadly, the results highlight how **information and the timing of job opportunities** shape labor market outcomes.
 
-Elite universities do not necessarily pay more—they employ faculty who would earn more almost anywhere.
+Elite universities do not necessarily pay more. They employ faculty who would earn more almost anywhere.
 
 ---
 **Co-authored with:** [Shulamit Kahn](https://sites.bu.edu/shulamitkahn/) (Boston University) and [Kevin Lang](https://sites.bu.edu/kevinlang/) (Boston University)

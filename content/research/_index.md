@@ -28,7 +28,7 @@ summary: List of my work in progress and publications
 <div class="universal-wrapper">
 <div class="media stream-item view-compact">
     <div class="media-body">
-        <div class="section-subheading article-title mb-0 mt-0" id="akm" href="/research/blog/us_academia">Do Elite Universities Overpay their Faculty?</div>
+        <div class="section-subheading article-title mb-0 mt-0" id="akm">Do Elite Universities Overpay their Faculty?</div>
         <div class="article-style">No. We use matched employer-employee data to show that salary differentials among academic institutions primarily reflect differences in faculty quality.  <br> <i> Forthcoming at the Review of Economics and Statistics </i></div>
         <div class="stream-meta article-metadata">
             <div class="article-metadata">
