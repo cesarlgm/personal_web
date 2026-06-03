@@ -12,13 +12,13 @@ tags:
   - Gender Inequality
   - Job Amenities
 image:
-  filename: ""
+  filename: "/research/images/amenities_picture_blue.png"
   caption: ""
   filters:
     brightness: 0.5
   size: "cover"
   focal_point: "Smart"
-  preview_only: false
+  preview_only: false 
 featured: false
 
 links:
@@ -65,7 +65,7 @@ Using data tracking 6,755 Americans from their teens through adulthood (Bureau o
   paid leave or health insurance.
 - The simple trade-off between wages and flexibility that standard theory predicts is far less common than the trade-off between one amenity and another
 
-> Workers aren't just choosing between money and flexibility. They're navigating a menu of bundles where getting one benefit often means giving up another.
+Workers are not just choosing between money and flexibility. They're navigating a menu of bundles where getting one benefit often means giving up another.
 
 ## Who ends up where, and the gender gap
 

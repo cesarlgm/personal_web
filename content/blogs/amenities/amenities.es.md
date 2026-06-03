@@ -12,13 +12,13 @@ tags:
   - Desigualdad de Género
   - Beneficios Laborales
 image:
-  filename: ""
+  filename: "/research/images/amenities_picture_blue.png"
   caption: ""
   filters:
     brightness: 0.5
   size: "cover"
   focal_point: "Smart"
-  preview_only: false
+  preview_only: false 
 featured: false
 
 links:
