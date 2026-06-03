@@ -43,7 +43,7 @@ policymakers think about salaries and job characteristics for decades. For examp
 accept lower wages in exchange for lower hours, salary differences across jobs partly reflect workers preferences.
 
 But jobs don't offer only one perk, they offen package several of them together. Moreover, some
-perks are not offered when others are. For example, jobs with flexible hours ofen do not offer
+perks are not offered when others are. For example, jobs with flexible hours often do not offer
 health insurance, or the ability to work from home.
 
 **When firms package multiple perks together, workers often trade lower hours for other
