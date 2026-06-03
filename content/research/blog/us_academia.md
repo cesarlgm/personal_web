@@ -25,6 +25,10 @@ image:
 
 
 featured: true
+
+links:
+  Full paper: https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf
+  Online Appendix: https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf
 ---
 
 In most industries, some firms pay more than others—even for seemingly similar workers. Economists
@@ -96,6 +100,8 @@ More broadly, the results highlight how **information and the timing of job oppo
 Elite universities do not necessarily pay more. They employ faculty who would earn more almost anywhere.
 
 ---
-**Co-authored with:** [Shulamit Kahn](https://sites.bu.edu/shulamitkahn/) (Boston University) and [Kevin Lang](https://sites.bu.edu/kevinlang/) (Boston University)
+**Co-authored with:** [Shulamit Kahn](https://sites.bu.edu/shulamitkahn/) (Boston University) and
+[Kevin Lang](https://sites.bu.edu/kevinlang/) (Boston University)
+
 **Forthcoming at:** *Review of Economics and Statistics*
 ---
