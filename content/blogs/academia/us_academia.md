@@ -48,6 +48,7 @@ more productive academics. In fact, we find very little evidence of any signific
 premia in the US academic market.
 
 
+
 ## Higher academic salaries reflect better faculty quality
 
 As in other sectors, academic salaries are strongly correlated with institutional prestige. Faculty at top-ranked universities earn more on average, and these institutions have greater resources and visibility.
@@ -77,6 +78,7 @@ cut (Card et al., 2018). In academia, neither holds: moves up and down the prest
 prestigious institutions often receive substantial pay increases.
 
 
+
 ## Why is academia different?
 
 We argue that two key features distinguish academia from most labor markets:
@@ -92,6 +94,7 @@ These features lead to a labor market shaped by mismatch and gradual improvement
 This can explain both the symmetric mobility pattern and the limited role of institutional rents. If a better fit drives moves in either direction, both directions should be associated with pay increases—which is exactly what we find. And if salaries reflect worker quality rather than employer generosity, there is little room for rents to accumulate.
 
 
+
 ## Implications
 
 Our findings suggest that academia operates under a different logic than most labor markets. Employer-specific pay premiums play a limited role; talent sorts strongly across institutions, and mobility is driven by match quality rather than climbing a prestige ladder.
@@ -99,6 +102,7 @@ Our findings suggest that academia operates under a different logic than most la
 More broadly, the results highlight how **information and the timing of job opportunities** shape labor market outcomes.
 
 Elite universities do not necessarily pay more. They employ faculty who would earn more almost anywhere.
+
 
 ## References
 

@@ -44,6 +44,7 @@ decir, primas salariales específicas a cada empresa que capturan los trabajador
 Las universidades parecen seguir este patrón. Existe una clara jerarquía de prestigio y los profesores de instituciones de élite ganan salarios más altos. Sin embargo, en [nuestro artículo](https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf), mostramos que **las universidades de élite no pagan sistemáticamente más por los mismos profesores**. En cambio, pagan más porque contratan académicos más productivos. De hecho, encontramos muy poca evidencia de primas salariales significativas en el mercado académico estadounidense.
 
 
+
 ## Los salarios académicos más altos reflejan profesorado de mayor calidad
 
 Al igual que en otros sectores, los salarios académicos están fuertemente correlacionados con el prestigio institucional. Los profesores de las universidades mejor clasificadas ganan más en promedio, y estas instituciones cuentan con mayores recursos y visibilidad.
@@ -67,9 +68,12 @@ escala de prestigio, las diferencias salariales implícitas---manteniendo consta
 profesorado---son modestas, alrededor del 15%. Así, las diferencias salariales observadas reflejan **a quién contratan
 las instituciones**.
 
+
+
 ## La movilidad laboral en la academia es muy diferente a la de otros mercados
 
 Las carreras académicas también muestran patrones de movilidad distintos a los del mercado laboral general. En la mayoría de los mercados, los trabajadores tienden a ascender en la escala laboral y moverse hacia abajo suele conllevar una reducción salarial (Card et al., 2018). En la academia, ninguno de los dos se cumple: los movimientos hacia arriba y hacia abajo en la jerarquía de prestigio son igualmente comunes, y **los salarios tienden a aumentar tras un cambio de institución independientemente de la dirección**. Los profesores que se trasladan a instituciones menos prestigiosas a menudo reciben aumentos salariales sustanciales.
+
 
 
 ## ¿Por qué la academia es diferente?
@@ -85,6 +89,7 @@ Los departamentos contratan con poca frecuencia y a menudo en áreas muy especí
 Estas características dan lugar a un mercado laboral marcado por el desajuste inicial y la mejora gradual. Las colocaciones iniciales son a menudo imperfectas---el candidato adecuado y el departamento adecuado no siempre coinciden. Cuando los académicos se mueven, ya sea hacia arriba o hacia abajo en la escala de prestigio, el ajuste suele mejorar, lo que se traduce en **mayor productividad y mayores salarios**.
 
 Esto puede explicar tanto el patrón de movilidad simétrica como el papel limitado de las primas institucionales. Si una mejor coincidencia impulsa los movimientos en ambas direcciones, ambas deberían asociarse con aumentos salariales, que es exactamente lo que encontramos. Y si los salarios reflejan la calidad del trabajador más que la generosidad del empleador, hay poco margen para que se acumulen primas institucionales.
+
 
 
 ## Implicaciones

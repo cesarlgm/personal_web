@@ -30,43 +30,57 @@ But what exactly are workers trading against what?
 
 The classic economic answer is clean: workers who value flexible hours are willing to accept lower pay to get them. Firms respond by offering lower wages in exchange for better working conditions. Workers sort into jobs that match their preferences, and the wage gap between demanding and flexible jobs reveals how much people value those perks.
 
-This is the theory of *compensating differentials* — and it has shaped how economists and policymakers think about the gender wage gap for decades. If women accept lower wages in exchange for flexibility, the reasoning goes, the gap partly reflects preferences rather than discrimination.
+This is the theory of *compensating differentials* (Rosen, 1986)---and it has shaped how economists and
+policymakers think about salaries and job characteristics for decades. For example, if workers
+accept lower wages in exchange for flexibility, salary differences across jobs partly workers preferences.
 
-But jobs don't offer amenities à la carte.
+But jobs don't offer only one perk, they offen package several of them together. Moreover, some
+perks are not offered when others are. For example, jobs with flexible hours ofen do not offer
+health insurance, or the ability to work from home.
 
-**When firms package multiple benefits together, workers often trade flexible hours for other benefits — not just for wages — and this reshapes how we should understand gender inequality in the labour market.**
+**When firms package multiple perks together, workers often trade flexible hours for other
+benefits---not just for wages---and this reshapes how we should understand salary differences in the labour
+market.**
 
 ## The bundling problem
 
-Think of a job as a package deal. A job with flexible hours might also come with the option to work from home but a smaller health insurance contribution. A high-paying job might come with long hours but generous paid leave. Workers don't pick individual features — they choose from a menu of bundles.
+Think of a job as a package deal. A job with flexible hours might also come with the option to work
+from home but a smaller health insurance contribution. A high-paying job might come with long hours
+but generous paid leave. Workers don't pick individual features, they choose from a menu of bundles.
 
-We develop a model that accounts for how firms combine amenities and how workers decide whether a bundle suits their preferences. The key insight is that whether you end up with the amenity mix you want depends not just on what you value, but on what bundles firms offer and how those bundles are put together.
+In our paper, we develop a model that accounts for how firms combine amenities (perks) and how workers decide whether a bundle suits their preferences. The key insight is that whether you end up with the amenity mix you want depends not just on what you value, but on what bundles firms offer and how those bundles are put together.
 
 ## Flexible hours don't just cost you wages
 
-Using data tracking thousands of Americans from their teens through adulthood, we find that:
+Using data tracking 6,755 Americans from their teens through adulthood (Bureau of Labor Statistics, 2024), we find that:
 
-- Workers who value flexible hours do often end up with them — but they give up **other amenities**, not necessarily wages
-- Shorter or more flexible work hours are frequently bundled with fewer other benefits, such as less paid leave or smaller employer contributions to health cover
+- American workers who value flexible hours often must give up **other amenities**.
+- Shorter or more flexible work hours are frequently bundled with fewer other benefits, such as less
+  paid leave or health insurance.
 - The simple trade-off between wages and flexibility that standard theory predicts is far less common than the trade-off between one amenity and another
 
 > Workers aren't just choosing between money and flexibility. They're navigating a menu of bundles where getting one benefit often means giving up another.
 
-## Who ends up where — and the gender gap
+## Who ends up where, and the gender gap
 
 These patterns matter especially for understanding why men and women end up in different jobs with different pay.
 
-Women are more likely than men to value flexible hours, particularly those with caregiving responsibilities. The standard story says this leads women to accept lower wages in exchange. We find something more complicated:
+Women are more likely than men to value flexible hours, particularly those with caregiving responsibilities:
 
-- Women are more likely to end up in jobs with flexible hours — but these jobs also tend to bundle in fewer other benefits
+- Women are more likely to end up in jobs with flexible hours---but these jobs also tend to bundle in fewer other benefits
 - As a result, women face a compounded disadvantage: lower wages **and** a thinner non-wage benefits package
-- The gender gap in total compensation — wages plus the full value of benefits — is wider than the gender wage gap alone suggests
+- Thus gender gap in total compensation---wages plus the full value of benefits---is wider than the gender wage gap alone suggests.
 
 ## What this means
 
 - **Wage statistics understate inequality.** If men receive better non-wage benefits on top of higher wages, standard pay comparisons miss a significant share of the gap. Policies and audits that focus only on wages may give a misleadingly narrow picture.
-- **Flexible work policies have limits.** Expanding flexible work arrangements can help reduce gender gaps — but only if those arrangements don't come bundled with trade-offs that disproportionately hurt women. The effectiveness of "family-friendly" workplace policies depends on what else gets packed into the bundle.
-- **Amenity design is a policy lever.** Employers and regulators who want to reduce gender disparities should look at the full composition of job packages, not just at wages or any single amenity in isolation.
+- **Flexible work alone is not enough.** The remaining gender gap in labour market outcomes is closely tied to how flexibility in hours is packaged alongside other benefits (Goldin, 2014). Expanding part-time or reduced-hour arrangements only helps if those arrangements don't strip away other perks in the process.
+
+## References
+
+- Bureau of Labor Statistics, U.S. Department of Labor (2024), "National Longitudinal Survey of Youth 1997 cohort, 1997–2021 (rounds 1–20)", produced and distributed by the Center for Human Resource Research (CHRR), The Ohio State University.
+- Goldin, C (2014), "A grand gender convergence: Its last chapter", *American Economic Review* 104(4): 1091–1119.
+- Rosen, S (1986), "The theory of equalizing differences", *Handbook of Labor Economics* 1: 641–692.
 
 ---
 **Co-authored with:** [Neil Thakral](https://neilthakral.github.io/) (Brown University) and [Linh Tô](https://linh.to/) (Boston University)
