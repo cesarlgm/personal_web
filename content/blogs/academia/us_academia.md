@@ -52,15 +52,21 @@ premia in the US academic market.
 
 As in other sectors, academic salaries are strongly correlated with institutional prestige. Faculty at top-ranked universities earn more on average, and these institutions have greater resources and visibility.
 
-Higher salaries at these universities can result from *firm-level pay premiums* — paying higher salaries to all their faculty — or from hiring higher-quality faculty. To understand whether universities themselves pay more, we need to compare what the *same faculty member* would earn across institutions. We distinguish between these two stories using survey data from the Survey of Doctorate Recipients, which allows us to observe faculty jobs and salary histories.
+Higher salaries at these universities can result from *firm-level pay premiums* — paying higher
+salaries to all their faculty — or from hiring higher-quality faculty. To understand whether
+universities themselves pay more, we need to compare what the *same faculty member* would earn
+across institutions. We distinguish between these two stories using survey data from the Survey of
+Doctorate Recipients, which allows us to observe STEM faculty job and salary histories.
 
-By following the same person across jobs, we can separate what the employer pays from what the employee is worth. If institutions pay genuine premiums, we would expect salaries to rise whenever someone moves to a more prestigious university — and fall whenever they move down.
+By following the same person across jobs, we can separate what the employer pays from what the
+employee is worth. If elite institutions pay genuine premiums, we would expect salaries to rise
+whenever someone moves to a more prestigious university---and fall whenever they move down.
 
 We find that university-specific pay premiums explain **very little** of salary variation. Most
 of it comes down to **individual faculty characteristics**. In other words, **elite universities do
 not pay a meaningful premium for identical academics**. Even when comparing the most and least
 prestigious institutions, the implied salary differences---holding faculty quality constant---are
-modest. Thus, the observed salary differences reflect **who institutions hire**.
+modest, around 15%. Thus, the observed salary differences reflect **who institutions hire**.
 
 ## Worker mobility in academia looks very different from other labor markets
 
@@ -68,7 +74,7 @@ Academic careers also exhibit mobility patterns that differ from the broader lab
 labor markets, workers tend to move up the job ladder, and moving down typically comes with a pay
 cut (Card et al., 2018). In academia, neither holds: moves up and down the prestige hierarchy are equally common, and
 **salaries tend to increase after a move regardless of direction**. Faculty moving to less
-prestigious institutions often still receive substantial pay increases.
+prestigious institutions often receive substantial pay increases.
 
 
 ## Why is academia different?
