@@ -92,5 +92,6 @@ Las mujeres tienen más probabilidades que los hombres de valorar los horarios f
 <hr>
 <p><strong>Coautoría con:</strong> <a href="https://neilthakral.github.io/">Neil Thakral</a> (Brown University) y <a href="https://linh.to/">Linh Tô</a> (Boston University)</p>
 <p><strong>Publicado en:</strong> <em>AEA Papers & Proceedings, Vol. 115, mayo de 2025</em></p>
+<p><strong>Más detalles:</strong> <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031">Artículo completo</a></p>
 <hr>
 </div>

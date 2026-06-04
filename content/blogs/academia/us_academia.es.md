@@ -112,5 +112,6 @@ Las universidades de élite no necesariamente pagan más. Emplean a profesores q
 <hr>
 <p><strong>Coautoría con:</strong> <a href="https://sites.bu.edu/shulamitkahn/">Shulamit Kahn</a> (Boston University) y <a href="https://sites.bu.edu/kevinlang/">Kevin Lang</a> (Boston University)</p>
 <p><strong>Próximamente en:</strong> <em>Review of Economics and Statistics</em></p>
+<p><strong>Más detalles:</strong> <a href="https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf">Artículo completo</a></p>
 <hr>
 </div>

@@ -94,5 +94,6 @@ Women are more likely than men to value flexible hours, particularly those with 
 <hr>
 <p><strong>Co-authored with:</strong> <a href="https://neilthakral.github.io/">Neil Thakral</a> (Brown University) and <a href="https://linh.to/">Linh Tô</a> (Boston University)</p>
 <p><strong>Published in:</strong> <em>AEA Papers & Proceedings, Vol. 115, May 2025</em></p>
+<p><strong>Learn more:</strong> <a href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031">Full Paper</a></p>
 <hr>
 </div>

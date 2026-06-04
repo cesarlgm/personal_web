@@ -116,5 +116,6 @@ Elite universities do not necessarily pay more. They employ faculty who would ea
 <hr>
 <p><strong>Co-authored with:</strong> <a href="https://sites.bu.edu/shulamitkahn/">Shulamit Kahn</a> (Boston University) and <a href="https://sites.bu.edu/kevinlang/">Kevin Lang</a> (Boston University)</p>
 <p><strong>Forthcoming at:</strong> <em>Review of Economics and Statistics</em></p>
+<p><strong>Learn more:</strong> <a href="https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf">Full Paper</a></p>
 <hr>
 </div>
