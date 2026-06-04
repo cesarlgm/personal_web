@@ -66,8 +66,8 @@ summary: Lista de mis publicaciones y trabajo en progreso
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract_es')">Resumen</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="/es/blogs/amenities/amenities" target="_blank">Resumen ejecutivo</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">Pre-publicación</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031" target="_blank">Artículo</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">Pre-publicación</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf" target="_blank">Apéndice en línea</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.openicpsr.org/openicpsr/project/221382/version/V1/view" target="_blank">Código de replicación</a>
             <p id="amenities_abstract_es" class="hidden" style="display: none; font-size:0.8em; text-align: justify"><br>
