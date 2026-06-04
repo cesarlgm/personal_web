@@ -1,26 +1,80 @@
 ---
-title: "Do Elite Universities Overpay Their Faculty?"
-date: 2025-11-15
-draft: true
-summary: "A non-technical explanation of why Harvard and Stanford pay more than other universities—and whether that's actually overpaying"
-
+title: "Who Benefits When Governments Build Schools?"
+date: 2026-06-04
+subtitle: Indonesia built 6,000 high schools in 15 years---enrollment rose, private schools survived, but the gains went mostly to boys from educated families.
+draft: false
+summary: "A massive public school building program in Indonesia raised enrollment but disproportionately benefited already-advantaged students, revealing the limits of supply-side education policy."
 type: page
 authors:
   - admin
-
 tags:
-  - academia
-  - labor economics
-  - faculty salaries
-  - higher education
-
-categories:
-  - research
-
-featured: true
-
+  - Education
+  - Indonesia
+  - Gender Inequality
+  - Development Economics
 image:
+  filename: "secondary_construction_blue.png"
   caption: ""
-  focal_point: ""
-  preview_only: false  
+  filters:
+    brightness: 0.5
+  size: "cover"
+  focal_point: "Smart"
+  preview_only: false
+featured: true
 ---
+
+When a government builds 6,000 new schools in 15 years, adding millions of seats for teenagers who could not previously access high school, it seems impossible for the effort to fall short. But "fall short" is not the right question. The right question is: who actually shows up?
+
+In the late 1990s, only about 40% of Indonesian teenagers were enrolled in high school---well below the 60% rate in East Asia and the Pacific and 49% among middle-income countries (The World Bank, 2025). Starting in the early 2000s, the government launched an ambitious construction drive, building over 6,000 public high schools and adding more than 2.4 million seats over 15 years. The expansion targeted districts with the lowest enrollment rates, where the need was greatest.
+
+## The standard case for building more schools
+
+The logic behind school construction programs is intuitive. Where schools are scarce and travel distances are long, young people don't enroll. Build the school, lower the costs, and enrollment rises. If you target the most underserved districts, the gains should flow to those who need them most.
+
+In mixed public-private education markets, there is an additional concern: will new public schools simply pull students away from private providers, leaving overall enrollment unchanged and damaging a sector that many families depend on?
+
+## What happened in Indonesia
+
+[Our paper](https://cesarlgm.github.io/documents/papers/idn_secondary_expansion.pdf) compares districts that received new schools earlier against those that received them later, tracking enrollment and private school outcomes over time.
+
+On enrollment, the expansion worked. Within five years of a district receiving new schools, upper-secondary enrollment rose by roughly 4 percentage points---about a 12% increase relative to the baseline rate. There were also positive spillover effects: middle school enrollment rose too, as students became more likely to stay in school when they could see a path forward to high school.
+
+The new construction did not crowd out private schools. In the United States, increased public school funding has been shown to drive private school closures (Dinerstein and Smith, 2021). In Indonesia, private school construction in expansion districts did not slow down---if anything, it ticked up slightly in the years after the public expansion began. Private school students did not score worse on exit exams either. In settings where secondary enrollment is low to begin with, expanding public supply appears to grow the overall market rather than just redistribute existing students.
+
+## Enrollment gains concentrated among boys
+
+The enrollment gains were deeply unequal across groups:
+
+- **Boys from more educated families** benefited most: high school attendance in this group rose by over 6 percentage points.
+- **Girls** saw smaller gains of about 3 percentage points, concentrated among girls from *less*-educated households.
+- **Students from disadvantaged backgrounds** gained far less at the high school level.
+
+This pattern inverts what happens at the middle school level, where school expansions tend to reach the most disadvantaged students. The difference suggests that at the high school level, barriers go beyond physical access.
+
+Building a school nearby likely reduces costs. But it does not address the other reasons families keep teenagers---especially girls---out of school.
+
+### Why the gap?
+
+When secondary enrollment is already low, the students closest to enrolling are not the most disadvantaged---they are the ones who face the fewest other obstacles. Boys from educated families already have the demand; the new school removes the final constraint. Girls and children from poorer households face additional barriers: family economic pressure, safety concerns about longer journeys, and social norms that deprioritize education beyond a certain level. A new building does not change any of those.
+
+## What this means
+
+- **School construction is necessary but not sufficient.** Reducing physical and financial costs helps---but other barriers remain for girls and disadvantaged students. Scholarships, transport support, and community engagement are needed alongside new buildings to make sure they reach the students who need them most.
+- **Public expansion need not hurt private schools.** Policymakers worried that public construction will undermine private providers can take some reassurance. In low-enrollment contexts, there is room for both sectors to grow simultaneously.
+- **Who benefits matters as much as how many benefit.** A program that raises average enrollment while widening gaps between advantaged and disadvantaged students is not fulfilling its equity mandate. Monitoring enrollment by gender, parental education, and household income should be standard practice for any school-building program.
+- **The case for demand-side policies is stronger than it looks.** Conditional cash transfers, girls' scholarships, and efforts to shift norms around girls' education are not nice-to-haves---they are what determines whether supply-side investment reaches the intended beneficiaries.
+
+## References
+
+- Dinerstein, M and T D Smith. 2021. "Quantifying the supply response of private schools to public policies." *American Economic Review*, 111(10): 3376–3417.
+- The World Bank. 2025. "Education Statistics – All Indicators (EdStats) DataBank."
+
+---
+
+<div class="article-footer">
+<hr>
+<p><strong>Co-authored with:</strong> <a href="https://sites.google.com/view/masyhurhilmy/home?authuser=0">Masyhur Hilmy</a> (University of New South Wales)</p>
+<p><strong>Status:</strong> Working paper</p>
+<p><strong>Learn more:</strong> <a href="https://cesarlgm.github.io/documents/papers/idn_secondary_expansion.pdf">Full Paper</a></p>
+<hr>
+</div>
