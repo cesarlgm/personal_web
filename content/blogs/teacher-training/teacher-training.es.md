@@ -2,7 +2,7 @@
 title: "Cuando la Capacitación Docente No Funciona"
 date: 2026-06-04
 subtitle: Un amplio programa de capacitación docente impartido por el sector privado en Indonesia desplazó la formación existente y no produjo mejoras en el conocimiento de los docentes ni en la calidad escolar.
-draft: true
+draft: false
 summary: "Un experimento riguroso en Indonesia encuentra que un ambicioso programa de capacitación docente no tuvo efecto medible, y revela un riesgo oculto al expandir el desarrollo profesional a gran escala."
 type: page
 authors:

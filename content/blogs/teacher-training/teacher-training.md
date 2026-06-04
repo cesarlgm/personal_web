@@ -2,7 +2,7 @@
 title: "When Teacher Training Doesn't Work"
 date: 2026-06-04
 subtitle: A large, industry-delivered training program for vocational teachers in Indonesia crowded out existing training and produced no gains in teacher knowledge or school quality.
-draft: true
+draft: false
 summary: "A rigorous experiment in Indonesia finds that an ambitious teacher training program had no measurable effect — and reveals a hidden risk in scaling up professional development."
 type: page
 authors:
