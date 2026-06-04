@@ -6,7 +6,7 @@ date: 2022-10-25
 sections:
   - block: contact
     content:
-      email: cgarrom@ed.ac.uk
+      email: cesarlgm@bu.edu
       appointment_url: 'https://outlook.office.com/book/Meetingslots@uoe.onmicrosoft.com/?ismsaljsauthenabled'
       address:
         street: Room 4.18, 31 Buccleuch Place

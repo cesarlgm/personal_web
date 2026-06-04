@@ -23,7 +23,7 @@ bio: Soy un economista interesado en economía de género, laboral y del desarro
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:cgarrom@ed.ac.uk  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:cesarlgm@bu.edu  # For a direct email link, use "mailto:test@example.org".
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0009-0009-8860-8697
