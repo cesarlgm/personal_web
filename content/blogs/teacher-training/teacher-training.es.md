@@ -1,5 +1,5 @@
 ---
-title: "Cuando la Capacitación Docente No Funciona"
+title: "Cuando la capacitación docente no funciona"
 date: 2026-06-04
 subtitle: Un amplio programa de capacitación docente impartido por el sector privado en Indonesia desplazó la formación existente y no produjo mejoras en el conocimiento de los docentes ni en la calidad escolar.
 draft: false

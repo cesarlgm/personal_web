@@ -66,8 +66,8 @@ summary: List of my work in progress and publications
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">Full Abstract</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="/blogs/amenities/amenities" target="_blank">Non-technical summary</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">Pre-print</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031" target="_blank">Paper</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">Pre-print</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf" target="_blank">Online Appendix</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://www.openicpsr.org/openicpsr/project/221382/version/V1/view" target="_blank">Replication Package</a>
             <p id="amenities_abstract" class="hidden" style="display: none; font-size:0.8em; text-align: justify"><br>

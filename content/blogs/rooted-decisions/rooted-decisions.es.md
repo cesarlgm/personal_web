@@ -1,5 +1,5 @@
 ---
-title: "Raíces que Deciden: Cómo el Lugar de Nacimiento Moldea el Trabajo Femenino"
+title: "Raíces que deciden: cómo el lugar de nacimiento moldea el trabajo femenino"
 date: 2026-06-04
 subtitle: Las mujeres que crecieron en lugares con alto empleo femenino tienen más probabilidades de trabajar en la adultez---incluso tras mudarse---lo que sugiere que la exposición infantil a las normas de género moldea los resultados laborales de por vida.
 draft: false
