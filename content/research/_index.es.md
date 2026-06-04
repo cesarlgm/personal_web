@@ -40,8 +40,8 @@ summary: Lista de mis publicaciones y trabajo en progreso
             </div>
         </div>
         <div class="btn-links">
-               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract_es')">Resumen Completo</a>
-               <a class="btn btn-outline-primary btn-page-header btn-sm" href="/es/blogs/academia/us_academia" target="_blank">Resumen no técnico</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('akm_abstract_es')">Resumen</a>
+               <a class="btn btn-outline-primary btn-page-header btn-sm" href="/es/blogs/academia/us_academia" target="_blank">Resumen ejecutivo</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf" target="_blank">Artículo</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf" target="_blank">Apéndice en línea</a>
                <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/64PORL" target="_blank">Código de replicación</a>
@@ -64,8 +64,8 @@ summary: Lista de mis publicaciones y trabajo en progreso
                 </div>
         </div>
         <div class="btn-links">
-           <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract_es')">Resumen Completo</a>
-           <a class="btn btn-outline-primary btn-page-header btn-sm" href="/es/blogs/amenities/amenities" target="_blank">Resumen no técnico</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract_es')">Resumen</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="/es/blogs/amenities/amenities" target="_blank">Resumen ejecutivo</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours.pdf" target="_blank">Pre-publicación</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031" target="_blank">Artículo</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf" target="_blank">Apéndice en línea</a>
@@ -99,7 +99,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
                 </div>
             </div>
             <div class="btn-links">
-            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_secondary_abstract_es')">Resumen Completo</a>
+            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_secondary_abstract_es')">Resumen</a>
             <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/idn_secondary_expansion.pdf" target="_blank">Artículo</a>
             <p id="idn_secondary_abstract_es" class="hidden" style="display: none; font-size:0.8em; text-align: justify"><br>
                 <strong>Resumen: </strong>La ampliación del acceso a la educación secundaria sigue siendo un desafío en muchos países en desarrollo, donde la escolarización suele combinar provisión pública y privada. Este artículo aprovecha la expansión a gran escala de la educación secundaria en Indonesia para estudiar cómo responden los estudiantes y las escuelas privadas ante un aumento en la oferta pública de educación secundaria. A partir de comienzos de la década de 2000, el gobierno construyó más de 6.000 escuelas secundarias públicas en un período de 15 años, priorizando distritos con baja matrícula e implementando la construcción de manera escalonada en todo el país. Explotamos estas características para estimar los efectos de la expansión mediante un diseño de Diferencias en Diferencias escalonadas à la Callaway y Sant’Anna (2021). A pesar de la magnitud y persistencia de la expansión, no encontramos evidencia de un impacto negativo significativo sobre las escuelas secundarias privadas. La expansión no desplazó la inversión en nuevas escuelas privadas ni redujo la calidad del alumnado en estas instituciones. Además, encontramos que, si bien la expansión aumentó la matrícula en educación secundaria, existieron diferencias importantes según género y origen familiar. Las mayores ganancias se concentraron entre estudiantes varones provenientes de hogares con mayor nivel educativo, quienes probablemente enfrentan menores barreras para participar.
@@ -124,8 +124,8 @@ summary: Lista de mis publicaciones y trabajo en progreso
             </div>
         </div>
         <div class="btn-links">
-            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract_es')">Resumen Completo</a>
-            <a class="btn btn-outline-primary btn-page-header btn-sm" href="/blogs/teacher_training/teacher_training.es" target="_blank">Resumen no técnico</a>
+            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('smk_abstract_es')">Resumen</a>
+            <a class="btn btn-outline-primary btn-page-header btn-sm" href="/es/blogs/teacher_training/teacher_training" target="_blank">Resumen ejecutivo</a>
             <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">Artículo</a>
             <p id="smk_abstract_es" class="hidden" style="display: none; font-size:0.8em; text-align: justify"><br><strong>Resumen: </strong>Evaluamos un programa de capacitación masiva para docentes de escuelas vocacionales en Indonesia. El gobierno implementó un programa intensivo de capacitación profesional impartido por empresas del sector privado con el objetivo de mejorar las competencias vocacionales de los docentes. Utilizamos un ensayo de control aleatorio para evaluar los efectos en el conocimiento de los docentes, las prácticas en el aula, las expectativas de los docentes sobre los resultados de sus estudiantes, y la calidad escolar. Hallamos que este programa desplazó la demanda de los docentes de otras oportunidades de desarrollo profesional, sin aumentar la participación global en programas de capacitación. Vemos escasa evidencia de mejoras en el conocimiento de los docentes o en las medidas de calidad escolar, aunque se sugiere un mayor uso de las tecnologías de la información y la comunicación (TIC) en el aula.</p>
         </div>
@@ -144,7 +144,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
             </div>
         </div>
         <div class="btn-links">
-           <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract_es')">Resumen Completo</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract_es')">Resumen</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Artículo</a>
             <p id="idn_abstract_es" class="hidden" style="display: none; font-size:0.8em; text-align: justify"><br>
                 <strong>Resumen: </strong> ¿Cómo afecta la exposición temprana al mercado laboral local las decisiones laborales de las mujeres en la edad adulta? Utilizando datos de Indonesia, documento los efectos fuertes y persistentes de una mayor exposición a localidades con altas tasas de empleo femenino, especialmente durante la etapa formativa, entre los 6 y los 15 años. Mi estrategia de estimación compara a mujeres que se mudaron de su lugar de nacimiento a diferentes edades, pero que ahora residen la misma localidad. Documento que las mujeres de zonas con alta tasa de empleo tienen un 5% más de empleo que las de zonas con baja tasa de empleo, lo que sugiere que alrededor del 23% de la desigualdad espacial en el trabajo femenino se transmite a la siguiente generación, probablemente a través del aprendizaje de las normas de género del lugar de nacimiento.
@@ -179,7 +179,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
              <div class="btn-links">
                <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/AKM_paper_v1.pdf" target="_blank">Slides</a>-->
                <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('uk_abstract_es')">
-                    Resumen Completo
+                    Resumen
                 </a>
                 <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">Paper</a>
                 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/papers/garroHilmy_smk.pdf" target="_blank">Slides</a>-->
@@ -207,7 +207,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
                     <div class="btn-links">
                         <!--<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/AKM_paper_v1.pdf" target="_blank">pdf</a>-->
                         <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('gender_idn_abstract_es')" style="font-size:0.8em">
-                            Resumen Completo
+                            Resumen
                         </a>
                             <p id="gender_idn_abstract_es" class="hidden" style="display: none; font-size:0.8em; text-align: justify"><br><strong>Resumen: </strong>La exposición a la violencia tiene efectos perjudiciales bien documentados, sin embargo, sabemos relativamente poco sobre cómo impacta la toma de decisiones dentro de los hogares, y si su impacto varía para hombres y mujeres. Comprender estos efectos es crucial para diseñar políticas bien dirigidas que aborden estos daños de manera efectiva. En este proyecto, estudiamos cómo la exposición a la violencia afecta las decisiones laborales y familiares de hombres y mujeres utilizando datos de México. Para identificar los efectos de la exposición, aprovechamos ricos datos administrativos y de encuestas y utilizamos una estrategia de Diferencias-en-Diferencias que explota diferencias dentro del país en la exposición, impulsadas por el dramático aumento de la violencia relacionada con las drogas en México durante la década de 2000.
                             </p>
