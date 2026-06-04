@@ -69,7 +69,6 @@ Cuando la matrícula secundaria es ya baja, los estudiantes más cercanos a insc
 - Dinerstein, M y T D Smith. 2021. "Quantifying the supply response of private schools to public policies." *American Economic Review*, 111(10): 3376–3417.
 - The World Bank. 2025. "Education Statistics – All Indicators (EdStats) DataBank."
 
----
 
 <div class="article-footer">
 <hr>

@@ -64,7 +64,6 @@ The evidence points to internalized gender norms---not skills or formal educatio
 - Jayachandran, S. 2021. "Social Norms as a Barrier to Women's Employment in Developing Countries." NBER Technical Report 3.
 - Olivetti, C, E Patacchini, and Y Zenou. 2020. "Mothers, Peers, and Gender-Role Identity." *Journal of the European Economic Association*, 18(1): 266–301.
 
----
 
 <div class="article-footer">
 <hr>

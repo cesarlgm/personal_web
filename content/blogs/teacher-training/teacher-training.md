@@ -75,7 +75,6 @@ The findings carry lessons well beyond Indonesia:
 - Fryer, R G. 2017. "The production of human capital in developed countries: Evidence from 196 randomized field experiments." In *Handbook of Economic Field Experiments*, Vol. 2, 95–322. Elsevier.
 - Popova, A, D K Evans, M E Breeding, and V Arancibia. 2022. "Teacher Professional Development around the World: The Gap between Evidence and Practice." *The World Bank Research Observer*, 37(1): 107–136.
 
----
 
 <div class="article-footer">
 <hr>
