@@ -146,6 +146,7 @@ summary: Lista de mis publicaciones y trabajo en progreso
         </div>
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract_es')">Resumen</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="/es/blogs/rooted-decisions/rooted-decisions" target="_blank">Resumen no técnico</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Artículo</a>
             <p id="idn_abstract_es" class="hidden" style="display: none; font-size:0.8em; text-align: justify"><br>
                 <strong>Resumen: </strong> ¿Cómo afecta la exposición temprana al mercado laboral local las decisiones laborales de las mujeres en la edad adulta? Utilizando datos de Indonesia, documento los efectos fuertes y persistentes de una mayor exposición a localidades con altas tasas de empleo femenino, especialmente durante la etapa formativa, entre los 6 y los 15 años. Mi estrategia de estimación compara a mujeres que se mudaron de su lugar de nacimiento a diferentes edades, pero que ahora residen la misma localidad. Documento que las mujeres de zonas con alta tasa de empleo tienen un 5% más de empleo que las de zonas con baja tasa de empleo, lo que sugiere que alrededor del 23% de la desigualdad espacial en el trabajo femenino se transmite a la siguiente generación, probablemente a través del aprendizaje de las normas de género del lugar de nacimiento.

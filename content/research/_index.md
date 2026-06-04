@@ -147,6 +147,7 @@ summary: List of my work in progress and publications
         </div>
         <div class="btn-links">
            <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('idn_abstract')">Full Abstract</a>
+           <a class="btn btn-outline-primary btn-page-header btn-sm" href="/blogs/rooted-decisions/rooted-decisions" target="_blank">Non-technical summary</a>
            <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/cesarlgm_rooted_intext.pdf" target="_blank">Paper</a>
             <p id="idn_abstract" class="hidden" style="display: none; font-size:0.8em; text-align: justify"><br>
                 <strong>Abstract: </strong> How does early exposure to labor markets affect women’s work in adulthood? Using Indonesian data, I find strong and persistent effects of longer exposure to high-female employment places, especially during the formative years between ages 6 and 15. My estimation strategy compares women who moved from their birthplace at different ages but now live in the same location. I find that women from high-employment areas have 5 percentage points higher employment than those from lower-employment areas, suggesting that about 23% of the spatial inequality in women’s work is passed to the next generation, likely through learning of birthplace gender norms.
