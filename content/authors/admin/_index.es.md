@@ -32,7 +32,7 @@ social:
   link: https://cesarlgm.github.io/documents/profile/cv_cesarlgm_es.pdf
 - icon: github
   icon_pack: fab
-  link: https://www.github.com/cesarlgm
+  link: https://www.github.com/cesarlgm-personal
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=2&gmla=ALUCkoUoKtbPiRsf0wZK6UcMuJWcXRFaq_PaVe4eAmIFjfK_uRasrYf9-HHcQj5bXxB0-9jAtOwn3OaC6TaaWQ&user=HrWfU6AAAAAJ
