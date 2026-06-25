@@ -62,11 +62,12 @@ Custom color theme: `data/themes/custom.toml`.
 
 `.github/agents/proofreader.md` — sub-agent invoked by the `proofread` skill to review a single file for grammar, typos, and consistency.
 
-`.claude/skills/` — five skills (invoke via `/skill-name`):
+`.claude/skills/` — six skills (invoke via `/skill-name`):
 - `proofread [filename|all]` — runs proofreading and saves reports to `quality_reports/`
 - `bilingual-sync [base_name]` — checks EN/ES synchronization for a given content file
 - `plan-work [start-of-day|end-of-day|review]` — manages `workplan.md` in the repo root as a daily task tracker
 - `draft-blog <paper-id>` — drafts a VoxEU-style general-audience blog post for a paper; `paper-id` is the anchor ID from `content/research/_index.md` (e.g., `akm`, `amenities`, `idn-secondary`)
 - `edit-blog <filename>` — reviews a blog post in `content/research/blog/` and suggests revisions for clarity, grammar, flow, and VoxEU audience alignment; never edits the file directly
+- `draft-code <file-path>` — finds every `[placeholder]` and `TODO:` marker in a file and implements each one in place
 
 Quality reports from these skills are stored in `quality_reports/`.
