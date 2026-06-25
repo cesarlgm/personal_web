@@ -75,7 +75,7 @@ summary: List of my work in progress and publications
             </p>
         </div>
         <div class="btn-links">
-           <p size=0.8em> Media coverage: <a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">Faculti.net</a> </p>
+           <p><font size=0.8em>Media coverage: </font><a class="btn btn-outline-primary btn-page-header btn-sm" target="_blank" onclick="showHideText('amenities_abstract')">Faculti.net</a> </p>
         </div>
     </div>
     <div class="ml-3">
