@@ -1,7 +1,7 @@
 ---
 title: "¿Quién se beneficia cuando los gobiernos construyen escuelas?"
 date: 2026-06-04
-subtitle: Indonesia construyó 6.000 escuelas secundarias en 15 años: la matrícula aumentó sin desplazar al sector privado, pero las ganancias beneficiaron principalmente a los hombres de familias ya educadas.
+subtitle: "Indonesia construyó 6.000 escuelas secundarias en 15 años: la matrícula aumentó sin desplazar al sector privado, pero las ganancias beneficiaron principalmente a los hombres de familias ya educadas."
 draft: false
 summary: "Un masivo programa de construcción de escuelas públicas en Indonesia aumentó la matrícula, pero benefició desproporcionadamente a los estudiantes ya aventajados, revelando los límites de las políticas educativas centradas en la oferta."
 type: page
