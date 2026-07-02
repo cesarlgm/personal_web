@@ -1,9 +1,0 @@
-{{/* Function to get website icon image. */}}
-{{/* Input: size (int) */}}
-{{/* Output: resource (obj) */}}
-{{/* Override of wowchemy-core's get_icon.html to source the favicon from */}}
-{{/* assets/media/icon_empty.jpg instead of the theme's default icon.png. */}}
-
-{{ $icon := resources.GetMatch "media/icon_empty.jpg" }}
-{{ $icon_resized := $icon.Fill (printf "%sx%s png Center" (string .) (string .)) }}
-{{ return $icon_resized }}
