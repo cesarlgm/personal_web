@@ -33,15 +33,16 @@ links:
     url: https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf
 ---
 
-In most industries, some firms pay more than others—even for seemingly similar workers. Economists
-have shown that otherwise similar employees who move to higher-paying firms typically receive wage
-increases, while those moving to lower-paying firms experience comparable losses (Bagger and Lentz, 2019; Moscarini and Postel-Vinay, 2018;
+In most industries, some firms pay more than others—even for seemingly similar workers. Workers who
+move to high-paying firms typically receive wage increases, while those moving to low-paying firms
+get pay cuts (Bagger and Lentz, 2019; Moscarini and Postel-Vinay, 2018;
 Haltiwanger et al., 2018, Abowd
 et al., 1999). These persistent
 differences across employers are often interpreted as *firm wage effects* or *rents*. These are
-firm-specific wage premiums captured by workers.
+firm-specific wage premiums captured by workers, that may reflect firm quality, rent-sharing with
+workers, etc.
 
-Universities appear to fit this pattern. There is a clear prestige hierarchy, and faculty at elite
+Universities appear to fit this pattern. In academia, there is a clear prestige hierarchy , and faculty at elite
 institutions earn higher salaries on average. But in [our paper](https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf), we show that **elite universities
 do not systematically pay more for the same faculty**. Instead, they pay more because they hire
 more productive academics. In fact, we find very little evidence of any significant university pay
