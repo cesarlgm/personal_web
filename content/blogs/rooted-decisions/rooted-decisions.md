@@ -23,27 +23,42 @@ image:
 featured: true
 ---
 
-When we ask why women work more in some places than others, the instinct is to look at present-day conditions: available jobs, wages, childcare access, cultural attitudes today. These matter. But a growing body of research suggests that where a person *grew up*---and what they observed around them as a child---can be just as consequential as where they live now. Research on second-generation immigrants, for instance, finds that women's work choices in their new country are shaped by the cultural norms of the country their parents left behind (Fernandez and Fogli, 2009).
+When we ask why women work more in some places than others, the instinct is to look at present-day conditions: available jobs, wages, childcare access, cultural attitudes today. These matter. But a separate line of research, largely developed to study income and mobility rather than gender, points to another factor: the place a person grew up---and what they observed there as a child---can shape outcomes well into adulthood, even after they move away (Chetty and Hendren, 2018).
 
-[This paper](https://cesarlgm.github.io/documents/papers/cesarlgm_rooted_intext.pdf) puts that idea to a precise test *within* a single country, using Indonesian data. Indonesia is a useful setting: it is a large, diverse country with 22 percentage points of spread between high- and low-employment districts, and a history of internal migration that makes it possible to separate childhood environment from adult environment.
+That idea has been used to explain why children who grow up in higher-opportunity neighborhoods go on to earn more themselves. But childhood exposure could plausibly matter for a different kind of outcome too: the gender norms a person absorbs about whether women work. If growing up around working women shapes a girl's own expectations about work, that exposure should leave a mark on her labor supply decades later---regardless of where she ends up living as an adult.
+
+[This paper](https://cesarlgm.github.io/documents/papers/cesarlgm_rooted_intext.pdf) puts that idea to the test using Indonesian data. Indonesia is a useful setting: it is large and diverse, with 22 percentage points of spread between high- and low-employment districts, and a history of internal migration that makes it possible to separate childhood environment from adult environment.
 
 ## The identification challenge
 
-Studying the effect of childhood exposure is harder than it sounds. A woman living in a high-employment city today might work more simply because more jobs are available where she is---not because of where she grew up. To isolate the childhood effect, the paper compares women who moved away from their birthplace at different ages but ended up living in the same location as adults (Chetty and Hendren, 2018).
+Studying the effect of childhood exposure is harder than it sounds. A woman living in a high-female employment city today might work more simply because more jobs are available where she is---not because of where she grew up. To isolate the childhood effect, the paper compares women who moved away from their birthplace at different ages but ended up living in the same location as adults.
 
-Women who left as teenagers had more childhood exposure to their origin's labor market environment; women who left early in childhood had less. By comparing these groups---all observed in the same current location---the study separates where you grew up from where you are now.
 
-## The critical window: ages 6 to 14
+Women who left as teenagers had more childhood exposure to their origin's labor market environment;
+women who left early in childhood had less. The key idea of the exercise is that if the childhood
+environment influeces women's employment choices, this effect should be stronger the longer the
+exposure. Take two women who both end up living in Jakarta as adults. One grew up in a district with
+very high female employment and left at 16, so she spent her whole childhood there. The other grew
+up in an equally high-employment district but left at age 4, before she was old enough for that
+environment to leave much of a mark. If childhood exposure matters, the first woman should be more
+likely to work as an adult than the second, even though they live in the same city today under the
+same conditions.
 
-Not all childhood years matter equally. The effects of early exposure to high-female-employment places are strongest when that exposure happens between ages 6 and 14---roughly primary school through early secondary. This is the period when children are most actively learning social roles and forming expectations about what the adults around them do. Evidence from psychology and economics identifies this as a key window for preference formation: adolescents are mature enough to form their own opinions but still receptive to external influences (Dhar et al., 2022; Olivetti et al., 2020).
+## The critical window: ages 8 to 14
 
-Exposure concentrated before age 6, or primarily during adulthood, shows weaker effects. The formative years of late childhood and early adolescence appear to be when gender norms around work take deepest root.
+Not all childhood years matter equally. The effects of early exposure to high-female-employment places are strongest when that exposure happens between ages 8 and 14---roughly primary school through early secondary. This is the period when children are most actively learning social roles and forming expectations about what the adults around them do. Evidence from psychology and economics identifies this as a key window for preference formation: adolescents are mature enough to form their own opinions but still receptive to external influences (Dhar et al., 2022; Olivetti et al., 2020).
+
+Exposure concentrated before age 8 shows little effects. The formative years of late childhood and early adolescence appear to be when gender norms around work take deepest root.
 
 ## How large is the effect?
 
-Comparing a woman who grew up in a district at the 75th percentile of female employment to one from a district at the 25th percentile---a gap of 22 percentage points in local female employment rates---the paper finds that the first woman is about **5 percentage points more likely to work as an adult**. This is a meaningful difference: the average female employment rate in Indonesia is around 42%, so the effect represents a roughly 12% increase.
+Comparing a woman who grew up in a district at the 75th percentile of female employment to one from
+a district at the 25th percentile---a gap of 22 percentage points in local female employment
+rates---I find that the first woman is about **5 percentage points more likely to work as an adult**.
+This is a meaningful difference: the average female employment rate in my sample is around 42%, so
+the effect represents a roughly 12% increase.
 
-Crucially, this effect holds even after women move to a different location. It reflects something internalized, not just a response to local conditions. Taken together, the patterns suggest that roughly **23% of the spatial inequality in women's employment** across Indonesia is transmitted from one generation to the next through childhood exposure to local gender norms.
+Crucially, this effect holds even after women move to a different location. It reflects something internalized, not just a response to local conditions. Taken together, the patterns suggest that roughly **23% of the spatial inequality in women's employment** across Indonesia is transmitted from one generation to the next through childhood exposure to local gender norms---echoing evidence that norms about women's work travel across generations even when people move across national borders (Fernandez and Fogli, 2009).
 
 > A substantial share of today's gender gaps in employment are, in part, yesterday's gender gaps carried forward.
 
@@ -51,10 +66,13 @@ The evidence points to internalized gender norms---not skills or formal educatio
 
 ## What this means
 
-- **Gender policies today create multiplier effects tomorrow.** Raising women's employment in a place does not just help current workers---it changes the environment in which the next generation of girls grows up. Some of that effect will carry forward even if those girls later move elsewhere.
-- **The 6–14 window is a high-leverage target.** Interventions that shape gender norms---role models in schools, community programs, representations of working women---may be most effective when aimed at this age group, when norms appear most malleable.
+These findings extend the childhood-exposure lens beyond its usual territory. Research on neighborhoods and income mobility has shown that where children grow up shapes how much they go on to earn (Chetty and Hendren, 2018); this paper shows the same logic applies to whether women work at all---and the pattern is consistent with norms absorbed early in life, rather than opportunities available later, doing the work.
+
 - **Spatial gender gaps are partly self-reinforcing.** Low-employment areas raise daughters who are less likely to work, which perpetuates the gap across generations even as individuals migrate. Closing the gap requires changing the social environment where girls grow up, not just expanding economic opportunities.
-- **Skills programs alone may miss the mechanism.** If the channel is norms rather than human capital, policies focused only on job training or education are targeting the wrong lever. Complementary investments in changing social expectations may be necessary.
+- **Gender policies today may create multiplier effects tomorrow.** Raising women's employment in a
+  place does not just help current workers---it may change the environment in which the next generation of
+  girls grows up. Some of that effect will carry forward even if those girls later move elsewhere.
+- **The 8–14 window is a high-leverage target.** Interventions that shape gender norms---role models in schools, community programs, representations of working women---may be most effective when aimed at this age group, when norms appear most malleable.
 
 ## References
 
