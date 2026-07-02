@@ -33,17 +33,14 @@ links:
     url: https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf
 ---
 
-In most industries, some firms pay more than others—even for seemingly similar workers. Workers who
-move to high-paying firms typically receive wage increases, while those moving to low-paying firms
-get pay cuts (Bagger and Lentz, 2019; Moscarini and Postel-Vinay, 2018;
-Haltiwanger et al., 2018, Abowd
-et al., 1999). These persistent
-differences across employers are often interpreted as *firm wage effects* or *rents*. These are
-firm-specific wage premiums captured by workers, that may reflect firm quality, rent-sharing with
-workers, etc.
+In most industries, some employers simply pay more than others—even for very similar workers. Move to a high-paying firm and your salary typically jumps; move to a low-paying one and it falls (Abowd et al., 1999; Bagger and Lentz, 2019; Haltiwanger et al., 2018; Moscarini and Postel-Vinay, 2018). Economists call these persistent, employer-specific pay gaps *firm wage effects*, or *rents*: premiums a firm pays on top of what a worker's skills alone would earn elsewhere.
 
-Universities appear to fit this pattern. In academia, there is a clear prestige hierarchy , and faculty at elite
-institutions earn higher salaries on average. But in [our paper](https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf), we show that **elite universities
+In academia, there is a clear prestige hierarchy so there is broad concensus of what are
+the best ``firms'', and faculty at the most prestigious universities have higher salaries. Given how
+important these firm-specific pay premiums appear to be in other industries, one might expect that
+elite universities also pay wage premiums to their faculty. But in [our
+paper](https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf),
+we show that **elite universities
 do not systematically pay more for the same faculty**. Instead, they pay more because they hire
 more productive academics. In fact, we find very little evidence of any significant university pay
 premia in the US academic market.
@@ -52,13 +49,11 @@ premia in the US academic market.
 
 ## Higher academic salaries reflect better faculty quality
 
-As in other sectors, academic salaries are strongly correlated with institutional prestige. Faculty at top-ranked universities earn more on average, and these institutions have greater resources and visibility.
+Academic salaries are strongly correlated with institutional prestige. Faculty at top-ranked universities earn more on average, and these institutions have greater resources and visibility.
 
-Higher salaries at these universities can result from *firm-level pay premiums* — paying higher
-salaries to all their faculty — or from hiring higher-quality faculty. To understand whether
-universities themselves pay more, we need to compare what the *same faculty member* would earn
-across institutions. We distinguish between these two stories using survey data from the Survey of
-Doctorate Recipients, which allows us to observe STEM faculty job and salary histories.
+Higher salaries at these universities could reflect *firm-level pay premiums*---elite universities paying more to every faculty member---or simply reflect hiring higher-quality faculty. To find out, we need to compare what the *same faculty member* would earn at different universities.
+
+In an ideal experiment, we would randomly assign faculty to universities and see how their pay changes. If certain universities consistently paid everyone more, that would be evidence of a premium. Since that experiment isn't feasible, we turn to panel data from the US Survey of Doctorate Recipients, which tracks the job histories of STEM faculty and lets us follow how the same person's salary changes as they move between universities.
 
 By following the same person across jobs, we can separate what the employer pays from what the
 employee is worth. If elite institutions pay genuine premiums, we would expect salaries to rise
@@ -85,14 +80,15 @@ prestigious institutions often receive substantial pay increases.
 We argue that two key features distinguish academia from most labor markets:
 
 1. **High information about productivity**
-Academic output (publications, citations, grants) is highly visible, allowing institutions to assess researchers’ quality early in their careers.
+Academic output (publications, citations, grants) is highly visible, allowing institutions to assess
+researchers’ quality early in their careers. Productivity is not as easily observable in other jobs.
 
 2. **Scarce and irregular job openings**  
 Departments hire infrequently and often in narrow fields, meaning that good matches are not always available when candidates enter the market.
 
 These features lead to a labor market shaped by mismatch and gradual improvement. Initial placements are often imperfect---the right candidate and the right department don't always meet at the same time. When academics do move, whether up or down the prestige ladder, the match typically improves, translating into **higher productivity and higher salaries**.
 
-This can explain both the symmetric mobility pattern and the limited role of institutional rents. If a better fit drives moves in either direction, both directions should be associated with pay increases—which is exactly what we find. And if salaries reflect worker quality rather than employer generosity, there is little room for rents to accumulate.
+This can explain both the symmetric mobility pattern and the limited role of institutional rents. If a better fit drives moves in either direction, both directions should be associated with pay increases---which is exactly what we find. And if salaries reflect worker quality rather than employer generosity, there is little room for rents to accumulate.
 
 
 
