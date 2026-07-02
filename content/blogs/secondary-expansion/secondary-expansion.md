@@ -1,7 +1,7 @@
 ---
 title: "Who Benefits When Governments Build Schools?"
 date: 2026-06-04
-subtitle: Indonesia built 6,000 high schools in 15 years: enrollment rose without crowding out the private sector, but the gains went mostly to boys from already-educated families.
+subtitle: "Indonesia built 6,000 high schools in 15 years: enrollment rose without crowding out the private sector, but the gains went mostly to boys from already-educated families."
 draft: false
 summary: "A massive public school building program in Indonesia raised enrollment but disproportionately benefited already-advantaged students, revealing the limits of supply-side education policy."
 type: page
