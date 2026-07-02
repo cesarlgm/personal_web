@@ -1,7 +1,7 @@
 ---
 title: "Work Hours and Amenity Trade-offs"
 date: 2026-06-03
-subtitle: Lower work hours are often traded off for higher salaries and other job perks.
+subtitle: Workers trade shorter hours for higher pay and other job benefits. This trade-off disproportionately affects women.
 draft: false
 summary: When jobs bundle benefits into packages, the simple story of workers trading wages for the perks they value most breaks down — and women end up worse off.
 type: page
@@ -28,25 +28,21 @@ links:
     url: https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf
 ---
 
-When you accept a job, you're not just agreeing to a salary. You're agreeing to a schedule, a
-commute, a set of expectations about your time, and a package of benefits. Some jobs pay well but
-demand long hours. Others offer lower hours but provide fewer perks. This trade-off seems familiar.
-
-But what exactly are workers trading against what?
+When you accept a job, you're not just agreeing to a salary. You are agreeing to a bundle of perks: a schedule, a
+commute, a set of expectations about your time, and a package of benefits. How do workers choose
+between jobs when jobs have multiple perks? Which perks do they sacrifice in exchange for others?
 
 ## The standard story
 
-The classic economic answer is clean: workers who value flexible hours are willing to accept lower pay to get them. Firms respond by offering lower wages in exchange for better working conditions. Workers sort into jobs that match their preferences, and the wage gap between demanding and flexible jobs reveals how much people value those perks.
+The classic economic answer is clean: workers who value a perk, say flexible hours, are willing to
+accept lower pay to get it. Firms respond by offering lower wages in exchange for offering the perk. Workers
+sort into jobs that match their preferences, and the wage gap between inflexible and flexible jobs
+reveals how much people value those perks. This is the theory of *compensating differentials* (Rosen, 1986)---and it has shaped how economists and
+policymakers think about salaries and job characteristics for decades.
 
-This is the theory of *compensating differentials* (Rosen, 1986)---and it has shaped how economists and
-policymakers think about salaries and job characteristics for decades. For example, if workers
-accept lower wages in exchange for lower hours, salary differences across jobs partly reflect workers preferences.
-
-But jobs don't offer only one perk, they often package several of them together. Moreover, some
+But jobs don't offer only one perk; they often package several of them together. Moreover, some
 perks are not offered when others are. For example, jobs with flexible hours often do not offer
-health insurance, or the ability to work from home.
-
-**When firms package multiple perks together, workers often trade lower hours for other
+health insurance, or the ability to work from home. This bundling changes the basic trade-off workers face. **When firms package multiple perks together, workers often trade lower hours for other
 benefits---not just for wages---and this reshapes how we should understand salary differences in the labour
 market.**
 
@@ -54,35 +50,47 @@ market.**
 
 Think of a job as a package deal. A job with flexible hours might also come with the option to work
 from home but a smaller health insurance contribution. A high-paying job might come with long hours
-but generous paid leave. Workers don't pick individual features, they choose from a menu of bundles.
+but generous paid leave. Workers don't pick individual features; they choose from a menu of bundles.
 
-In our paper, we develop a model that accounts for how firms combine amenities (perks) and how workers decide whether a bundle suits their preferences. The key insight is that whether you end up with the amenity mix you want depends not just on what you value, but on what bundles firms offer and how those bundles are put together.
+The key insight of our paper is this: how workers choose between these jobs---and these
+perks---depends not only on their preferences, but also on the kind of bundles employers offer. A worker
+might want both low hours and a flexible schedule, but employers may not offer that particular bundle
+because it is too costly to provide. This can force a trade-off between the two: a worker might get
+low hours, or a flexible schedule, but not necessarily both.
 
-## Flexible hours don't just cost you wages
+In the paper, we develop a model where workers choose between amenity (perk) bundles and employers
+decide which bundles to offer. Amenities can interact with one another on both the demand and supply
+side, so ``the whole may be worth more than the sum of its parts.'' Workers might value a bundle
+more---or less---than the combined value of getting each perk separately.
 
-Using data tracking 6,755 Americans from their teens through adulthood (Bureau of Labor Statistics, 2024), we find that:
+For example, being able to
+work remotely may make choosing one's own schedule more attractive. On the employer side, bundling
+perks together might be cheaper---or more expensive---than offering each one separately: adding
+dental insurance may cost less if health insurance is already offered.
 
+
+## Flexible work hours don't just cost you wages---they also cost you other benefits
+
+We then move to the data to understand how workers trade-off between perks in the US labor market.
+We use panel data from the National Longitudinal Survey of Youth (Bureau of Labor
+Statistics, 2024), which has followed a cohort of young Americans into adulthood, tracking their jobs, wages, and benefits over time.
+
+We find that there is a fundamental trade-off between hour flexibility and other perks:
 - American workers who value lower hours often must give up **other amenities**.
-- Shorter work hours are frequently bundled with fewer other benefits, such as less
-  paid leave or health insurance.
-- The simple trade-off between wages and work hours that standard theory predicts is far less common than the trade-off between one amenity and another
+- Workers who gain shorter work hours likely lose health insurance, maternity benefits, remote work,
+  and schedule flexibility.
 
-Workers are not just choosing between money and work hours. They're navigating a menu of bundles where getting one benefit often means giving up another.
+## This matters for gender inequality
 
-## Who ends up where, and the gender gap
+This trade-off between hour flexibility and other perks is not gender-neutral.
 
-These patterns matter especially for understanding why men and women end up in different jobs with different pay.
+- Women, likely due to greater childcare responsibilities, are more likely to end up in jobs with flexible hours---jobs that pay less and come with fewer other benefits.
+- The result is a gender gap in total compensation---wages plus the full value of benefits---that is wider than the gender wage gap alone suggests.
 
-Women are more likely than men to value flexible hours, particularly those with caregiving responsibilities:
+Bundling benefits into packages doesn't just complicate the textbook story of compensating
+differentials. It hides part of the true cost women pay for flexibility---one that a wage comparison
+does not fully capture.
 
-- Women are more likely to end up in jobs with flexible hours---but these jobs also tend to bundle in fewer other benefits
-- As a result, women face a compounded disadvantage: lower wages **and** a thinner non-wage benefits package
-- Thus gender gap in total compensation---wages plus the full value of benefits---is wider than the gender wage gap alone suggests.
-
-## What this means
-
-- **Wage statistics understate inequality.** If men receive better non-wage benefits on top of higher wages, standard pay comparisons miss a significant share of the gap. Policies and audits that focus only on wages may give a misleadingly narrow picture.
-- **Flexible work alone is not enough.** The remaining gender gap in labour market outcomes is closely tied to how flexibility in hours is packaged alongside other benefits (Goldin, 2014). Expanding part-time or reduced-hour arrangements only helps if those arrangements don't strip away other perks in the process.
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 title: "Do Elite Universities Overpay Their Faculty?"
 date: 2026-02-20
-subtitle: No. Elite institutions offer high salaries because they compete with other elite institutions for the most valued faculty.
+subtitle: No. Elite institutions offer high salaries because they hire the most valued academics, not because they pay premiums.
 draft: false
 summary: "Elite universities don't overpay faculty—they operate in a separate, competitive market. Here's what that means for understanding university prestige and resource concentration."
 
@@ -33,10 +33,10 @@ links:
     url: https://cesarlgm.github.io/documents/papers/GMKL_academia_online_appendix.pdf
 ---
 
-In most industries, some employers simply pay more than others—even for very similar workers. Move to a high-paying firm and your salary typically jumps; move to a low-paying one and it falls (Abowd et al., 1999; Bagger and Lentz, 2019; Haltiwanger et al., 2018; Moscarini and Postel-Vinay, 2018). Economists call these persistent, employer-specific pay gaps *firm wage effects*, or *rents*: premiums a firm pays on top of what a worker's skills alone would earn elsewhere.
+In most industries, some employers pay more than others for doing similar jobs. Move to a high-paying firm and your salary typically jumps; move to a low-paying one and it falls (Abowd et al., 1999; Bagger and Lentz, 2019; Haltiwanger et al., 2018; Moscarini and Postel-Vinay, 2018). Economists call these persistent, employer-specific pay gaps *firm wage effects*, or *rents*: premiums a firm pays on top of what a worker's skills alone would earn elsewhere.
 
 In academia, there is a clear prestige hierarchy so there is broad concensus of what are
-the best ``firms'', and faculty at the most prestigious universities have higher salaries. Given how
+the best ''firms'', and faculty at the most prestigious universities have higher salaries. Given how
 important these firm-specific pay premiums appear to be in other industries, one might expect that
 elite universities also pay wage premiums to their faculty. But in [our
 paper](https://cesarlgm.github.io/documents/papers/GMKL_academia_paper.pdf),
@@ -53,7 +53,7 @@ Academic salaries are strongly correlated with institutional prestige. Faculty a
 
 Higher salaries at these universities could reflect *firm-level pay premiums*---elite universities paying more to every faculty member---or simply reflect hiring higher-quality faculty. To find out, we need to compare what the *same faculty member* would earn at different universities.
 
-In an ideal experiment, we would randomly assign faculty to universities and see how their pay changes. If certain universities consistently paid everyone more, that would be evidence of a premium. Since that experiment isn't feasible, we turn to panel data from the US Survey of Doctorate Recipients, which tracks the job histories of STEM faculty and lets us follow how the same person's salary changes as they move between universities.
+In an ideal experiment, we would randomly assign faculty to universities and see how their pay changes. If certain universities consistently paid everyone more, that would be evidence of a premium. Since that experiment isn't feasible, we turn to panel data from the [US Survey of Doctorate Recipients](https://www.norc.org/research/projects/survey-of-doctorate-recipients.html), which tracks the job histories of STEM faculty and lets us follow how the same person's salary changes as they move between universities.
 
 By following the same person across jobs, we can separate what the employer pays from what the
 employee is worth. If elite institutions pay genuine premiums, we would expect salaries to rise

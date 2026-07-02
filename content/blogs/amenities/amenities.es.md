@@ -1,9 +1,9 @@
 ---
 title: "Horarios de trabajo y compensaciones entre beneficios laborales"
 date: 2026-06-03
-subtitle: Jornadas menos extensas a menudo implica aceptar salarios más bajos y perder otros beneficios laborales.
+subtitle: Los trabajadores intercambian jornadas más cortas por mejores salarios y otros beneficios laborales. Este intercambio afecta desproporcionadamente a las mujeres.
 draft: false
-summary: Cuando los empleos agrupan beneficios en paquetes, la idea de que los trabajadores intercambian salario por las prestaciones que más valoran se rompe — y las mujeres terminan en desventaja.
+summary: Cuando los empleos agrupan beneficios en paquetes, la idea de que los trabajadores intercambian salario por las prestaciones que más valoran se rompe---y las mujeres terminan en desventaja.
 type: page
 authors:
   - admin
@@ -28,16 +28,13 @@ links:
     url: https://cesarlgm.github.io/documents/papers/workhours_appendix.pdf
 ---
 
-Cuando aceptas un empleo, no solo estás acordando un salario. Estás acordando un horario, un
-desplazamiento, un conjunto de expectativas sobre tu tiempo y un paquete de beneficios. Algunos
-empleos pagan bien pero exigen muchas horas. Otros ofrecen jornadas más cortas pero menos prestaciones. Este
-intercambio parece familiar.
-
-¿Pero exactamente qué están intercambiando los trabajadores por qué?
+Cuando aceptas un empleo, no solo estás acordando un salario. Estás acordando un paquete de beneficios: un horario, un
+desplazamiento, un conjunto de expectativas sobre tu tiempo y un paquete de prestaciones. ¿Cómo eligen los trabajadores
+entre empleos cuando estos ofrecen varias prestaciones a la vez? ¿A cuáles de esas prestaciones renuncian a cambio de otras?
 
 ## La explicación tradicional
 
-La respuesta económica clásica es clara: los trabajadores que valoran los horarios flexibles están dispuestos a aceptar un salario más bajo a cambio. Las empresas responden ofreciendo salarios menores a cambio de mejores condiciones laborales. Los trabajadores se distribuyen en empleos que se ajustan a sus preferencias, y la brecha salarial entre empleos exigentes y flexibles revela cuánto valoran esas ventajas.
+La respuesta económica clásica es simple: los trabajadores que valoran los horarios flexibles están dispuestos a aceptar un salario más bajo a cambio. Las empresas responden ofreciendo salarios menores a cambio de mejores condiciones laborales. Los trabajadores se distribuyen en empleos que se ajustan a sus preferencias, y la brecha salarial entre empleos exigentes y flexibles revela cuánto valoran esas ventajas.
 
 Esta es la teoría de los *diferenciales compensatorios* (Rosen, 1986), que ha moldeado la forma en
 que economistas y responsables de políticas piensan sobre los salarios y las características de los
@@ -49,38 +46,49 @@ Pero los empleos no ofrecen solo una ventaja: suelen agrupar varias de ellas jun
 prestaciones no se ofrecen cuando se ofrecen otras. Por ejemplo, los empleos con menores jornadas a menudo
 no incluyen seguro médico ni la posibilidad de trabajar desde casa.
 
-**Cuando las empresas agrupan varias prestaciones, los trabajadores con frecuencia intercambian horas flexibles por otros beneficios —no solo por salario— y esto cambia la forma en que debemos entender las diferencias salariales en el mercado laboral.**
+Este cambio de enfoque altera el intercambio básico que enfrentan los trabajadores. **Cuando las empresas agrupan varias prestaciones, los trabajadores con frecuencia intercambian horas flexibles por otros beneficios---no solo por salario---y esto cambia la forma en que debemos entender las diferencias salariales en el mercado laboral.**
 
 ## El problema de los paquetes
 
-Piensa en un empleo como una oferta de paquete. Un trabajo con horarios flexibles puede incluir la opción de trabajar desde casa, pero con una menor contribución al seguro médico. Un trabajo bien remunerado puede venir con largas jornadas pero generosas vacaciones pagadas. Los trabajadores no eligen características individuales: eligen entre un menú de paquetes.
+Piensa en un empleo como un paquete. Un trabajo con horarios flexibles puede incluir la opción de trabajar desde casa, pero con una menor contribución al seguro médico. Un trabajo bien remunerado puede venir con largas jornadas pero generosas vacaciones pagadas. Los trabajadores no eligen características individuales: eligen entre un menú de paquetes.
 
-En [nuestro artículo](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031), desarrollamos un modelo que tiene en cuenta cómo las empresas combinan las prestaciones y cómo los trabajadores deciden si un paquete se adapta a sus preferencias. La clave es que obtener la combinación de beneficios que deseas no depende solo de lo que valoras, sino también de qué paquetes ofrecen las empresas y cómo están estructurados.
+La idea clave de nuestro artículo es que la forma en que los trabajadores eligen entre estos empleos---y estas
+prestaciones---depende no solo de sus preferencias, sino también del tipo de paquetes que ofrecen las empresas. A alguien
+puede gustarle trabajar pocas horas y tener un horario flexible, pero es posible que las empresas no ofrezcan ese paquete
+porque resulta demasiado costoso hacerlo. Esto puede forzar una compensación entre las dos: un trabajador podría conseguir
+pocas horas, o un horario flexible, pero no necesariamente ambos.
 
-## Las horas flexibles no solo cuestan salario
+En [nuestro artículo](https://pubs.aeaweb.org/doi/pdfplus/10.1257/pandp.20251031), desarrollamos un modelo en el que los trabajadores eligen entre paquetes de prestaciones y las empresas
+deciden qué paquetes ofrecer. Las prestaciones pueden interactuar entre sí tanto del lado de la demanda como de la oferta,
+de modo que ``el conjunto puede valer más que la suma de sus partes.'' Los trabajadores podrían valorar un paquete
+más---o menos---que el valor combinado de obtener cada prestación por separado.
 
-Usando datos que siguen a 6.755 estadounidenses desde la adolescencia hasta la edad adulta (Bureau of Labor Statistics, 2024), encontramos que:
+Por ejemplo, poder trabajar de forma remota
+puede hacer que elegir el propio horario resulte más atractivo. Del lado de las empresas, combinar prestaciones puede
+resultar más barato---o más caro---que ofrecer cada una por separado: añadir seguro dental puede costar menos si ya se
+ofrece seguro médico.
 
+## Las horas flexibles no solo cuestan salario---también cuestan otros beneficios
+
+A continuación, pasamos a los datos para entender cómo intercambian los trabajadores entre prestaciones en el mercado
+laboral estadounidense. Usamos datos de panel de la National Longitudinal Survey of Youth (Bureau of Labor
+Statistics, 2024), que ha seguido a una cohorte de jóvenes estadounidenses hasta la edad adulta, registrando sus empleos, salarios y beneficios a lo largo del tiempo.
+
+Encontramos que existe un intercambio fundamental entre la flexibilidad horaria y otras prestaciones:
 - Los trabajadores estadounidenses que valoran jornadas menos extensas a menudo deben renunciar a **otras prestaciones**.
-- Los horarios más cortos o flexibles suelen agruparse con menos beneficios, como menos días de permiso remunerado o seguro médico.
-- El simple intercambio entre salario y menos horas que predice la teoría estándar es mucho menos común que el intercambio entre una prestación y otra.
+- Quienes obtienen jornadas más cortas probablemente pierden seguro médico, beneficios de maternidad, trabajo remoto
+  y flexibilidad de horario.
 
-Los trabajadores no solo eligen entre dinero y flexibilidad. Navegan entre un menú de paquetes donde obtener un beneficio a menudo implica renunciar a otro.
+## Esto importa para la desigualdad de género
 
-## Quién termina dónde, y la brecha de género
+Este intercambio entre flexibilidad horaria y otras prestaciones no es neutral en términos de género.
 
-Estos patrones importan especialmente para entender por qué hombres y mujeres terminan en empleos diferentes con salarios distintos.
+- Las mujeres, probablemente debido a mayores responsabilidades de cuidado, tienen más probabilidades de terminar en empleos con horarios flexibles---empleos que pagan menos y que vienen con menos beneficios adicionales.
+- El resultado es una brecha de género en la compensación total---salarios más el valor completo de los beneficios---que es mayor de lo que sugiere únicamente la brecha salarial de género.
 
-Las mujeres tienen más probabilidades que los hombres de valorar los horarios flexibles, especialmente aquellas con responsabilidades de cuidado:
-
-- Las mujeres tienen más probabilidades de terminar en empleos con menores jornadas, pero estos empleos también tienden a incluir menos beneficios adicionales.
-- Como resultado, las mujeres enfrentan una desventaja compuesta: salarios más bajos **y** un paquete de beneficios no salariales más reducido.
-- Así, la brecha de género en la compensación total —salarios más el valor completo de los beneficios— es mayor de lo que sugiere únicamente la brecha salarial de género.
-
-## Qué implica esto
-
-- **Las estadísticas salariales subestiman la desigualdad.** Si los hombres reciben mejores beneficios no salariales además de salarios más altos, las comparaciones salariales estándar pasan por alto una parte significativa de la brecha. Las políticas y auditorías centradas únicamente en los salarios pueden ofrecer una imagen engañosamente estrecha.
-- **La flexibilidad laboral por sí sola no es suficiente.** La brecha de género restante en los resultados del mercado laboral está estrechamente vinculada a cómo se empaqueta la flexibilidad horaria junto con otros beneficios (Goldin, 2014). Ampliar los acuerdos de trabajo a tiempo parcial o de horas reducidas solo ayuda si esos acuerdos no eliminan otras prestaciones en el proceso.
+Agrupar beneficios en paquetes no solo complica la historia tradicional de los diferenciales compensatorios. También
+oculta parte del costo real que pagan las mujeres por la flexibilidad---un costo que una simple comparación salarial
+nunca logra capturar del todo.
 
 ## Referencias
 

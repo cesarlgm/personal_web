@@ -1,7 +1,7 @@
 ---
 title: "Who Benefits When Governments Build Schools?"
 date: 2026-06-04
-subtitle: Indonesia built 6,000 high schools in 15 years---enrollment rose, private schools survived, but the gains went mostly to boys from educated families.
+subtitle: Indonesia built 6,000 high schools in 15 years: enrollment rose without crowding out the private sector, but the gains went mostly to boys from already-educated families.
 draft: false
 summary: "A massive public school building program in Indonesia raised enrollment but disproportionately benefited already-advantaged students, revealing the limits of supply-side education policy."
 type: page
@@ -23,15 +23,15 @@ image:
 featured: true
 ---
 
-When a government builds 6,000 new schools in 15 years, adding millions of seats for teenagers who could not previously access high school, it seems impossible for the effort to fall short. But "fall short" is not the right question. The right question is: who actually shows up?
+Between 2000 and 2015, Indonesia built more than 6,000 new public high schools---enough to add over 2.4 million seats. Enrollment rose. But not everyone who gained a nearby school walked through its doors. The students who benefited most were boys from already-educated families---the ones who faced the fewest other barriers to begin with.
 
-In the late 1990s, only about 40% of Indonesian teenagers were enrolled in high school---well below the 60% rate in East Asia and the Pacific and 49% among middle-income countries (The World Bank, 2025). Starting in the early 2000s, the government launched an ambitious construction drive, building over 6,000 public high schools and adding more than 2.4 million seats over 15 years. The expansion targeted districts with the lowest enrollment rates, where the need was greatest.
+In the late 1990s, only about 40% of Indonesian teenagers were enrolled in high school---well below the 60% rate in East Asia and the Pacific and 49% among middle-income countries (The World Bank, 2025). The expansion targeted districts with the lowest enrollment rates, where the need was greatest.
 
 ## The standard case for building more schools
 
 The logic behind school construction programs is intuitive. Where schools are scarce and travel distances are long, young people don't enroll. Build the school, lower the costs, and enrollment rises. If you target the most underserved districts, the gains should flow to those who need them most.
 
-In mixed public-private education markets, there is an additional concern: will new public schools simply pull students away from private providers, leaving overall enrollment unchanged and damaging a sector that many families depend on?
+In mixed public-private education markets, there is an additional concern: will new public schools simply pull students away from private providers, leaving overall enrollment unchanged?
 
 ## What happened in Indonesia
 
@@ -39,7 +39,11 @@ In mixed public-private education markets, there is an additional concern: will 
 
 On enrollment, the expansion worked. Within five years of a district receiving new schools, upper-secondary enrollment rose by roughly 4 percentage points---about a 12% increase relative to the baseline rate. There were also positive spillover effects: middle school enrollment rose too, as students became more likely to stay in school when they could see a path forward to high school.
 
-The new construction did not crowd out private schools. In the United States, increased public school funding has been shown to drive private school closures (Dinerstein and Smith, 2021). In Indonesia, private school construction in expansion districts did not slow down---if anything, it ticked up slightly in the years after the public expansion began. Private school students did not score worse on exit exams either. In settings where secondary enrollment is low to begin with, expanding public supply appears to grow the overall market rather than just redistribute existing students.
+## Public schools didn't crowd out private ones
+
+This isn't a foregone conclusion. In the United States, researchers have found that increased public school funding drives private school closures (Dinerstein and Smith, 2021)---when the public alternative gets cheaper, some families who would have paid for private school switch, and providers shut down.
+
+Indonesia looked different. Private school construction in expansion districts did not slow down after the public schools opened---if anything, it ticked up slightly. Private school students did not score worse on exit exams either, so the private schools that stayed open kept their quality.
 
 ## Enrollment gains concentrated among boys
 
@@ -60,9 +64,7 @@ When secondary enrollment is already low, the students closest to enrolling are 
 ## What this means
 
 - **School construction is necessary but not sufficient.** Reducing physical and financial costs helps---but other barriers remain for girls and disadvantaged students. Scholarships, transport support, and community engagement are needed alongside new buildings to make sure they reach the students who need them most.
-- **Public expansion need not hurt private schools.** Policymakers worried that public construction will undermine private providers can take some reassurance. In low-enrollment contexts, there is room for both sectors to grow simultaneously.
-- **Who benefits matters as much as how many benefit.** A program that raises average enrollment while widening gaps between advantaged and disadvantaged students is not fulfilling its equity mandate. Monitoring enrollment by gender, parental education, and household income should be standard practice for any school-building program.
-- **The case for demand-side policies is stronger than it looks.** Conditional cash transfers, girls' scholarships, and efforts to shift norms around girls' education are not nice-to-haves---they are what determines whether supply-side investment reaches the intended beneficiaries.
+- **Public expansion need not hurt private schools---especially where enrollment starts low.** Policymakers worried that public construction will undermine private providers can take some reassurance: in underserved markets, there's room for both sectors to grow side by side rather than compete for the same students.
 
 ## References
 

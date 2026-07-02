@@ -1,7 +1,7 @@
 ---
 title: "¿Quién se beneficia cuando los gobiernos construyen escuelas?"
 date: 2026-06-04
-subtitle: Indonesia construyó 6.000 escuelas secundarias en 15 años---la matrícula aumentó, las escuelas privadas sobrevivieron, pero las ganancias beneficiaron principalmente a los hombres de familias educadas.
+subtitle: Indonesia construyó 6.000 escuelas secundarias en 15 años: la matrícula aumentó sin desplazar al sector privado, pero las ganancias beneficiaron principalmente a los hombres de familias ya educadas.
 draft: false
 summary: "Un masivo programa de construcción de escuelas públicas en Indonesia aumentó la matrícula, pero benefició desproporcionadamente a los estudiantes ya aventajados, revelando los límites de las políticas educativas centradas en la oferta."
 type: page
@@ -23,9 +23,9 @@ image:
 featured: true
 ---
 
-Cuando un gobierno construye 6.000 nuevas escuelas en 15 años, añadiendo millones de plazas para adolescentes que antes no podían acceder a la secundaria, parece imposible que el esfuerzo se quede corto. Pero "quedarse corto" no es la pregunta correcta. La pregunta correcta es: ¿quién se presenta realmente?
+Entre 2000 y 2015, Indonesia construyó más de 6.000 nuevas escuelas secundarias públicas---suficientes para añadir más de 2,4 millones de plazas. La matrícula aumentó. Pero no todos los que ganaron una escuela cercana cruzaron su puerta. Quienes más se beneficiaron fueron los hombres de familias ya educadas---los que enfrentaban menos barreras adicionales para empezar.
 
-A finales de la década de 1990, solo alrededor del 40% de los adolescentes indonesios estaban matriculados en la secundaria---muy por debajo de la tasa del 60% en Asia Oriental y el Pacífico y del 49% entre los países de ingresos medios (The World Bank, 2025). A partir de principios de los años 2000, el gobierno emprendió un ambicioso programa de construcción, levantando más de 6.000 escuelas secundarias públicas y añadiendo más de 2,4 millones de plazas a lo largo de 15 años. El programa se centró en los distritos con las tasas de matrícula más bajas, donde la necesidad era mayor.
+A finales de la década de 1990, solo alrededor del 40% de los adolescentes indonesios estaban matriculados en la secundaria---muy por debajo de la tasa del 60% en Asia Oriental y el Pacífico y del 49% entre los países de ingresos medios (The World Bank, 2025). El programa se centró en los distritos con las tasas de matrícula más bajas, donde la necesidad era mayor.
 
 ## El argumento clásico para construir más escuelas
 
@@ -39,7 +39,11 @@ En los mercados educativos mixtos público-privados, existe una preocupación ad
 
 En cuanto a la matrícula, el programa funcionó. Dentro de los cinco años posteriores a la llegada de nuevas escuelas a un distrito, la matrícula en la secundaria superior aumentó en aproximadamente 4 puntos porcentuales---un incremento de alrededor del 12% respecto a la tasa de referencia. También se produjeron efectos positivos de desbordamiento: la matrícula en la secundaria inferior también aumentó, ya que los estudiantes mostraron mayor propensión a permanecer en el sistema escolar cuando podían ver un camino hacia la secundaria superior.
 
-La nueva construcción no desplazó a las escuelas privadas. En Estados Unidos, se ha demostrado que el aumento de la financiación pública escolar provoca el cierre de escuelas privadas (Dinerstein y Smith, 2021). En Indonesia, la construcción de escuelas privadas en los distritos con expansión no se ralentizó---es más, repuntó ligeramente en los años posteriores al inicio de la expansión pública. Los estudiantes de escuelas privadas tampoco obtuvieron peores resultados en los exámenes de egreso. En contextos donde la matrícula secundaria es inicialmente baja, ampliar la oferta pública parece hacer crecer el mercado en su conjunto, en lugar de simplemente redistribuir los estudiantes existentes.
+## Las escuelas públicas no desplazaron a las privadas
+
+Esto no es una conclusión evidente. En Estados Unidos, investigadores han encontrado que el aumento de la financiación pública escolar provoca el cierre de escuelas privadas (Dinerstein y Smith, 2021)---cuando la alternativa pública se abarata, algunas familias que habrían pagado por la escuela privada cambian, y los proveedores cierran.
+
+En Indonesia el panorama fue distinto. La construcción de escuelas privadas en los distritos con expansión no se ralentizó tras la apertura de las escuelas públicas---es más, repuntó ligeramente. Los estudiantes de escuelas privadas tampoco obtuvieron peores resultados en los exámenes de egreso, por lo que las escuelas privadas que siguieron abiertas mantuvieron su calidad.
 
 ## Los beneficios de la matrícula se concentraron entre los hombres
 
@@ -60,9 +64,7 @@ Cuando la matrícula secundaria es ya baja, los estudiantes más cercanos a insc
 ## Qué significa esto
 
 - **La construcción de escuelas es necesaria pero no suficiente.** Reducir los costes físicos y financieros ayuda---pero siguen existiendo otras barreras para las jóvenes y los estudiantes desfavorecidos. Se necesitan becas, apoyo al transporte y participación comunitaria junto con los nuevos edificios para garantizar que lleguen a los estudiantes que más los necesitan.
-- **La expansión pública no tiene por qué perjudicar a las escuelas privadas.** Los responsables de políticas que temen que la construcción pública perjudique a los proveedores privados pueden tranquilizarse. En contextos de baja matrícula, hay espacio para que ambos sectores crezcan simultáneamente.
-- **A quién beneficia importa tanto como a cuántos beneficia.** Un programa que aumenta la matrícula media a la vez que amplía las brechas entre estudiantes aventajados y desfavorecidos no está cumpliendo su mandato de equidad. El seguimiento de la matrícula por género, nivel educativo de los padres e ingresos del hogar debería ser una práctica estándar en cualquier programa de construcción escolar.
-- **El argumento a favor de las políticas de demanda es más sólido de lo que parece.** Las transferencias condicionadas de efectivo, las becas para niñas y los esfuerzos por modificar las normas en torno a la educación femenina no son complementos opcionales---son lo que determina si la inversión en oferta llega a los beneficiarios previstos.
+- **La expansión pública no tiene por qué perjudicar a las escuelas privadas---especialmente donde la matrícula parte de niveles bajos.** Los responsables de políticas que temen que la construcción pública perjudique a los proveedores privados pueden tranquilizarse: en mercados desatendidos, hay espacio para que ambos sectores crezcan uno junto al otro en lugar de competir por los mismos estudiantes.
 
 ## Referencias
 
