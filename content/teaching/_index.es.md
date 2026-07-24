@@ -18,7 +18,7 @@ summary: Docente en la Universidad de Edimburgo, la Universidad de Boston y la U
                   <u>Economía laboral aplicada (EN)</u>,  Otoño 2023&ndash;Otoño 2025  <br> Curso optativo del cuarto año de grado que introduce a los estudiantes a los principales temas y métodos empíricos en economía laboral. <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/outline_labour_24_25.pdf" target="_blank">Programa (EN)</a> <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10112.htm" target="_blank">Descripción de la clase (EN)</a>
                 </li>
                 <li>
-                  <u>Economía del desarrollo</u>,  Primavera  2024&ndash;Primavera 2026  <br> Curso optativo del tercer año de grado que introduce a los estudiantes a los principales temas de la economía del desarrollo. <br> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/ECNM10061_Development_Economics 2024-2025.pdf" target="_blank">Programa (EN)</a>  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10061.htm" target="_blank">Descripción de la clase (EN)</a> 
+                  <u>Economía del desarrollo (EN)</u>,  Primavera  2024&ndash;Primavera 2026  <br> Curso optativo del tercer año de grado que introduce a los estudiantes a los principales temas de la economía del desarrollo. <br> <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cesarlgm.github.io/documents/teaching/ECNM10061_Development_Economics 2024-2025.pdf" target="_blank">Programa (EN)</a>  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10061.htm" target="_blank">Descripción de la clase (EN)</a> 
                 </li>
                 <li>
                   <u>Trabajos de final de grado</u>,  2023&ndash;2026. <br> Trabajo de tesis supervisado para estudiantes de grado de cuarto año (curso de un año de duración).
@@ -27,7 +27,7 @@ summary: Docente en la Universidad de Edimburgo, la Universidad de Boston y la U
             <strong><font  color="#F45050">Tutor</font> </strong><br>
                 <ul>
                   <li>
-                    <u>Fundamentos de econometría</u>,  Otoño 2023&ndash;Otoño 2025  <br> Tutor de clase obligatoria del grado en economía. <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10052.htm" target="_blank">Descripción de la clase (EN)</a>
+                    <u>Fundamentos de econometría (EN)</u>,  Otoño 2023&ndash;Otoño 2025  <br> Tutor de clase obligatoria del grado en economía. <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.drps.ed.ac.uk/25-26/dpt/cxecnm10052.htm" target="_blank">Descripción de la clase (EN)</a>
                   </li>
                 </ul>
             </div>
@@ -88,7 +88,7 @@ summary: Docente en la Universidad de Edimburgo, la Universidad de Boston y la U
 </style>
 -->
 
-
+<!--
 ## Horario de oficina, primavera de 2026 ##{#office-hours}
 <hr>
 <div class="universal-wrapper">
@@ -132,5 +132,5 @@ summary: Docente en la Universidad de Edimburgo, la Universidad de Boston y la U
 </table>
 </div>
 </div>
-
+-->
 

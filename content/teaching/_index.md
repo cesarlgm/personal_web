@@ -88,7 +88,7 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 </style>
 -->
 
-
+<!--
 ## Office Hours Schedule, Spring 2026 ##{#office-hours}
 <hr>
 <div class="universal-wrapper">
@@ -131,5 +131,5 @@ summary: Taught at University of Edinburgh, Boston University and University of 
 </table>
 </div>
 </div>
-
+-->
 

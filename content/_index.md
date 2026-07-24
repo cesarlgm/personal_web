@@ -65,11 +65,11 @@ sections:
         ***
         -->
         <br>
-        
+        <!--
         ***
 
         **For students:** you can find my office hours schedule and the link to book a meeting on my [teaching page](/teaching/#office-hours)
-
+        -->
         ***
     design:
       columns: '1'

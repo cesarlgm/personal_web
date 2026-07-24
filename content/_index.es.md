@@ -30,11 +30,11 @@ sections:
 
         ¡Gracias por visitar mi página web! 
         
-        Soy un Investigador Postdoctoral en la [Escuela de Economía de la Universidad de Edimburgo](https://www.ed.ac.uk/economics) e Investigador Asociado en [RF Berlin](https://www.rfberlin.com/about/). 
+        Soy Investigador Asociado en [RF Berlin](https://www.rfberlin.com/about/) y próximamente me incorporaré a la [Facultad de Economía y Empresa](https://www.fee.urv.cat/en/) de la [Universitat Rovira i Virgili](https://www.urv.cat/en/) como profesor asistente y becario [Beatriz Galindo](https://www.ciencia.gob.es/Convocatorias/2026/BeatrizGalindo2025.html). 
         
-        Trabajo en temas de **economía laboral** y **del desarrollo**. Estoy particularmente interesado en educación, desigualdad de género y beneficios laborales.
-        
-        Obtuve mi doctorado en economía en la [**Universidad de Boston**](https://www.bu.edu/econ/).
+        Soy economista laboral y trabajo en temas de **economía laboral** y **economía del desarrollo**. Estoy particularmente interesado en cuestiones relacionadas con el cambio tecnológico, la educación, la desigualdad de género y los beneficios laborales.
+
+        Obtuve mi doctorado en Economía en la [**Universidad de Boston**](https://www.bu.edu/econ/). Mi nombre se pronuncia [ˈse.saɾ].
         <br>
         <br>
         <!--
@@ -79,13 +79,12 @@ sections:
       title: Noticias
       text: |-
             - **Junio 2026:**
-              - Presentaré mi trabajo sobre la [expansión de education secondaria en Indonesia](/research/#idn-secondary) en NASM 2026 en Atlanta.
-            <!---
+              - Presentaré mi trabajo sobre la [expansión de la educación secundaria en Indonesia](/es/research/#idn-secondary_es) en NASM 2026 en Atlanta.
             - **Diciembre 2025:** 
               - Nueva versión de nuestro artículo evaluando [capacitación docente a nivel nacional](/es/research/#smk_es) en Indonesia.
               - Presentaré nuestro artículo:
                 - Sobre la interacción entre [educación y habilidades en el trabajo](/es/research/#skill-use_es) en EWMES 2025 en Chipre.
-                - Sobre el [mercado académico estadounidense](/es/research/#akm_es) en SAEe 2025 en Barcelona. -->
+                - Sobre el [mercado académico estadounidense](/es/research/#akm_es) en SAEe 2025 en Barcelona.
             - **Noviembre 2025:** nuestro artículo sobre [salarios del personal académico en universidades de EE.UU.](/es/research/#akm_es) fue aceptado en el *Review of Economics and Statistics*.
             <!---
             - **Septiembre 2025:** La [British Academy](https://www.thebritishacademy.ac.uk/) nos otorgó una [BA/Leverhulme Small Research Grant](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/) para estudiar los efectos a largo plazo del [conflicto armado en la toma de decisiones del hogar](/es/research/#gender-conflict_es). -->
