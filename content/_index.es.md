@@ -30,7 +30,7 @@ sections:
 
         ¡Gracias por visitar mi página web! 
         
-        Soy Investigador Asociado en [RF Berlin](https://www.rfberlin.com/about/) y próximamente me incorporaré a la [Facultad de Economía y Empresa](https://www.fee.urv.cat/en/) de la [Universitat Rovira i Virgili](https://www.urv.cat/en/) como profesor asistente y becario [Beatriz Galindo](https://www.ciencia.gob.es/Convocatorias/2026/BeatrizGalindo2025.html). 
+        Soy Investigador Asociado en [RF Berlin](https://www.rfberlin.com/about/) y próximamente me incorporaré a la [Facultad de Economía y Empresa](https://www.fee.urv.cat/en/) de la [Universitat Rovira i Virgili](https://www.urv.cat/en/) como Profesor Asistente y becario [Beatriz Galindo](https://www.ciencia.gob.es/Convocatorias/2026/BeatrizGalindo2025.html). 
         
         Soy economista laboral y trabajo en temas de **economía laboral** y **economía del desarrollo**. Estoy particularmente interesado en cuestiones relacionadas con el cambio tecnológico, la educación, la desigualdad de género y los beneficios laborales.
 
@@ -65,11 +65,11 @@ sections:
         ***
 
         <br>
-        -->
         ***
 
         **Para estudiantes:** pueden encontrar mi horario de oficina en la sección de [docencia](/teaching/#office-hours_es)
 
+        -->
         ***
     design:
       columns: '1'
