@@ -15,7 +15,7 @@ sections:
         
         I am an Assistant Professor and [Beatriz Galindo](https://www.ciencia.gob.es/Convocatorias/2026/BeatrizGalindo2025.html) grantee at the [Faculty of Business and Economics](https://www.fee.urv.cat/en/) of [Universitat Rovira i Virgili](https://www.urv.cat/en/) in Catalonia. I am also a Research Affiliate at [RF Berlin](https://www.rfberlin.com/about/).
         
-        I am a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to technological change, education, gender inequality, and job amenities.
+        I am a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in education, gender inequality, job choice, and technological change.
 
         I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
         <!--

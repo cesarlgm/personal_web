@@ -15,7 +15,7 @@ sections:
         
         Soy Profesor Asistente e investigador [Beatriz Galindo](https://www.ciencia.gob.es/Convocatorias/2026/BeatrizGalindo2025.html) en la [Facultad de Economía y Empresa](https://www.fee.urv.cat/es/) de la [Universitat Rovira i Virgili](https://www.urv.cat/es/) en Cataluña. También soy Investigador Asociado en [RF Berlin](https://www.rfberlin.com/about/).
         
-        Soy economista laboral y trabajo en temas de **economía laboral** y **economía del desarrollo**. Estoy particularmente interesado en cuestiones relacionadas con el cambio tecnológico, la educación, la desigualdad de género y los beneficios laborales.
+        Soy economista laboral y trabajo en temas de **economía laboral** y **economía del desarrollo**. Estoy particularmente interesado en la educación, la desigualdad de género, la selección ocupacional y el cambio tecnológico.
 
         Obtuve mi doctorado en Economía en la [**Universidad de Boston**](https://www.bu.edu/econ/). Mi nombre se pronuncia [ˈse.saɾ].
         <!--
