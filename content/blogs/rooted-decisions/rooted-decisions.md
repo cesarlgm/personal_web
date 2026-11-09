@@ -6,7 +6,7 @@ draft: false
 summary: "Where a woman grows up shapes women's work decision in adulthood."
 type: page
 authors:
-  - admin
+  - cesar
 tags:
   - Gender Inequality
   - Labor Markets

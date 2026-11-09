@@ -6,7 +6,7 @@ draft: false
 summary: "Un masivo programa de construcción de escuelas públicas en Indonesia aumentó la matrícula, pero benefició desproporcionadamente a los estudiantes ya aventajados, revelando los límites de las políticas educativas centradas en la oferta."
 type: page
 authors:
-  - admin
+  - cesar
 tags:
   - Educación
   - Indonesia

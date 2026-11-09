@@ -4,23 +4,12 @@ summary: List of my work in progress and publications
 ---
 
 
-<head>
-    <style>
-        .hidden {
-            display: none;
-        }
-    </style>
-    <script>
-        function showHideText(id) {
-            var text = document.getElementById(id);
-            if (text.style.display === "none") {
-                text.style.display = "block";
-            } else {
-                text.style.display = "none";
-            }
-        }
-    </script>
-</head>
+<script>
+function showHideText(id) {
+  var text = document.getElementById(id);
+  text.style.display = (text.style.display === "none") ? "block" : "none";
+}
+</script>
 
 
 ## Publications ##

@@ -1,0 +1,44 @@
+# Spanish overrides for data/authors/cesar.yaml (fields not listed here are inherited).
+role: Profesor Asistente
+bio: Soy economista laboral y trabajo en temas de economía laboral y del desarrollo.
+
+affiliations:
+  - name: Universitat Rovira i Virgili
+    url: https://www.fee.urv.cat/es/
+
+links:
+  - icon: at-symbol
+    url: mailto:cesarlgm@bu.edu
+    label: Correo
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0009-8860-8697
+    label: ORCID
+  - icon: academicons/cv
+    url: https://cesarlgm.github.io/documents/profile/cv_cesarlgm_es.pdf
+    label: CV
+  - icon: brands/github
+    url: https://www.github.com/cesarlgm-personal
+    label: GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/cesarlgm
+    label: LinkedIn
+
+interests:
+  - Cambio tecnológico
+  - Educación
+  - Desigualdad de género
+  - Beneficios laborales
+
+education:
+  - degree: Doctorado en Economía
+    institution: Universidad de Boston
+    year: 2023
+  - degree: Máster en Economía y Finanzas
+    institution: CEMFI
+    year: 2017
+  - degree: Licenciatura en Economía (con honores)
+    institution: Universidad de Costa Rica
+    year: 2015
+  - degree: Bachillerato en Economía (con honores)
+    institution: Universidad de Costa Rica
+    year: 2013

@@ -6,7 +6,7 @@ draft: false
 summary: Cuando los empleos agrupan beneficios en paquetes, la idea de que los trabajadores intercambian salario por las prestaciones que más valoran se rompe---y las mujeres terminan en desventaja.
 type: page
 authors:
-  - admin
+  - cesar
 tags:
   - Mercados Laborales
   - Desigualdad de Género

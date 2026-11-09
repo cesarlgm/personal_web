@@ -7,7 +7,7 @@ summary: "Elite universities don't overpay faculty—they operate in a separate,
 
 type: page
 authors:
-  - admin
+  - cesar
 
 tags:
   - Academia

@@ -7,7 +7,7 @@ summary: "Las universidades de élite no pagan de más a sus profesores—operan
 
 type: page
 authors:
-  - admin
+  - cesar
 
 tags:
   - Academia

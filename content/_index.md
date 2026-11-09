@@ -5,38 +5,19 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: about.avatar
+  - block: resume-biography-3
     content:
-      username: admin
-      text: 
-    design:
-      background:
-        color: black
-        text_color_light: true
-        image:
-          # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
-  - block: markdown
-    content:
-      title: 'Welcome'
-      subtitle: ''
+      username: cesar
+      headings:
+        about: 'Welcome'
       text: |-
-
-
         Thank you for visiting my personal webpage! 
         
-        I am a Research Affiliate at [RF Berlin](https://www.rfberlin.com/about/). I will soon join the [Faculty of Business and Economics](https://www.fee.urv.cat/en/) at [Universitat Rovira i Virgili](https://www.urv.cat/en/) in Catalonia as an Assistant Professor and [Beatriz Galindo](https://www.ciencia.gob.es/Convocatorias/2026/BeatrizGalindo2025.html) grantee. 
+        I am an Assistant Professor and [Beatriz Galindo](https://www.ciencia.gob.es/Convocatorias/2026/BeatrizGalindo2025.html) grantee at the [Faculty of Business and Economics](https://www.fee.urv.cat/en/) of [Universitat Rovira i Virgili](https://www.urv.cat/en/) in Catalonia. I am also a Research Affiliate at [RF Berlin](https://www.rfberlin.com/about/).
         
         I am a labor economist working on topics in both **labor** and **development economics**. I am particularly interested in issues related to technological change, education, gender inequality, and job amenities.
 
         I hold a Ph.D. in Economics from [**Boston University**](https://www.bu.edu/econ/). I pronounce my name as [ˈse.saɾ].
-        <br>
-        <br>
         <!--
         ***
         I am on the **2025-2026 Economics Job Market.** 
@@ -68,27 +49,39 @@ sections:
 
         **For students:** you can find my office hours schedule and the link to book a meeting on my [teaching page](/teaching/#office-hours)
         -->
-        ***
     design:
-      columns: '1'
+      background:
+        image:
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filters:
+            brightness: 0.35
+          size: cover
+          position: center
+        text_color_light: true
+      name:
+        size: sm
+      avatar:
+        size: medium
+        shape: circle
   - block: markdown
     id: news
     content:
       title: News
       text: |-
+            - **November 2026:** I joined [Universitat Rovira i Virgili](https://www.urv.cat/en/) as an Assistant Professor and [Beatriz Galindo](https://www.ciencia.gob.es/Convocatorias/2026/BeatrizGalindo2025.html) grantee.
             - **June 2026:**
-              - I will be presenting my paper on [Indonesia's high school expansion](/research/#idn-secondary) at the North American Summer Meeting of the Econometric Society in Atlanta.
+              - I presented my paper on [Indonesia's high school expansion](/research/#idn-secondary) at the North American Summer Meeting of the Econometric Society in Atlanta.
             - **December 2025:** 
               - Revised draft of our paper evaluating a [nationwide teacher training](/research/#smk) in Indonesia.
-              - I will be presenting our paper:
+              - I presented our paper:
                 - On the interaction between [education and skills at work](/research/#skill-use) at the EWMES 2025 in Cyprus.
                 - On the [US academic market](/research/#akm) at SAEe 2025 in Barcelona.
-            - **November 2025:** our paper on  [faculty pay in US academia](/research/#akm) was accepted at the *Review of Economics and Statistics*.
+            - **November 2025:** our paper on [faculty pay in US academia](/research/#akm) was accepted at the *Review of Economics and Statistics*.
             <!--- - **September 2025:** The [British Academy](https://www.thebritishacademy.ac.uk/) awarded us a [BA/Leverhulme Small Research Grant](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/) to study the long-term effects of [violent conflict on household decision making](/research/#gender-conflict).
              **August 2025:** New draft of our paper studying [salaries of US academics](/research/#akm).
-            - **June 2025:** I will presenting our paper on the interaction between [education and skills at work](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
+            - **June 2025:** I will be presenting our paper on the interaction between [education and skills at work](/research/#skill-use) at the AASLE-SOLE-EALE Joint Conference in Toronto.
             - **May 2025:** Our paper on [trade offs of workplace amenities](/research/#amenities) was published in *AEA Papers and Proceedings*. 
             - **March 2025:** New draft of our paper studying a [teacher training intervention](/research/#smk) in Indonesian vocational high schools. -->
-      design:
+    design:
       columns: '1'
 ---

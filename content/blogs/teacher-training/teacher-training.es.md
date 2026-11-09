@@ -6,7 +6,7 @@ draft: false
 summary: "Un experimento riguroso en Indonesia encuentra que un ambicioso programa de capacitación docente no tuvo efecto medible, y revela un riesgo oculto al expandir el desarrollo profesional a gran escala."
 type: page
 authors:
-  - admin
+  - cesar
 tags:
   - Educación
   - Capacitación Docente

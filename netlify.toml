@@ -1,19 +1,23 @@
+# Hugo Blox (Tailwind) build. Hugo version must match hugoblox.yaml.
 [build]
-  command = "hugo --gc --minify -b $URL"
+  command = "pnpm install --no-frozen-lockfile && hugo --gc --minify -b $URL && pnpm run pagefind"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.120.4"
+  HUGO_VERSION = "0.162.0"
+  GO_VERSION = "1.21.5"
+  NODE_VERSION = "22"
+  PNPM_FLAGS = "--no-frozen-lockfile"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+  command = "pnpm install --no-frozen-lockfile && hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL && pnpm run pagefind"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "pnpm install --no-frozen-lockfile && hugo --gc --minify -b $DEPLOY_PRIME_URL && pnpm run pagefind"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"

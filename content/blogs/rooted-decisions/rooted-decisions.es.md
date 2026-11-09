@@ -6,7 +6,7 @@ draft: false
 summary: "El lugar donde creció una mujer influye en su decisión de trabajar en la adultez."
 type: page
 authors:
-  - admin
+  - cesar
 tags:
   - Desigualdad de Género
   - Mercados Laborales
