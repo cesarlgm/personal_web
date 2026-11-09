@@ -61,7 +61,7 @@ sections:
       name:
         size: sm
       avatar:
-        size: xl
+        size: large
         shape: circle
   - block: markdown
     id: news
