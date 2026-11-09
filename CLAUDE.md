@@ -27,11 +27,11 @@ On César's PC, Hugo 0.162.0 is at `C:\Users\thecs\tools\hugo-0.162.0\hugo.exe` 
 All content lives in `content/`. Spanish versions use the `.es.md` suffix alongside the English original (e.g., `_index.md` / `_index.es.md`). English is always the authoritative master; Spanish files mirror the same front matter fields and structure.
 
 Key files:
-- `content/_index.md`: homepage. Hugo Blox blocks in the `sections:` front matter list: `resume-biography` (centered hero: photo, name, role, affiliation, links; bio hidden), a centered `markdown` block with the welcome text, and a two-column `markdown` block for News (`design.columns: '2'`, see below).
+- `content/_index.md`: homepage. Hugo Blox blocks in the `sections:` front matter list: `resume-biography-3` (two-column hero: photo, name, role, affiliation and links on the left; welcome text in `content.text` and interests on the right; no education, so none is listed in the author data) and a two-column `markdown` block for News (`design.columns: '2'`, see below).
 - `content/research/_index.md`: research page (raw HTML, see below)
 - `content/teaching/_index.md`: teaching page (raw HTML, same classes)
 - `content/contact.md`: `contact-info` block
-- `data/authors/cesar.yaml`: profile (name, role, affiliation, links, interests, education). Spanish overrides in `data/es/authors/cesar.yaml` (only the translated fields). Photo: `assets/media/authors/cesar.jpg`.
+- `data/authors/cesar.yaml`: profile (name, role, affiliation, links, interests; an `education:` list would show on the homepage). Spanish overrides in `data/es/authors/cesar.yaml` (only the translated fields). Photo: `assets/media/authors/cesar.jpg`.
 - `content/blogs/`: published non-technical summaries, linked from the research page (`authors: [cesar]`).
 
 ### Research and teaching pages

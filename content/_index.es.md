@@ -5,27 +5,11 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography
+  - block: resume-biography-3
     content:
       username: cesar
-    design:
-      background:
-        image:
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-        text_color_light: true
-      biography:
-        style: 'display: none'  # the welcome text is in its own section below
-      avatar:
-        size: medium
-        shape: circle
-  - block: markdown
-    content:
-      title: 'Bienvenido(a)'
-      subtitle: ''
+      headings:
+        about: 'Bienvenido(a)'
       text: |-
         ¡Gracias por visitar mi página web! 
         
@@ -68,13 +52,24 @@ sections:
 
         -->
     design:
-      columns: '1'
+      background:
+        image:
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filters:
+            brightness: 0.35
+          size: cover
+          position: center
+        text_color_light: true
+      name:
+        size: sm
+      avatar:
+        size: medium
+        shape: circle
   - block: markdown
     id: news
     content:
       title: Noticias
       text: |-
-            - **Noviembre 2026:** Me incorporé a la [Universitat Rovira i Virgili](https://www.urv.cat/es/) como Profesor Asistente e investigador [Beatriz Galindo](https://www.ciencia.gob.es/Convocatorias/2026/BeatrizGalindo2025.html).
             - **Junio 2026:**
               - Presenté mi trabajo sobre la [expansión de la educación secundaria en Indonesia](/es/research/#idn-secondary_es) en NASM 2026 en Atlanta.
             - **Diciembre 2025:** 
