@@ -4,70 +4,74 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-A Hugo-based personal academic website for César Garro-Marín ([cesargarromarin.com](https://www.cesargarromarin.com/)), built on the [Wowchemy](https://wowchemy.com/) v5 theme. Deployed on Netlify. Supports English (default) and Spanish.
+A Hugo-based personal academic website for César Garro-Marín ([cesargarromarin.com](https://www.cesargarromarin.com/)), built on [Hugo Blox Kit](https://hugoblox.com/) (Tailwind CSS v4, `blox` module, Academic CV template). Deployed on Netlify. Supports English (default) and Spanish.
 
 ## Commands
 
+Needs Hugo Extended **0.162.0** (pinned in `netlify.toml` and `hugoblox.yaml`; newer Hugo releases
+block the Tailwind CLI under their default security policy), Go, Node 22+ and pnpm.
+
 ```bash
-# Local development server
-hugo server
-
-# Production build (matches Netlify)
-hugo --gc --minify
-
-# Build with future-dated content (matches Netlify deploy previews)
-hugo --gc --minify --buildFuture
+pnpm install                 # Tailwind CLI and Pagefind (first time, or after package.json changes)
+hugo server                  # local preview
+hugo --gc --minify           # production build (matches Netlify)
+pnpm run pagefind            # build the search index after a production build
 ```
 
-Hugo version: **0.120.4** (pinned in `netlify.toml`).
+On César's PC, Hugo 0.162.0 is at `C:\Users\thecs\tools\hugo-0.162.0\hugo.exe` (the `hugo` on PATH is newer).
 
 ## Architecture
 
 ### Content and bilingual structure
 
-All content lives in `content/`. Spanish versions use the `.es.md` suffix alongside the English original (e.g., `_index.md` / `_index.es.md`). English is always the authoritative master; Spanish files mirror the same frontmatter fields and structure.
+All content lives in `content/`. Spanish versions use the `.es.md` suffix alongside the English original (e.g., `_index.md` / `_index.es.md`). English is always the authoritative master; Spanish files mirror the same front matter fields and structure.
 
-Key content files:
-- `content/_index.md` — homepage (landing page with avatar, welcome text, news sections)
-- `content/research/_index.md` — research page (publications, working papers, work in progress)
-- `content/teaching/_index.md` — teaching page
-- `content/authors/admin/_index.md` — profile data (name, role, social links)
+Key files:
+- `content/_index.md`: homepage. Hugo Blox blocks in the `sections:` front matter list: `resume-biography-3` (hero: photo, name, links, welcome text in `content.text`, education, interests) and a `markdown` block for News.
+- `content/research/_index.md`: research page (raw HTML, see below)
+- `content/teaching/_index.md`: teaching page (raw HTML, same classes)
+- `content/contact.md`: `contact-info` block
+- `data/authors/cesar.yaml`: profile (name, role, affiliation, links, interests, education). Spanish overrides in `data/es/authors/cesar.yaml` (only the translated fields). Photo: `assets/media/authors/cesar.jpg`.
+- `content/blogs/`: published non-technical summaries, linked from the research page (`authors: [cesar]`).
 
-### Homepage vs research page structure
+### Research and teaching pages
 
-The **homepage** (`content/_index.md`) uses Wowchemy's block system: content is declared as a `sections:` list in the YAML frontmatter, each entry being a named block type (e.g., `block: about.avatar`, `block: markdown`). No raw HTML.
+Both are raw HTML embedded in Markdown, kept from the Wowchemy site. Each paper is a `<div class="media stream-item">` with:
+- An anchor `id` on the title div (deep links from the homepage News; Spanish anchors end in `_es`)
+- A `showHideText(id)` onclick button to toggle the abstract (`<p class="hidden" style="display: none">`); the script is at the top of the research page
+- A paper image from `content/research/images/` (the `_blue.png` variant is the one linked)
 
-The **research page** (`content/research/_index.md`) is written as raw HTML embedded in Markdown — a deliberate workaround because Wowchemy's standard publication blocks didn't meet the design requirements. Each paper uses a `<div class="media stream-item">` block with:
-- An anchor `id` on the title div (used for deep links from the homepage news section)
-- A `showHideText(id)` onclick button to toggle abstract visibility
-- Abstract in a `<p>` with `style="display: none"` (the `.hidden` class is set via `<head>` inline styles at the top of the file)
-- A paper image from `content/research/images/`; images come in pairs — a default and a `_blue.png` variant (the blue variant is the one linked in the HTML)
+The Bootstrap-era classes (`media`, `stream-item`, `btn btn-outline-primary`, ...) are styled in
+`assets/css/custom.css`, which also widens these pages. Do not add a global `.hidden` rule: it
+overrides Tailwind's `lg:flex` and hides the navbar menu.
 
 ### Configuration layout
 
-Config is split across `config/_default/`:
-- `config.yaml` — languages, modules, Hugo settings
-- `params.yaml` — appearance (theme, font), header/footer, feature toggles
-- `menus.yaml` / `menus.es.yaml` — navigation links per language
+`config/_default/`:
+- `hugo.yaml`: Hugo settings (URL, outputs, taxonomies, imaging)
+- `params.yaml`: Hugo Blox settings (`hugoblox:` identity, theme, header, footer, search)
+- `languages.yaml`: en and es
+- `menus.yaml` / `menus.es.yaml`: navigation per language
+- `module.yaml`: Hugo Blox modules
 
-Custom color theme: `data/themes/custom.toml`.
+Colors: `data/themes/cgm.yaml` (navy `#0B0C6B` header, red-orange `#dd2c00` primary; light and dark).
+Fonts: the `academic` pack (Lora, Source Serif).
 
-### Blog posts
+### Local override of a theme bug
 
-`content/research/blog/` contains non-technical explainers for each paper (one `.md` per paper). All are marked `draft: true` and are never published. They exist as reference material and are not linked from anywhere on the site.
+`layouts/_partials/functions/build_links.html` is a copy of the theme file without the line
+`{{ $seen.Set "set" (dict) }}`, which fails on Hugo 0.161+ ("assignment to entry in nil map").
+Delete the override once the upstream `blox` module fixes it (check after `hugo mod get -u`).
 
-### GitHub agents and skills
+### Blog drafts
 
-`.github/agents/bilingual-content-auditor.agent.md` — audits bilingual content quality and EN/ES sync; read-only, never edits files.
+`content/research/blog/` (if present) holds non-technical explainer drafts marked `draft: true`; they are never published or linked.
 
-`.github/agents/proofreader.md` — sub-agent invoked by the `proofread` skill to review a single file for grammar, typos, and consistency.
+### Claude skills and agents
 
-`.claude/skills/` — six skills (invoke via `/skill-name`):
-- `proofread [filename|all]` — runs proofreading and saves reports to `quality_reports/`
-- `bilingual-sync [base_name]` — checks EN/ES synchronization for a given content file
-- `plan-work [start-of-day|end-of-day|review]` — manages `workplan.md` in the repo root as a daily task tracker
-- `draft-blog <paper-id>` — drafts a VoxEU-style general-audience blog post for a paper; `paper-id` is the anchor ID from `content/research/_index.md` (e.g., `akm`, `amenities`, `idn-secondary`)
-- `edit-blog <filename>` — reviews a blog post in `content/research/blog/` and suggests revisions for clarity, grammar, flow, and VoxEU audience alignment; never edits the file directly
-- `draft-code <file-path>` — finds every `[placeholder]` and `TODO:` marker in a file and implements each one in place
+This repo is managed from the parent folder `profile_documents/` (see `../CLAUDE.md`). Its skills and
+agents live in `../.claude/`: `/review-website` (proofreading + EN/ES sync), `/draft-blog`, `/edit-blog`,
+`/edit-file` (bracket and TODO notes), and `/sync-repo` for pushing. Facts about César come from
+`../document_generation/experience_master/`; run Claude from `profile_documents/` so those skills load.
 
 Quality reports from these skills are stored in `quality_reports/`.

@@ -1,0 +1,40 @@
+# Theme pack built from the previous site's colors (Wowchemy custom theme).
+hugoblox:
+  meta:
+    format: "hugoblox-theme@1"
+    name: "CGM"
+    vendor: "cesarlgm"
+    version: "1.0.0"
+    license: "MIT"
+
+  type: "dual"
+
+  light:
+    colors:
+      primary: "#dd2c00"     # links and buttons (red-orange)
+      secondary: "#0B0C6B"   # navy
+      neutral: "slate"
+    surfaces:
+      background: "#ffffff"
+      foreground: "#111827"
+      header:
+        background: "#0B0C6B"
+        foreground: "#ffffff"
+      footer:
+        background: "#f3f4f6"
+        foreground: "#0f172a"
+
+  dark:
+    colors:
+      primary: "#ff6e40"     # lighter red-orange, readable on dark
+      secondary: "#8c8ee8"
+      neutral: "slate"
+    surfaces:
+      background: "#0b1020"
+      foreground: "#f1f5f9"
+      header:
+        background: "#0B0C6B"
+        foreground: "#ffffff"
+      footer:
+        background: "#0b1020"
+        foreground: "#e2e8f0"

@@ -6,7 +6,7 @@ draft: false
 summary: When jobs bundle benefits into packages, the simple story of workers trading wages for the perks they value most breaks down — and women end up worse off.
 type: page
 authors:
-  - admin
+  - cesar
 tags:
   - Labor Markets
   - Gender Inequality

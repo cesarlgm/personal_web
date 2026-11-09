@@ -6,7 +6,7 @@ draft: false
 summary: "A rigorous experiment in Indonesia finds that an ambitious teacher training program had no measurable effect---and reveals a hidden risk in scaling up professional development."
 type: page
 authors:
-  - admin
+  - cesar
 tags:
   - Education
   - Teacher Training

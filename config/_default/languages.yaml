@@ -1,0 +1,11 @@
+# Languages. English is the master; Spanish pages sit next to it as <name>.es.md.
+en:
+  locale: en-us
+  label: ENG
+  title: César Garro-Marín
+  weight: 1
+es:
+  locale: es
+  label: ESP
+  title: César Garro-Marín
+  weight: 2

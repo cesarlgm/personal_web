@@ -4,3 +4,12 @@ quality_reports/*
 *workplan.md
 
 .claude/*
+# Hugo Blox build output and dependencies
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+**/assets/jsconfig.json
+node_modules/
+pagefind/
+static/pagefind/

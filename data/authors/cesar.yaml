@@ -1,0 +1,50 @@
+schema: hugoblox/author/v1
+slug: cesar
+is_owner: true
+name:
+  display: César Garro-Marín
+  given: César
+  family: Garro-Marín
+role: Assistant Professor
+bio: I am a labor economist working on topics in labor and development economics.
+
+affiliations:
+  - name: Universitat Rovira i Virgili
+    url: https://www.fee.urv.cat/en/
+
+links:
+  - icon: at-symbol
+    url: mailto:cesarlgm@bu.edu
+    label: E-mail
+  - icon: academicons/orcid
+    url: https://orcid.org/0009-0009-8860-8697
+    label: ORCID
+  - icon: academicons/cv
+    url: https://cesarlgm.github.io/documents/profile/cv_cesarlgm.pdf
+    label: CV
+  - icon: brands/github
+    url: https://www.github.com/cesarlgm-personal
+    label: GitHub
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/cesarlgm
+    label: LinkedIn
+
+interests:
+  - Technological change
+  - Education
+  - Gender inequality
+  - Job amenities
+
+education:
+  - degree: Ph.D., Economics
+    institution: Boston University
+    year: 2023
+  - degree: Master's, Economics and Finance
+    institution: CEMFI
+    year: 2017
+  - degree: Licentiate, Economics (with Honors)
+    institution: University of Costa Rica
+    year: 2015
+  - degree: B.A., Economics (with Honors)
+    institution: University of Costa Rica
+    year: 2013

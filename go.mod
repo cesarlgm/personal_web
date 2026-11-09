@@ -1,10 +1,8 @@
-module github.com/wowchemy/starter-academic-pages
+module github.com/cesarlgm/personal_web
 
-go 1.15
+go 1.21
 
 require (
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify v1.0.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms v1.0.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal v1.0.0 // indirect
-	github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5 v5.7.1-0.20221025214855-5dcefaa0c593
+	github.com/HugoBlox/kit/modules/blox v0.0.0-20260527025321-61f41d3667f1
+	github.com/HugoBlox/kit/modules/integrations/netlify v1.3.0
 )

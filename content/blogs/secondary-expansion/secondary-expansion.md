@@ -6,7 +6,7 @@ draft: false
 summary: "A massive public school building program in Indonesia raised enrollment but disproportionately benefited already-advantaged students, revealing the limits of supply-side education policy."
 type: page
 authors:
-  - admin
+  - cesar
 tags:
   - Education
   - Indonesia

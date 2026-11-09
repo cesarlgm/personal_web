@@ -5,12 +5,11 @@ Thank you for visiting!
 
 This repository builds my personal website  ([cesargarromarin.com/](https://www.cesargarromarin.com/)).
 
-The repository is customized version of  [Hugo themes](https://github.com/gohugoio/hugo) and the website theme created
-by [Geo Cushen](https://github.com/cesarlgm/personal_web?tab=readme-ov-file#readme).
+The site is built with [Hugo](https://gohugo.io/) and [Hugo Blox Kit](https://hugoblox.com/) (Tailwind CSS).
 
 The website supports versions in English and Spanish.
 
 
-For any question, contact me at [cgarrom@ed.ac.uk](mailto:cgarrom@ed.ac.uk).
+For any question, contact me at [cesarlgm@bu.edu](mailto:cesarlgm@bu.edu).
 
 
