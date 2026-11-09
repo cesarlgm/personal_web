@@ -9,7 +9,7 @@ sections:
       title: Contacto
       username: cesar
       text: La mejor forma de contactarme es por correo electrónico.
-      email: cesarlgm@bu.edu
+      email: cesarluis.garro@urv.cat
       # Dirección de oficina en la URV: añadir aquí cuando se conozca.
       social:
         - icon: brands/linkedin

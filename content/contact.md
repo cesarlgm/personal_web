@@ -9,7 +9,7 @@ sections:
       title: Contact
       username: cesar
       text: The best way to reach me is by email.
-      email: cesarlgm@bu.edu
+      email: cesarluis.garro@urv.cat
       # Office address at URV: add here once known (street, city, region, postcode, country).
       social:
         - icon: brands/linkedin
