@@ -62,7 +62,7 @@ article.prose:has(.universal-wrapper) hr {
 
 .article-title,
 .section-subheading.article-title {
-  font-family: var(--font-heading, inherit);
+  font-family: var(--hb-font-heading);
   font-size: 1.2rem;
   font-weight: 600;
   line-height: 1.35;
@@ -148,6 +148,36 @@ article.prose:has(.universal-wrapper) hr {
   }
 }
 
+/* Homepage hero (resume-biography block): sizes closer to the Wowchemy about.avatar block */
+#profile.resume-biography {
+  padding: 2.5rem 1rem 3rem;
+}
+#profile.resume-biography > .text-3xl,
+#profile.resume-biography > h1 {
+  font-family: var(--hb-font-heading);
+  font-size: 2.4rem;
+  line-height: 1.2;
+}
+#profile.resume-biography > h3 {
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 0.25rem;
+}
+#profile.resume-biography > .mb-2:not(.text-3xl) {
+  font-size: 1.15rem; /* affiliation; the name div also has mb-2 */
+}
+#profile.resume-biography .network-icon {
+  gap: 1.1rem;
+  margin-top: 1rem;
+}
+#profile.resume-biography .network-icon li {
+  margin-right: 0;
+}
+#profile.resume-biography .network-icon svg {
+  height: 2rem !important;
+  width: auto;
+}
+
 /* Last-modified shortcode (blog posts) */
 .last-modified-shortcode {
   display: inline-block;
@@ -155,4 +185,12 @@ article.prose:has(.universal-wrapper) hr {
   background-color: var(--color-neutral-100, #f1f5f9);
   border-radius: 0.25rem;
   font-size: 0.875rem;
+}
+
+/* Menu and site name in Lora (heading font), as on the Wowchemy site. Set here rather than as a
+   font-pack `nav` family, which would request Lora twice from Google Fonts. */
+#nav-menu,
+.navbar-brand,
+header nav a {
+  font-family: var(--hb-font-heading);
 }

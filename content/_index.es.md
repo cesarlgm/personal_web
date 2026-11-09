@@ -5,11 +5,27 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       username: cesar
-      headings:
-        about: 'Bienvenido(a)'
+    design:
+      background:
+        image:
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+        text_color_light: true
+      biography:
+        style: 'display: none'  # the welcome text is in its own section below
+      avatar:
+        size: medium
+        shape: circle
+  - block: markdown
+    content:
+      title: 'Bienvenido(a)'
+      subtitle: ''
       text: |-
         ¡Gracias por visitar mi página web! 
         
@@ -52,19 +68,7 @@ sections:
 
         -->
     design:
-      background:
-        image:
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
-          filters:
-            brightness: 0.35
-          size: cover
-          position: center
-        text_color_light: true
-      name:
-        size: sm
-      avatar:
-        size: medium
-        shape: circle
+      columns: '1'
   - block: markdown
     id: news
     content:
@@ -82,5 +86,5 @@ sections:
             <!---
             - **Septiembre 2025:** La [British Academy](https://www.thebritishacademy.ac.uk/) nos otorgó una [BA/Leverhulme Small Research Grant](https://www.thebritishacademy.ac.uk/funding/schemes/ba-leverhulme-small-research-grants/) para estudiar los efectos a largo plazo del [conflicto armado en la toma de decisiones del hogar](/es/research/#gender-conflict_es). -->
     design:
-      columns: '1'
+      columns: '2'
 ---

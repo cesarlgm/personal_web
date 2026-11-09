@@ -1,0 +1,34 @@
+# Font pack matching the old Wowchemy site ("Rose": Lora headings and menu, Roboto body).
+hugoblox:
+  meta:
+    format: "hugoblox-font@1"
+    name: "Rose"
+    vendor: "cesarlgm"
+    version: "1.0.0"
+    license: "MIT"
+    style: "mixed"
+    description: "Lora headings and navigation with Roboto body text, as on the Wowchemy site"
+
+  families:
+    heading: "Lora"
+    body: "Roboto"
+    code: "Cutive Mono"
+
+  weights:
+    heading: [400, 700]
+    body: [400, 700]
+    code: [400]
+
+  leading:
+    heading: 1.2
+    body: 1.7
+    code: 1.5
+
+  tracking:
+    heading: "0"
+    body: "0"
+
+  variable:
+    heading: false
+    body: false
+    code: false

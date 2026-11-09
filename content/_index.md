@@ -5,11 +5,27 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography-3
+  - block: resume-biography
     content:
       username: cesar
-      headings:
-        about: 'Welcome'
+    design:
+      background:
+        image:
+          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+        text_color_light: true
+      biography:
+        style: 'display: none'  # the welcome text is in its own section below
+      avatar:
+        size: medium
+        shape: circle
+  - block: markdown
+    content:
+      title: 'Welcome'
+      subtitle: ''
       text: |-
         Thank you for visiting my personal webpage! 
         
@@ -50,19 +66,7 @@ sections:
         **For students:** you can find my office hours schedule and the link to book a meeting on my [teaching page](/teaching/#office-hours)
         -->
     design:
-      background:
-        image:
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
-          filters:
-            brightness: 0.35
-          size: cover
-          position: center
-        text_color_light: true
-      name:
-        size: sm
-      avatar:
-        size: medium
-        shape: circle
+      columns: '1'
   - block: markdown
     id: news
     content:
@@ -83,5 +87,5 @@ sections:
             - **May 2025:** Our paper on [trade offs of workplace amenities](/research/#amenities) was published in *AEA Papers and Proceedings*. 
             - **March 2025:** New draft of our paper studying a [teacher training intervention](/research/#smk) in Indonesian vocational high schools. -->
     design:
-      columns: '1'
+      columns: '2'
 ---

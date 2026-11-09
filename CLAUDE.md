@@ -27,7 +27,7 @@ On César's PC, Hugo 0.162.0 is at `C:\Users\thecs\tools\hugo-0.162.0\hugo.exe` 
 All content lives in `content/`. Spanish versions use the `.es.md` suffix alongside the English original (e.g., `_index.md` / `_index.es.md`). English is always the authoritative master; Spanish files mirror the same front matter fields and structure.
 
 Key files:
-- `content/_index.md`: homepage. Hugo Blox blocks in the `sections:` front matter list: `resume-biography-3` (hero: photo, name, links, welcome text in `content.text`, education, interests) and a `markdown` block for News.
+- `content/_index.md`: homepage. Hugo Blox blocks in the `sections:` front matter list: `resume-biography` (centered hero: photo, name, role, affiliation, links; bio hidden), a centered `markdown` block with the welcome text, and a two-column `markdown` block for News (`design.columns: '2'`, see below).
 - `content/research/_index.md`: research page (raw HTML, see below)
 - `content/teaching/_index.md`: teaching page (raw HTML, same classes)
 - `content/contact.md`: `contact-info` block
@@ -55,9 +55,19 @@ overrides Tailwind's `lg:flex` and hides the navbar menu.
 - `module.yaml`: Hugo Blox modules
 
 Colors: `data/themes/cgm.yaml` (navy `#0B0C6B` header, red-orange `#dd2c00` primary; light and dark).
-Fonts: the `academic` pack (Lora, Source Serif).
+Fonts: `data/fonts/rose.yaml` (Lora headings and menu, Roboto body; same as the Wowchemy "rose" pack).
 
-### Local override of a theme bug
+### Local markdown block
+
+`layouts/_partials/hbx/blocks/markdown/block.html` overrides the theme's markdown block to add
+`design.columns: '2'` (title in a left column, text on the right; the Wowchemy layout). One column is
+unchanged from the theme.
+
+### Local overrides of theme bugs
+
+- `layouts/_partials/functions/typography.html`: line 145 joins font weights with `;` instead of `,`.
+  With `,` Google Fonts rejects the request (HTTP 400) and no web fonts load.
+- `layouts/_partials/functions/build_links.html`: see below.
 
 `layouts/_partials/functions/build_links.html` is a copy of the theme file without the line
 `{{ $seen.Set "set" (dict) }}`, which fails on Hugo 0.161+ ("assignment to entry in nil map").

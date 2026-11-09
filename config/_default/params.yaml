@@ -16,7 +16,7 @@ hugoblox:
     pack: "cgm"           # data/themes/cgm.yaml: navy and red-orange from the previous site
 
   typography:
-    pack: "academic"      # Lora headings, Source Serif body
+    pack: "rose"          # data/fonts/rose.yaml: Lora headings, Roboto body (old site)
 
   layout:
     radius: "md"
